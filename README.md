@@ -11030,7 +11030,7 @@
     },
     "Planet Buster Scott": {
         "Type": "Nuke Stun + Passive",
-        "Image": "rbxassetid://89049349505606",
+        "Image": "rbxassetid://95147511035404",
         "Rarity": "Apex",
         "PlacePrice": 50000,
         "Offset": 0,
@@ -11204,7 +11204,7 @@
     },
     "Overseer Lolbit": {
         "Type": "Damage + Cooldown Boost",
-        "Image": "rbxassetid://139829283293732",
+        "Image": "rbxassetid://71338140432142",
         "Rarity": "Nightmare",
         "PlacePrice": 800,
         "Offset": 0,
