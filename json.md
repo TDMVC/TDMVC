@@ -1,4 +1,42 @@
 {
+ "Yolly Freddy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16620303027",
+        "Rarity": "Uncommon",
+        "PlacePrice": 100,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 12,
+                "Damage": 75,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 14,
+                "Damage": 90,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 16,
+                "Damage": 105,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
