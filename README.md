@@ -39,7 +39,7 @@
     },
      "Iced Candy Freddy": {
         "Type": "Freez",
-        "Image": "rbxassetid://84172033843034",
+        "Image": "rbxassetid://127045522874767",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 3,
