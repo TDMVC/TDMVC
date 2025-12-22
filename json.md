@@ -1,7 +1,7 @@
 {
  "Yolly Freddy": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16620303027",
+        "Image": "rbxassetid://116159060262577",
         "Rarity": "Uncommon",
         "PlacePrice": 100,
         "Max": 3,
