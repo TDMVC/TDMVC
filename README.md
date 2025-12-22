@@ -1,6 +1,6 @@
 {
  "Yolly Freddy": {
-        "Type": "Explosion",
+        "Type": "Yolly",
         "Image": "rbxassetid://116159060262577",
         "Rarity": "Uncommon",
         "PlacePrice": 100,
@@ -34,6 +34,44 @@
                 "Range": 16,
                 "Damage": 105,
                 "Cooldown": 0.5
+            }
+        ]
+    },
+     "Iced Candy Freddy": {
+        "Type": "Freez",
+        "Image": "rbxassetid://116159060262577",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 55,
+                "Damage": 450,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 60,
+                "Damage": 475,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1200,
+                "Range": 60,
+                "Damage": 500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 1500,
+                "Range": 65,
+                "Damage": 550,
+                "Cooldown": 0.1
             }
         ]
     },
