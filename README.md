@@ -38,7 +38,7 @@
         ]
     },
      "Bouncer": {
-        "Type": Snow",
+        "Type": "Snow",
         "Image": "rbxassetid://111690369757083",
         "Rarity": "Nightmare",
         "PlacePrice": 4000,
