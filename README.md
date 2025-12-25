@@ -37,6 +37,54 @@
             }
         ]
     },
+     "Bouncer": {
+        "Type": Snow",
+        "Image": "rbxassetid://111690369757083",
+        "Rarity": "Nightmare",
+        "PlacePrice": 4000,
+        "Offset": 0.75,
+        "Max": 2,
+        "Passive": {"Name": "Chills", "Description": "Attacks slow enemies by 60% for 1.5 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 700,
+                "Cooldown": 0.25,
+                "Slow": 0.4,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 5000,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 0.25,
+                "Slow": 0.4,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 8000,
+                "Range": 32,
+                "Damage": 1300,
+                "Cooldown": 0.25,
+                "Slow": 0.4,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 10000,
+                "Range": 35,
+                "Damage": 1625,
+                "Cooldown": 0.25,
+                "Slow": 0.4,
+                "SlowTime": 1.5
+            }
+        ]
+    },
      "Iced Candy Freddy": {
         "Type": "Freez",
         "Image": "rbxassetid://127045522874767",
