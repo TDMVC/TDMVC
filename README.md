@@ -85,6 +85,54 @@
             }
         ]
     },
+     "GuardFoxy": {
+        "Type": "Starter",
+        "Image": "rbxassetid://111690369757083",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": 0.75,
+        "Max": 2,
+        "Passive": {"Name": "Cool", "Description": "Best Starter Right Now."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 200,
+                "Cooldown": 0.5,
+                "Slow": 0.4,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 500,
+                "Range": 34,
+                "Damage": 250,
+                "Cooldown": 0.4,
+                "Slow": 0.4,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 600,
+                "Range": 36,
+                "Damage": 345,
+                "Cooldown": 0.35,
+                "Slow": 0.4,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 700,
+                "Range": 38,
+                "Damage": 450,
+                "Cooldown": 0.3,
+                "Slow": 0.4,
+                "SlowTime": 1.5
+            }
+        ]
+    },
      "Iced Candy Freddy": {
         "Type": "Freez",
         "Image": "rbxassetid://127045522874767",
