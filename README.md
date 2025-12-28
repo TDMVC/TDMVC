@@ -223,25 +223,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 55,
+                "Range": 30,
                 "Damage": 450,
                 "Cooldown": 1
             },
             {
                 "Price": 800,
-                "Range": 60,
+                "Range": 35,
                 "Damage": 475,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1200,
-                "Range": 60,
+                "Range": 36,
                 "Damage": 500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 1500,
-                "Range": 65,
+                "Range": 37,
                 "Damage": 550,
                 "Cooldown": 0.1
             }
@@ -750,7 +750,7 @@
         ]
     },
     "Shadow Freddy": {
-        "Type": "AOE",
+        "Type": "Fast",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -920,7 +920,7 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 600,
+                "Damage": 300,
                 "Cooldown": 0.25,
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
@@ -929,7 +929,7 @@
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 700,
+                "Damage": 450,
                 "Cooldown": 0.25,
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
@@ -938,7 +938,7 @@
             {
                 "Price": 8000,
                 "Range": 22,
-                "Damage": 820,
+                "Damage": 550,
                 "Cooldown": 0.25,
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
@@ -947,7 +947,7 @@
             {
                 "Price": 10000,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 650,
                 "Cooldown": 0.25,
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
@@ -1091,25 +1091,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 75,
                 "Cooldown": 0.3
             },
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 125,
+                "Damage": 90,
                 "Cooldown": 0.2
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 150,
+                "Damage": 100,
                 "Cooldown": 0.1
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 175,
+                "Damage": 125,
                 "Cooldown": 0.05
             }
         ]
@@ -1311,7 +1311,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 75,
+                "Damage": 40,
                 "Cooldown": 0.3,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -1319,7 +1319,7 @@
             {
                 "Price": 1200,
                 "Range": 16,
-                "Damage": 80,
+                "Damage": 45,
                 "Cooldown": 0.3,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -1327,7 +1327,7 @@
             {
                 "Price": 1600,
                 "Range": 17,
-                "Damage": 95,
+                "Damage": 50,
                 "Cooldown": 0.3,
                 "Slow": 0.7,
                 "SlowTime": 1
@@ -1335,7 +1335,7 @@
             {
                 "Price": 2000,
                 "Range": 18,
-                "Damage": 110,
+                "Damage": 55,
                 "Cooldown": 0.25,
                 "Slow": 0.6,
                 "SlowTime": 1
