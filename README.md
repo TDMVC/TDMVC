@@ -75,6 +75,44 @@
             }
         ]
     },
+     "Bronze Chica": {
+        "Type": "NR 1 PlayTime",
+        "Image": "rbxassetid://116159060262577",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 5,
+                "Damage": 560,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 7,
+                "Damage": 800,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 9,
+                "Damage": 1300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 13,
+                "Damage": 4560,
+                "Cooldown": 1
+            }
+        ]
+    },
      "Bouncer": {
         "Type": "Snow",
         "Image": "rbxassetid://111690369757083",
