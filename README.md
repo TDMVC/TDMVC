@@ -1459,7 +1459,7 @@
         ]
     },
     "Hawaii Endo 02": {
-        "Type": "Support",
+        "Type": "Secretly OP",
         "Image": "rbxassetid://18255863130",
         "Rarity": "Epic",
         "PlacePrice": 1000,
@@ -1474,29 +1474,29 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
+                "Damage": 10,
+                "Cooldown": 0.01,
                 "RangeBoost": 1.8
             },
             {
                 "Price": 1200,
                 "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
+                "Damage": 12,
+                "Cooldown": 0.01,
                 "RangeBoost": 1.85
             },
             {
                 "Price": 1400,
                 "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
+                "Damage": 14,
+                "Cooldown": 0.01,
                 "RangeBoost": 1.9
             },
             {
                 "Price": 1800,
                 "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
+                "Damage": 16,
+                "Cooldown": 0.01,
                 "RangeBoost": 2.95
             }
         ]
