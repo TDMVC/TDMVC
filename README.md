@@ -1001,7 +1001,7 @@
         ]
     },
     "Rockin Bonnie": {
-        "Type": "AOE",
+        "Type": "Fast",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -1016,25 +1016,25 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 0.5
+                "Cooldown": 0.3
             },
             {
                 "Price": 800,
                 "Range": 18,
                 "Damage": 125,
-                "Cooldown": 0.5
+                "Cooldown": 0.2
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 150,
-                "Cooldown": 0.5
+                "Cooldown": 0.1
             },
             {
                 "Price": 1600,
                 "Range": 20,
                 "Damage": 175,
-                "Cooldown": 0.5
+                "Cooldown": 0.05
             }
         ]
     },
@@ -1219,7 +1219,7 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Slow",
+        "Type": "Single",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1235,7 +1235,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 50,
+                "Damage": 75,
                 "Cooldown": 0.3,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -1243,7 +1243,7 @@
             {
                 "Price": 1200,
                 "Range": 16,
-                "Damage": 55,
+                "Damage": 80,
                 "Cooldown": 0.3,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -1251,7 +1251,7 @@
             {
                 "Price": 1600,
                 "Range": 17,
-                "Damage": 60,
+                "Damage": 95,
                 "Cooldown": 0.3,
                 "Slow": 0.7,
                 "SlowTime": 1
@@ -1259,7 +1259,7 @@
             {
                 "Price": 2000,
                 "Range": 18,
-                "Damage": 60,
+                "Damage": 110,
                 "Cooldown": 0.25,
                 "Slow": 0.6,
                 "SlowTime": 1
@@ -1267,7 +1267,7 @@
         ]
     },
     "Coco Boy": {
-        "Type": "Explosion",
+        "Type": "Fast Strong",
         "Image": "rbxassetid://18256042312",
         "Rarity": "Mythic",
         "PlacePrice": 6000,
@@ -1282,30 +1282,30 @@
                 "Price": 0,
                 "Range": 12,
                 "Damage": 800,
-                "Cooldown": 4
+                "Cooldown": 2
             },
             {
                 "Price": 8000,
                 "Range": 15,
                 "Damage": 1250,
-                "Cooldown": 3.5
+                "Cooldown": 1
             },
             {
                 "Price": 12000,
                 "Range": 18,
                 "Damage": 1800,
-                "Cooldown": 3
+                "Cooldown": 0.8
             },
             {
                 "Price": 18000,
                 "Range": 25,
                 "Damage": 2400,
-                "Cooldown": 3
+                "Cooldown": 0.5
             }
         ]
     },
     "Vendor Toy Chica": {
-        "Type": "Explosion",
+        "Type": "Single",
         "Image": "rbxassetid://121812873213035",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
@@ -1320,31 +1320,31 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 1500,
                 "Cooldown": 1.5
             },
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 1050,
+                "Damage": 2000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 3500,
                 "Range": 24,
-                "Damage": 1100,
+                "Damage": 4000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 5000,
                 "Range": 25,
-                "Damage": 1200,
+                "Damage": 6000,
                 "Cooldown": 1.5
             }
         ]
     },
     "Seven Seas Foxy": {
-        "Type": "Pierce",
+        "Type": "Fast Strong",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -1360,30 +1360,30 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 6000,
-                "Cooldown": 3.5
+                "Cooldown": 2
             },
             {
                 "Price": 7500,
                 "Range": 27,
                 "Damage": 8000,
-                "Cooldown": 3
+                "Cooldown": 1
             },
             {
                 "Price": 10000,
                 "Range": 30,
                 "Damage": 11000,
-                "Cooldown": 2.5
+                "Cooldown": 0.5
             },
             {
                 "Price": 12500,
                 "Range": 30,
                 "Damage": 13500,
-                "Cooldown": 2
+                "Cooldown": 0.2
             }
         ]
     },
     "Leviathan Mangle": {
-        "Type": "Pierce",
+        "Type": "Inseane",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 12500,
@@ -1396,26 +1396,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
-                "Damage": 4000,
+                "Range": 25,
+                "Damage": 7500,
                 "Cooldown": 1
             },
             {
                 "Price": 12000,
-                "Range": 15,
-                "Damage": 5000,
+                "Range": 35,
+                "Damage": 10000,
                 "Cooldown": 1
             },
             {
                 "Price": 15000,
-                "Range": 18,
-                "Damage": 6000,
+                "Range": 45,
+                "Damage": 16000,
                 "Cooldown": 1
             },
             {
                 "Price": 20000,
-                "Range": 20,
-                "Damage": 7500,
+                "Range": 55,
+                "Damage": 17500,
                 "Cooldown": 1
             }
         ]
