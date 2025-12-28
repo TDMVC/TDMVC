@@ -37,6 +37,44 @@
             }
         ]
     },
+     "Gold Freddy": {
+        "Type": "NR 1 Wins",
+        "Image": "rbxassetid://116159060262577",
+        "Rarity": "Secret",
+        "PlacePrice": 55000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 45,
+                "Damage": 55,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 800,
+                "Range": 50,
+                "Damage": 75,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 1200,
+                "Range": 55,
+                "Damage": 90,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 1500,
+                "Range": 60,
+                "Damage": 105,
+                "Cooldown": 0.005
+            }
+        ]
+    },
      "Bouncer": {
         "Type": "Snow",
         "Image": "rbxassetid://111690369757083",
