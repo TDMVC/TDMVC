@@ -1077,7 +1077,7 @@
         ]
     },
     "Rockin Bonnie": {
-        "Type": "Fast",
+        "Type": "AOE",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -1091,26 +1091,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 75,
-                "Cooldown": 0.3
+                "Damage": 100,
+                "Cooldown": 0.5
             },
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 90,
-                "Cooldown": 0.2
+                "Damage": 125,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 100,
-                "Cooldown": 0.1
+                "Damage": 150,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 125,
-                "Cooldown": 0.05
+                "Damage": 175,
+                "Cooldown": 0.5
             }
         ]
     },
@@ -1420,11 +1420,11 @@
         ]
     },
     "Seven Seas Foxy": {
-        "Type": "Fast Strong",
+        "Type": "Pierce",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 5000,
-        "Max": 2,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1435,26 +1435,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 6000,
-                "Cooldown": 2
+                "Damage": 600,
+                "Cooldown": 3.5
             },
             {
                 "Price": 7500,
                 "Range": 27,
-                "Damage": 8000,
-                "Cooldown": 1
+                "Damage": 800,
+                "Cooldown": 3.4
             },
             {
                 "Price": 10000,
                 "Range": 30,
-                "Damage": 11000,
-                "Cooldown": 0.5
+                "Damage": 1100,
+                "Cooldown": 3.2
             },
             {
                 "Price": 12500,
                 "Range": 30,
-                "Damage": 13500,
-                "Cooldown": 0.2
+                "Damage": 1350,
+                "Cooldown": 3
             }
         ]
     },
@@ -1535,7 +1535,7 @@
         ]
     },
     "Hawaii Endo 02": {
-        "Type": "Secretly OP",
+        "Type": "Support",
         "Image": "rbxassetid://18255863130",
         "Rarity": "Epic",
         "PlacePrice": 1000,
@@ -1550,30 +1550,30 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 10,
-                "Cooldown": 0.01,
-                "RangeBoost": 1.8
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.05
             },
             {
                 "Price": 1200,
                 "Range": 15,
-                "Damage": 12,
-                "Cooldown": 0.01,
-                "RangeBoost": 1.85
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
             },
             {
                 "Price": 1400,
                 "Range": 15,
-                "Damage": 14,
-                "Cooldown": 0.01,
-                "RangeBoost": 1.9
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 1800,
                 "Range": 15,
-                "Damage": 16,
-                "Cooldown": 0.01,
-                "RangeBoost": 2.95
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
             }
         ]
     },
