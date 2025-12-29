@@ -958,8 +958,8 @@
     "Endo": {
         "Type": "Support",
         "Image": "rbxassetid://17851638702",
-        "Rarity": "Nightmare",
-        "PlacePrice": 10000,
+        "Rarity": "Secret",
+        "PlacePrice": 800,
         "NoEnemyAttack": true,
         "Max": 2,
         "hitboxOffset": {
