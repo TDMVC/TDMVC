@@ -1295,7 +1295,7 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Single",
+        "Type": "Slow",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
@@ -1311,43 +1311,43 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 40,
-                "Cooldown": 0.3,
+                "Damage": 20,
+                "Cooldown": 1,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
                 "Price": 1200,
                 "Range": 16,
-                "Damage": 45,
-                "Cooldown": 0.3,
+                "Damage": 25,
+                "Cooldown": 1,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
                 "Price": 1600,
                 "Range": 17,
-                "Damage": 50,
-                "Cooldown": 0.3,
+                "Damage": 30,
+                "Cooldown": 1,
                 "Slow": 0.7,
                 "SlowTime": 1
             },
             {
                 "Price": 2000,
                 "Range": 18,
-                "Damage": 55,
-                "Cooldown": 0.25,
+                "Damage": 30,
+                "Cooldown": 0.8,
                 "Slow": 0.6,
                 "SlowTime": 1
             }
         ]
     },
     "Coco Boy": {
-        "Type": "Fast Strong",
+        "Type": "Explosion",
         "Image": "rbxassetid://18256042312",
         "Rarity": "Mythic",
         "PlacePrice": 6000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1357,31 +1357,31 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 800,
-                "Cooldown": 2
+                "Damage": 225,
+                "Cooldown": 4
             },
             {
                 "Price": 8000,
                 "Range": 15,
-                "Damage": 1250,
-                "Cooldown": 1
+                "Damage": 275,
+                "Cooldown": 3.5
             },
             {
                 "Price": 12000,
                 "Range": 18,
-                "Damage": 1800,
-                "Cooldown": 0.8
+                "Damage": 325,
+                "Cooldown": 3
             },
             {
                 "Price": 18000,
                 "Range": 25,
-                "Damage": 2400,
-                "Cooldown": 0.5
+                "Damage": 400,
+                "Cooldown": 3
             }
         ]
     },
     "Vendor Toy Chica": {
-        "Type": "Single",
+        "Type": "Explosion",
         "Image": "rbxassetid://121812873213035",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
@@ -1396,25 +1396,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1500,
+                "Damage": 1000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 2000,
+                "Damage": 1050,
                 "Cooldown": 1.5
             },
             {
                 "Price": 3500,
                 "Range": 24,
-                "Damage": 4000,
+                "Damage": 1100,
                 "Cooldown": 1.5
             },
             {
                 "Price": 5000,
                 "Range": 25,
-                "Damage": 6000,
+                "Damage": 1200,
                 "Cooldown": 1.5
             }
         ]
