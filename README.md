@@ -750,7 +750,7 @@
         ]
     },
     "Shadow Freddy": {
-        "Type": "Fast",
+        "Type": "AOE",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
         "PlacePrice": 15000,
