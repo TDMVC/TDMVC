@@ -1459,11 +1459,11 @@
         ]
     },
     "Leviathan Mangle": {
-        "Type": "Inseane",
+        "Type": "Pierce",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
-        "PlacePrice": 12500,
-        "Max": 2,
+        "PlacePrice": 10000,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1472,27 +1472,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 7500,
-                "Cooldown": 1
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 2
             },
             {
                 "Price": 12000,
-                "Range": 35,
-                "Damage": 10000,
-                "Cooldown": 1
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1.5
             },
             {
                 "Price": 15000,
-                "Range": 45,
-                "Damage": 16000,
+                "Range": 18,
+                "Damage": 600,
                 "Cooldown": 1
             },
             {
                 "Price": 20000,
-                "Range": 55,
-                "Damage": 17500,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.5
             }
         ]
     },
