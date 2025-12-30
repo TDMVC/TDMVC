@@ -959,7 +959,7 @@
         "Type": "Support",
         "Image": "rbxassetid://17851638702",
         "Rarity": "Secret",
-        "PlacePrice": 800,
+        "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
         "hitboxOffset": {
@@ -973,28 +973,28 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 50.5
+                "DamageBoost": 1.06
             },
             {
                 "Price": 1700,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 65.8
+                "DamageBoost": 1.12
             },
             {
                 "Price": 2200,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 75.9
+                "DamageBoost": 1.18
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 100.5
+                "DamageBoost": 1.24
             }
         ]
     },
