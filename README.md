@@ -1849,7 +1849,7 @@
         "Type": "Nuke",
         "Image": "rbxassetid://18356472602",
         "Rarity": "Secret",
-        "PlacePrice": 750,
+        "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
