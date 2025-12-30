@@ -2218,7 +2218,7 @@
     "Sentinel Bonnie": {
         "Type": "MIROTD BOOM",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0.35,
         "Max": 2,
