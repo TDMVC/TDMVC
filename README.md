@@ -2587,7 +2587,7 @@
     "Cupcake Tank": {
         "Type": "Summoner",
         "Image": "rbxassetid://18673630095",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 2000,
         "Max": 3,
         "hitboxOffset": {
