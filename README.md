@@ -2381,9 +2381,9 @@
         ]
     },
     "Abyssal Foxy": {
-        "Type": "AOE Slow",
+        "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
-        "Rarity": "Primastick",
+        "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
@@ -2397,51 +2397,51 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 400,
+                "Damage": 40,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
-                "Slow": 0.5,
-                "SlowTime": 1
-            },
-            {
-                "Price": 12500,
-                "Range": 20,
-                "Damage": 450,
-                "Cooldown": 0.07,
-                "ChargeLength": 2.5,
-                "RechargeLength": 5,
-                "Slow": 0.3,
-                "SlowTime": 1
-            },
-            {
-                "Price": 17500,
-                "Range": 25,
-                "Damage": 500,
-                "Cooldown": 0.07,
-                "ChargeLength": 2.5,
-                "RechargeLength": 5,
-                "Slow": 0.25,
+                "Slow": 0.9,
                 "SlowTime": 1
             },
             {
                 "Price": 30000,
-                "Range": 30,
-                "Damage": 550,
+                "Range": 20,
+                "Damage": 45,
                 "Cooldown": 0.07,
-                "ChargeLength": 2,
+                "ChargeLength": 2.5,
                 "RechargeLength": 5,
-                "Slow": 0.15,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 25,
+                "Damage": 50,
+                "Cooldown": 0.07,
+                "ChargeLength": 2.5,
+                "RechargeLength": 5,
+                "Slow": 0.7,
                 "SlowTime": 1
             },
             {
                 "Price": 50000,
-                "Range": 35,
-                "Damage": 600,
+                "Range": 30,
+                "Damage": 55,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
-                "Slow": 0.08,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 75000,
+                "Range": 35,
+                "Damage": 60,
+                "Cooldown": 0.07,
+                "ChargeLength": 2,
+                "RechargeLength": 5,
+                "Slow": 0.7,
                 "SlowTime": 1
             }
         ]
