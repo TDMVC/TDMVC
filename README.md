@@ -3831,7 +3831,7 @@
     "Nightmare Fredbear": {
         "Type": "Continous Wither",
         "Image": "rbxassetid://18978153260",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 2250,
         "Offset": 0.7,
         "Max": 1,
