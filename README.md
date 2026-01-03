@@ -57,27 +57,27 @@
             },
             {
                 "Price": 800,
-                "Range": 12,
-                "Damage": 75,
-                "Cooldown": 1
+                "Range": 1432,
+                "Damage": 75434434,
+                "Cooldown": 0.1
             },
             {
                 "Price": 1200,
                 "Range": 14,
-                "Damage": 90,
-                "Cooldown": 1
+                "Damage": 343434390,
+                "Cooldown": 0.1
             },
             {
                 "Price": 1500,
                 "Range": 16,
-                "Damage": 105,
-                "Cooldown": 0.5
+                "Damage": 1434343405,
+                "Cooldown": 0.05
             }
         ]
     },
         "TDMVC": {
         "Type": "OWNER",
-        "Image": "rbxassetid://119272390262309",
+        "Image": "rbxassetid://101004901037772",
         "Rarity": "APEX",
         "PlacePrice": 100,
         "Max": 3,
@@ -95,21 +95,21 @@
             },
             {
                 "Price": 800,
-                "Range": 12,
-                "Damage": 75,
+                "Range": 130,
+                "Damage": 73434345,
                 "Cooldown": 1
             },
             {
                 "Price": 1200,
-                "Range": 14,
-                "Damage": 90,
-                "Cooldown": 1
+                "Range": 144,
+                "Damage": 94343430,
+                "Cooldown": 001
             },
             {
                 "Price": 1500,
-                "Range": 16,
-                "Damage": 105,
-                "Cooldown": 0.5
+                "Range": 146,
+                "Damage": 105223434434,
+                "Cooldown": 0.005
             }
         ]
     },
