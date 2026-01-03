@@ -1659,8 +1659,8 @@
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
         "Rarity": "Nightmare",
-        "PlacePrice": 50000,
-        "Max": 1,
+        "PlacePrice": 12500,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1670,25 +1670,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10000,
+                "Damage": 2000,
                 "Cooldown": 2
             },
             {
                 "Price": 30000,
                 "Range": 22,
-                "Damage": 12000,
+                "Damage": 3200,
                 "Cooldown": 1.95
             },
             {
                 "Price": 40000,
                 "Range": 25,
-                "Damage": 14000,
+                "Damage": 4400,
                 "Cooldown": 1.9
             },
             {
                 "Price": 50000,
                 "Range": 30,
-                "Damage": 180000,
+                "Damage": 7500,
                 "Cooldown": 2.5
             }
         ]
@@ -3154,7 +3154,7 @@
         ]
     },
     "The Crying Child": {
-        "Type": "Slow",
+        "Type": "aoe",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -3170,35 +3170,35 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 50,
+                "Damage": 35,
                 "Cooldown": 0.05,
                 "Slow": 0.25
             },
             {
                 "Price": 1000,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 50,
                 "Cooldown": 0.05,
                 "Slow": 0.2
             },
             {
                 "Price": 1400,
                 "Range": 27,
-                "Damage": 250,
+                "Damage": 69,
                 "Cooldown": 0.05,
                 "Slow": 0.15
             },
             {
                 "Price": 1800,
                 "Range": 30,
-                "Damage": 500,
+                "Damage": 80,
                 "Cooldown": 0.05,
                 "Slow": 0.1
             },
             {
                 "Price": 2000,
                 "Range": 32,
-                "Damage": 1000,
+                "Damage": 100,
                 "Cooldown": 0.05,
                 "Slow": 0.05
             }
