@@ -3364,7 +3364,6 @@
             }
         ]
     },
-
     "NightMarionne": {
         "Type": "AOE",
         "Image": "rbxassetid://18975916197",
@@ -3404,7 +3403,6 @@
             }
         ]
     },
-
     "Fredbear": {
         "Type": "Support",
         "Image": "rbxassetid://18977659349",
@@ -3449,7 +3447,6 @@
             }
         ]
     },
-    
     "Nightmare Cupcake": {
         "Type": "Single Slow",
         "Image": "rbxassetid://18978229455",
