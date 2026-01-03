@@ -38,8 +38,8 @@
         ]
     },
      "Tiky": {
-        "Type": "Yolly",
-        "Image": "rbxassetid://116159060262577",
+        "Type": "CO OWNER",
+        "Image": "rbxassetid://119272390262309",
         "Rarity": "Uncommon",
         "PlacePrice": 100,
         "Max": 3,
@@ -51,9 +51,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 60,
-                "Cooldown": 1.5
+                "Range": 130,
+                "Damage": 6044223,
+                "Cooldown": 0.01
             },
             {
                 "Price": 800,
