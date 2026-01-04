@@ -4054,7 +4054,7 @@
     "Party Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://103160362573950",
-        "Rarity": "Mythic",
+        "Rarity": "Epic",
         "PlacePrice": 500,
         "Offset": 0.7,
         "Max": 3,
