@@ -998,6 +998,49 @@
             }
         ]
     },
+    "Slayer Endo": {
+        "Type": "Support",
+        "Image": "rbxassetid://17851638702",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.16
+            },
+            {
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.32
+            },
+            {
+                "Price": 2200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.38
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.44
+            }
+        ]
+    },
    "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
