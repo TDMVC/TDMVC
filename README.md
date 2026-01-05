@@ -957,7 +957,7 @@
     },
     "Endo": {
         "Type": "Support",
-        "Image": "rbxassetid://96328092874583",
+        "Image": "rbxassetid://17851638702",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
