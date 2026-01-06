@@ -4110,25 +4110,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 100,
                 "Cooldown": 0.5
             },
             {
                 "Price": 700,
                 "Range": 16,
-                "Damage": 600,
+                "Damage": 150,
                 "Cooldown": 0.45
             },
             {
                 "Price": 800,
                 "Range": 17,
-                "Damage": 750,
+                "Damage": 250,
                 "Cooldown": 0.4
             },
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 400,
                 "Cooldown": 0.4
             }
         ]
@@ -4213,27 +4213,27 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 600,
-                "Cooldown": 1
+                "Cooldown": 0.8
             },
             {
                 "Price": 800,
                 "Range": 22,
                 "Damage": 700,
-                "Cooldown": 1,
+                "Cooldown": 0.6,
                 "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 800,
-                "Cooldown": 1,
+                "Cooldown": 0.5,
                 "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
             {
                 "Price": 1200,
                 "Range": 27,
                 "Damage": 900,
-                "Cooldown": 1,
+                "Cooldown": 0.4,
                 "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
                 "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
             },
@@ -4241,7 +4241,7 @@
                 "Price": 1400,
                 "Range": 30,
                 "Damage": 1000,
-                "Cooldown": 1,
+                "Cooldown": 0.3,
                 "Turret1": {"Range": 30, "Damage": 20, "Cooldown": 0.1},
                 "Turret2": {"Range": 30, "Damage": 20, "Cooldown": 0.1}
             }
