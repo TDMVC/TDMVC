@@ -1,4 +1,43 @@
 {
+"Quantum Sentinal Bonnie": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://131704531901446",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 25000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 30000,
+            "Range": 30,
+            "Damage": 3000,
+            "Cooldown": 0.1
+        }
+    ]
+},
  "Yolly Freddy": {
         "Type": "Yolly",
         "Image": "rbxassetid://116159060262577",
@@ -210,7 +249,7 @@
         ]
     },
      "Iced Candy Freddy": {
-        "Type": "Freez",
+        "Type": "Freeze",
         "Image": "rbxassetid://127045522874767",
         "Rarity": "Secret",
         "PlacePrice": 5000,
