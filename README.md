@@ -38,6 +38,46 @@
         }
     ]
 },
+"Ghastly Phantom Mangle": {
+    "Type": "Continuous Wither",
+    "Image": "rbxassetid://131704531901446",
+    "Rarity": "Nightmare",
+    "PlacePrice": 40000,
+    "Offset": 0,
+    "Max": 3,
+    "Passive": {"Name": "Phantasms Wrath", "Description": "Targetted enemies take 50% more damage for 1 second."},
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.25
+        },
+        {
+            "Price": 25000,
+            "Range": 30,
+            "Damage": 2000,
+            "Cooldown": 0.25
+        },
+        {
+            "Price": 30000,
+            "Range": 30,
+            "Damage": 2000,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 50000,
+            "Range": 35,
+            "Damage": 2500,
+            "Cooldown": 0.1
+        }
+    ]
+},
  "Yolly Freddy": {
         "Type": "Yolly",
         "Image": "rbxassetid://116159060262577",
