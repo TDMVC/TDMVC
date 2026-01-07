@@ -3616,7 +3616,7 @@
     "Nightmare": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977738423",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 0.5,
         "Max": 1,
@@ -4084,7 +4084,7 @@
     "Rave Demon Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://100372638867635",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 12500,
         "Offset": 0.7,
         "Max": 2,
@@ -4097,31 +4097,31 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 2000,
+                "Damage": 1000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 8000,
                 "Range": 20,
-                "Damage": 3000,
+                "Damage": 1500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 10000,
                 "Range": 20,
-                "Damage": 4000,
+                "Damage": 2000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 12500,
                 "Range": 25,
-                "Damage": 5000,
+                "Damage": 2500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 15000,
                 "Range": 30,
-                "Damage": 6000,
+                "Damage": 3000,
                 "Cooldown": 0.25
             }
         ]
