@@ -40,7 +40,7 @@
 },
 "Ghastly Phantom Mangle": {
     "Type": "Continuous Wither",
-    "Image": "rbxassetid://131704531901446",
+    "Image": "rbxassetid://118768423922130",
     "Rarity": "Nightmare",
     "PlacePrice": 40000,
     "Offset": 0,
