@@ -154,44 +154,6 @@
             }
         ]
     },
-     "Bronze Chica": {
-        "Type": "NR 1 PlayTime",
-        "Image": "rbxassetid://116159060262577",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 5,
-                "Damage": 560,
-                "Cooldown": 1
-            },
-            {
-                "Price": 800,
-                "Range": 7,
-                "Damage": 800,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1200,
-                "Range": 9,
-                "Damage": 1300,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1500,
-                "Range": 13,
-                "Damage": 4560,
-                "Cooldown": 1
-            }
-        ]
-    },
      "Bouncer": {
         "Type": "Snow",
         "Image": "rbxassetid://111690369757083",
@@ -235,54 +197,6 @@
                 "Range": 35,
                 "Damage": 1625,
                 "Cooldown": 0.25,
-                "Slow": 0.4,
-                "SlowTime": 1.5
-            }
-        ]
-    },
-     "GuardFoxy": {
-        "Type": "Starter",
-        "Image": "rbxassetid://111690369757083",
-        "Rarity": "Secret",
-        "PlacePrice": 400,
-        "Offset": 0.75,
-        "Max": 2,
-        "Passive": {"Name": "Cool", "Description": "Best Starter Right Now."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 200,
-                "Cooldown": 0.5,
-                "Slow": 0.4,
-                "SlowTime": 1.5
-            },
-            {
-                "Price": 500,
-                "Range": 34,
-                "Damage": 250,
-                "Cooldown": 0.4,
-                "Slow": 0.4,
-                "SlowTime": 1.5
-            },
-            {
-                "Price": 600,
-                "Range": 36,
-                "Damage": 345,
-                "Cooldown": 0.35,
-                "Slow": 0.4,
-                "SlowTime": 1.5
-            },
-            {
-                "Price": 700,
-                "Range": 38,
-                "Damage": 450,
-                "Cooldown": 0.3,
                 "Slow": 0.4,
                 "SlowTime": 1.5
             }
@@ -2376,7 +2290,7 @@
             }
         ]
     },
-    "War Machine Foxy": {
+    "War Machine FoxyS": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Secret",
@@ -2837,81 +2751,6 @@
                 "SummonRange": 25,
                 "SummonDamage": 500,
                 "SummonCooldown": 0.25
-            }
-        ]
-    },
-  "Krakan Mangle": {
-        "Type": "Continuous Splash",
-        "Image": "rbxassetid://110121712787481",
-        "Rarity": "Apex",
-        "PlacePrice": 200,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "SummonTime": 5,
-                "Health": 300,
-                "WalkSpeed": 10,
-                "Amount": 1,
-                "Unit": "Sunken Foxy",
-                "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.1
-            },
-            {
-                "Price": 300,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "SummonTime": 4,
-                "Health": 300,
-                "WalkSpeed": 10,
-                "Amount": 1,
-                "Unit": "Sunken Foxy",
-                "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.1
-            },
-            {
-                "Price": 500,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "SummonTime": 3,
-                "Health": 300,
-                "WalkSpeed": 10,
-                "Amount": 1,
-                "Unit": "Sunken Foxy",
-                "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.1
-            },
-            {
-                "Price": 750,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "SummonTime": 2,
-                 "Health": 300,
-                "WalkSpeed": 10,
-                "Amount": 1,
-                "Unit": "Sunken Foxy",
-                "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.1
             }
         ]
     },
