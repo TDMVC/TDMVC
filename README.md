@@ -3446,7 +3446,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://18975916197",
         "Rarity": "Nightmare",
-        "PlacePrice": 20,
+        "PlacePrice": 2,
         "Offset": 0,
         "Max": 10,
         "hitboxOffset": {
