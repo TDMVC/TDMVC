@@ -38,6 +38,84 @@
         }
     ]
 },
+"Flamer Endo": {
+    "Type": "Cone AOE + Burn",
+    "Image": "rbxassetid://117852459691496",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 5000,
+            "Range": 20,
+            "Damage": 1500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range": 22,
+            "Damage": 1000,
+            "Cooldown": 0.25
+        },
+        {
+            "Price": 12500,
+            "Range": 25,
+            "Damage": 2000,
+            "Cooldown": 0.1
+        }
+    ]
+},
+"Demon Bonnie": {
+    "Type": "Melee",
+    "Image": "rbxassetid://116619803702067",
+    "Rarity": "Epic",
+    "PlacePrice": 4000,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 1000,
+            "Range": 16,
+            "Damage": 1000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 2500,
+            "Range": 18,
+            "Damage": 1000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 4500,
+            "Range": 20,
+            "Damage": 1500,
+            "Cooldown": 1.5
+        }
+    ]
+},
 "Alchemist Toy Chica": {
     "Type": "Splash + Poison",
     "Image": "rbxassetid://131704531901446",
