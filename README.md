@@ -38,6 +38,123 @@
         }
     ]
 },
+"Radioactive Foxy": {
+    "Type": "Melee",
+    "Image": "rbxassetid://71426316631524",
+    "Rarity": "Epic",
+    "PlacePrice": 2000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 12,
+            "Damage": 1000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 1600,
+            "Range": 15,
+            "Damage": 1500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 2000,
+            "Range": 16,
+            "Damage": 1500,
+            "Cooldown": 1.5
+        },
+    ]
+},
+"System Error Toy Bonnie": {
+    "Type": "Continuous + AOE",
+    "Image": "rbxassetid://99001632750005",
+    "Rarity": "Nightmare",
+    "PlacePrice": 12500,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 25000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 30000,
+            "Range": 30,
+            "Damage": 1500,
+            "Cooldown": 0.1
+        }
+    ]
+},
+"Creation": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://131704531901446",
+    "Rarity": "Apex",
+    "PlacePrice": 50000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 10000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 12000,
+            "Range": 25,
+            "Damage": 12000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 30000,
+            "Range": 25,
+            "Damage": 15000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 50000,
+            "Range": 30,
+            "Damage": 15000,
+            "Cooldown": 1.5
+        }
+                {
+            "Price": 100000,
+            "Range": 35,
+            "Damage": 20000,
+            "Cooldown": 1
+        }
+    ]
+},
 "Flamer Endo": {
     "Type": "Cone AOE",
     "Image": "rbxassetid://117852459691496",
