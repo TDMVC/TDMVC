@@ -3458,26 +3458,26 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 4200,
-                "Cooldown": 0.2
+                "Damage": 5000,
+                "Cooldown": 2
             },
             {
                 "Price": 22500,
                 "Range": 35,
-                "Damage": 4800,
-                "Cooldown": 0.2
+                "Damage": 5500,
+                "Cooldown": 2
             },
             {
                 "Price": 35000,
                 "Range": 40,
-                "Damage": 5400,
-                "Cooldown": 0.2
+                "Damage": 6000,
+                "Cooldown": 1
             },
             {
                 "Price": 50000,
                 "Range": 45,
-                "Damage": 6000,
-                "Cooldown": 0.1
+                "Damage": 8000,
+                "Cooldown": 0.8
             }
         ]
     },
@@ -3725,9 +3725,9 @@
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
         "Rarity": "Nightmare",
-        "PlacePrice": 65000,
+        "PlacePrice": 65,
         "Offset": -1,
-        "Max": 2,
+        "Max": 20,
         "Passive": {"Name": "Poison", "Description": "Deals 200% damage in poison over 8 seconds"},
         "hitboxOffset": {
             "X": 0,
@@ -3762,10 +3762,10 @@
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 25000,
+                "Damage": 250000,
                 "Poison": 50000,
                 "PoisonTime": 8,
-                "Cooldown": 3
+                "Cooldown": 0.1
             }
         ]
     },
@@ -5027,19 +5027,19 @@
             {
                 "Price": 10000,
                 "Range": 24,
-                "Damage": 900,
+                "Damage": 1600,
                 "Cooldown": 0.6
             },
             {
                 "Price": 12500,
                 "Range": 27,
-                "Damage": 1000,
+                "Damage": 3000,
                 "Cooldown": 0.5
             },
             {
                 "Price": 15000,
-                "Range": 30,
-                "Damage": 1200,
+                "Range": 35,
+                "Damage": 6000,
                 "Cooldown": 0.4
             }
         ]
