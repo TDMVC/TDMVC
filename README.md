@@ -38,6 +38,45 @@
         }
     ]
 },
+"Alchemist Toy Chica": {
+    "Type": "Splash + Poison",
+    "Image": "rbxassetid://131704531901446",
+    "Rarity": "Secret",
+    "PlacePrice": 600,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 500,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 1000,
+            "Range": 15,
+            "Damage": 1000,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 1500,
+            "Range": 20,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 5000,
+            "Range": 22,
+            "Damage": 2000,
+            "Cooldown": 0.5
+        }
+    ]
+},
 "Ghastly Phantom Mangle": {
     "Type": "Continuous Wither",
     "Image": "rbxassetid://118768423922130",
