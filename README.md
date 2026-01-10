@@ -39,7 +39,7 @@
     ]
 },
 "Flamer Endo": {
-    "Type": "Cone AOE + Burn",
+    "Type": "Cone AOE",
     "Image": "rbxassetid://117852459691496",
     "Rarity": "Nightmare",
     "PlacePrice": 20000,
