@@ -5011,6 +5011,67 @@
             }
         ]
     },
+    "Hydra Mangle": {
+        "Type": "Charge AOE Burn",
+        "Image": "rbxassetid://78092879730354",
+        "Rarity": "Secret",
+        "PlacePrice": 95000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Burn", "Description": "Burns enemies at 300% over 1 second. Applies 30% Wither to enemies in range while Charging up."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1200,
+                "Burn": 3600,
+                "BurnTime": 1,
+                "Cooldown": 0.25,
+                "ChargeTime": 3
+            },
+            {
+                "Price": 85000,
+                "Range": 24,
+                "Damage": 1500,
+                "Burn": 4500,
+                "BurnTime": 1,
+                "Cooldown": 0.25,
+                "ChargeTime": 3
+            },
+            {
+                "Price": 90000,
+                "Range": 28,
+                "Damage": 1700,
+                "Burn": 5100,
+                "BurnTime": 1,
+                "Cooldown": 0.25,
+                "ChargeTime": 3
+            },
+            {
+                "Price": 95000,
+                "Range": 32,
+                "Damage": 1900,
+                "Burn": 5700,
+                "BurnTime": 1,
+                "Cooldown": 0.25,
+                "ChargeTime": 3
+            } ,
+             {
+                "Price": 100000,
+                "Range": 34,
+                "Damage": 2250,
+                "Burn": 6750,
+                "BurnTime": 1,
+                "Cooldown": 0.25,
+                "ChargeTime": 3
+            }
+        ]
+    },
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
