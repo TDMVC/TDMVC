@@ -4763,7 +4763,7 @@
     "Bounty Mangle": {
         "Type": "Splash Farm",
         "Image": "rbxassetid://86267470826666",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 2,
