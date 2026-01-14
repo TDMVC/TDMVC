@@ -5797,6 +5797,141 @@
             }
         ]
     },
+    "Augmented Endo": {
+        "Type": "Single",
+        "Image": "rbxassetid://135702265461354",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 70,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 1200,
+                "Range": 18,
+                "Damage": 100,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 1600,
+                "Range": 22,
+                "Damage": 125,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 2200,
+                "Range": 25,
+                "Damage": 150,
+                "Cooldown": 0.3
+            }
+        ]
+    },
+    "Blighted Endo Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://100997380896121",
+        "Rarity": "Nightmare",
+        "PlacePrice": 30000,
+        "Offset": 0.5,
+        "Max": 2,
+        "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 60% and reduces enemy regen by 50%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 1,
+                "Slow": 0.40,
+                "SlowTime": 3,
+                "Bleed": 0.5,
+                "BleedTime": 3
+            },
+            {
+                "Price": 35000,
+                "Range": 28,
+                "Damage": 7200,
+                "Cooldown": 1,
+                "Slow": 0.40,
+                "SlowTime": 3,
+                "Bleed": 0.5,
+                "BleedTime": 3
+            },
+            {
+                "Price": 40000,
+                "Range": 31,
+                "Damage": 9000,
+                "Cooldown": 1,
+                "Slow": 0.40,
+                "SlowTime": 3,
+                "Bleed": 0.5,
+                "BleedTime": 3
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 11000,
+                "Cooldown": 1,
+                "Slow": 0.40,
+                "SlowTime": 3,
+                "Bleed": 0.5,
+                "BleedTime": 3
+            }
+        ]
+    },
+    "Juggernaut Bonnie": {
+        "Type": "Continuous Splash + Passive",
+        "Image": "rbxassetid://101410205353650",
+        "Rarity": "Nightmare",
+        "PlacePrice": 65000,
+        "Offset": 0.4,
+        "Max": 1,
+        "Passive": {"Name": "Lethality", "Description": "Every 5 seconds fires a railgun that deals 60x it's damage. Railgun also slows enemies by 70% for 1.5 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1200,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 70000,
+                "Range": 28,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 75000,
+                "Range": 32,
+                "Damage": 1900,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 80000,
+                "Range": 38,
+                "Damage": 2500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
