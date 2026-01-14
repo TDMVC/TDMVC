@@ -40,7 +40,7 @@
 },
 "Alchemist Toy Chica": {
     "Type": "Splash + Poison",
-    "Image": "rbxassetid://131704531901446",
+    "Image": "rbxassetid://72504936993539",
     "Rarity": "Secret",
     "PlacePrice": 600,
     "Offset": 0,
