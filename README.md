@@ -3379,7 +3379,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 300,
+                "Range": 30,
                 "Damage": 7200,
                 "Cooldown": 2
             },
