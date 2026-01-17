@@ -79,7 +79,7 @@
 },
 "Blue": {
     "Type": "Splash",
-    "Image": "rbxassetid://123034496391813",
+    "Image": "rbxassetid://118346347672213",
     "Rarity": "Secret",
     "PlacePrice": 12500,
     "Offset": 0,
