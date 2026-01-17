@@ -38,6 +38,162 @@
         }
     ]
 },
+"Angel": {
+    "Type": "Single",
+    "Image": "rbxassetid://123034496391813",
+    "Rarity": "Epic",
+    "PlacePrice": 1200,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 12,
+            "Damage": 1000,
+            "Cooldown": 3
+        },
+        {
+            "Price": 1000,
+            "Range": 13,
+            "Damage": 1200,
+            "Cooldown": 2.5
+        },
+        {
+            "Price": 2000,
+            "Range": 13,
+            "Damage": 1500,
+            "Cooldown": 2.5
+        },
+        {
+            "Price": 2200,
+            "Range": 15,
+            "Damage": 1500,
+            "Cooldown": 2
+        }
+    ]
+},
+"Blue": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123034496391813",
+    "Rarity": "Secret",
+    "PlacePrice": 12500,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 1500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 2500,
+            "Range": 17.5,
+            "Damage": 3000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 5000,
+            "Range": 18,
+            "Damage": 7500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 10000,
+            "Cooldown": 1
+        }
+    ]
+},
+"Red": {
+    "Type": "Burn + Splash",
+    "Image": "rbxassetid://138506739147980",
+    "Rarity": "Nightmare",
+    "PlacePrice": 25000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 22.5,
+            "Damage": 20000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 20000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 15000,
+            "Range": 25,
+            "Damage": 22500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 20000,
+            "Range": 25,
+            "Damage": 25000,
+            "Cooldown": 1
+        }
+    ]
+},
+"Mouth": {
+    "Type": "AOE",
+    "Image": "rbxassetid://77977496090659",
+    "Rarity": "Legendary",
+    "PlacePrice": 2250,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 10,
+            "Damage": 2000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 2500,
+            "Range": 15,
+            "Damage": 3750,
+            "Cooldown": 1
+        },
+        {
+            "Price": 5000,
+            "Range": 17.5,
+            "Damage": 8000,
+            "Cooldown": 0.9
+        },
+        {
+            "Price": 10000,
+            "Range": 22.5,
+            "Damage": 8500,
+            "Cooldown": 0.8
+        }
+    ]
+},
 "Alchemist Toy Chica": {
     "Type": "Splash + Poison",
     "Image": "rbxassetid://72504936993539",
