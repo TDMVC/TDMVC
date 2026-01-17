@@ -4930,7 +4930,7 @@
     "ITS ME": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://120282726125561",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 7500,
         "Offset": -1.4,
         "Max": 1,
