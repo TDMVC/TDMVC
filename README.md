@@ -158,7 +158,7 @@
 "Mouth": {
     "Type": "AOE",
     "Image": "rbxassetid://77977496090659",
-    "Rarity": "Legendary",
+    "Rarity": "Mythic",
     "PlacePrice": 2250,
     "Offset": 0,
     "Max": 3,
@@ -187,7 +187,7 @@
             "Cooldown": 0.9
         },
         {
-            "Price": 10000,
+            "Price": 5000,
             "Range": 22.5,
             "Damage": 8500,
             "Cooldown": 0.8
