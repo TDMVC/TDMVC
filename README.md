@@ -38,6 +38,45 @@
         }
     ]
 },
+"astral foxy": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://86538081497532",
+    "Rarity": "Apex",
+    "PlacePrice": 8000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 750,
+            "Cooldown": 0.1
+        },
+        {
+            "Price": 10000,
+            "Range":24,
+            "Damage": 1500,
+            "Cooldown": 0.1
+        },
+        {
+            "Price": 25000,
+            "Range": 35,
+            "Damage": 1500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 30000,
+            "Range": 65,
+            "Damage": 2450,
+            "Cooldown": 0.1
+        }
+    ]
+},
 "Alchemist Toy Chica": {
     "Type": "Splash + Poison",
     "Image": "rbxassetid://72504936993539",
