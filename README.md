@@ -5176,7 +5176,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 120,
+                "Damage": 125,
                 "Cooldown": 0.25,
                 "Slow": 0.7,
                 "Bleed": 0.85,
@@ -5185,7 +5185,7 @@
             {
                 "Price": 800,
                 "Range": 22,
-                "Damage": 135,
+                "Damage": 500,
                 "Cooldown": 0.25,
                 "Slow": 0.7,
                 "Bleed": 0.85,
@@ -5194,7 +5194,7 @@
             {
                 "Price": 1000,
                 "Range": 24,
-                "Damage": 150,
+                "Damage": 1500,
                 "Cooldown": 0.25,
                 "Slow": 0.7,
                 "Bleed": 0.85,
@@ -5215,9 +5215,9 @@
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
         "Rarity": "Nightmare",
-        "PlacePrice": 40000,
+        "PlacePrice": 4,
         "Offset": 0,
-        "Max": 2,
+        "Max": 20,
         "Passive": {"Name": "Radioactive", "Description": "Slows enemies by 65% and applies 25% poison over 1 second"},
         "hitboxOffset": {
             "X": 0,
@@ -5228,7 +5228,7 @@
             {
                 "Price": 0,
                 "Range": 28,
-                "Damage": 2000,
+                "Damage": 200000000000,
                 "Cooldown": 0.25,
                 "Poison": 1031,
                 "PoisonLength": 1,
