@@ -4927,6 +4927,93 @@
             }
         ]
     },
+    "ITS ME": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://120282726125561",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
+        "Offset": -1.4,
+        "Max": 1,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 40%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1200,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 1400,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 1800,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 2250,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Old Man Consequences": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://95479691284429",
+        "Rarity": "Apex",
+        "PlacePrice": 11340,
+        "Offset": 0.5,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 22222,
+                "Range": 28,
+                "Damage": 3600,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 33333,
+                "Range": 32,
+                "Damage": 4200,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 44444,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
     "Outlaw Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://136678045195601",
@@ -5480,6 +5567,45 @@
                 "Range": 20,
                 "Damage": 8000,
                 "Cooldown": 4
+            }
+        ]
+    },
+    "Super Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://92313535673690",
+        "Rarity": "Secret",
+        "PlacePrice": 12000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 240,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14000,
+                "Range": 23,
+                "Damage": 260,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 27,
+                "Damage": 280,
+                "Cooldown": 0.1
+            },          
+             {
+                "Price": 18000,
+                "Range": 30,
+                "Damage": 300,
+                "Cooldown": 0.1
             }
         ]
     },
