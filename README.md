@@ -5215,9 +5215,9 @@
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
         "Rarity": "Nightmare",
-        "PlacePrice": 4,
+        "PlacePrice": 40000,
         "Offset": 0,
-        "Max": 20,
+        "Max": 2,
         "Passive": {"Name": "Radioactive", "Description": "Slows enemies by 65% and applies 25% poison over 1 second"},
         "hitboxOffset": {
             "X": 0,
@@ -5228,7 +5228,7 @@
             {
                 "Price": 0,
                 "Range": 28,
-                "Damage": 200000000000,
+                "Damage": 2000,
                 "Cooldown": 0.25,
                 "Poison": 1031,
                 "PoisonLength": 1,
