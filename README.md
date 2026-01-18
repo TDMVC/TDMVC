@@ -42,7 +42,7 @@
     "Type": "Continuous",
     "Image": "rbxassetid://86538081497532",
     "Rarity": "Apex",
-    "PlacePrice": 8000,
+    "PlacePrice": 20000,
     "Offset": 0,
     "Max": 2,
     "hitboxOffset": {
@@ -53,35 +53,35 @@
     "Upgrades": [
         {
             "Price": 0,
-            "Range": 20,
-            "Damage": 750,
-            "Cooldown": 0.1
+            "Range": 25,
+            "Damage": 7500,
+            "Cooldown": 0.8
         },
         {
             "Price": 10000,
-            "Range":24,
-            "Damage": 1500,
-            "Cooldown": 0.1
+            "Range":30,
+            "Damage": 7500,
+            "Cooldown": 0.75
         },
         {
             "Price": 25000,
             "Range": 35,
-            "Damage": 1500,
-            "Cooldown": 0.2
+            "Damage": 7500,
+            "Cooldown": 0.6
         },
         {
             "Price": 30000,
-            "Range": 65,
-            "Damage": 2450,
-            "Cooldown": 0.1
+            "Range": 40,
+            "Damage": 10000,
+            "Cooldown": 0.5
         }
     ]
 },
 "Truest Nightmare": {
     "Type": "AOE",
     "Image": "rbxassetid://136982296151411",
-    "Rarity": "Nightmare",
-    "PlacePrice": 120000,
+    "Rarity": "Apex",
+    "PlacePrice": 50000,
     "Offset": 0,
     "Max": 1,
     "hitboxOffset": {
@@ -92,27 +92,27 @@
     "Upgrades": [
         {
             "Price": 0,
-            "Range": 45,
-            "Damage": 7500,
-            "Cooldown": 1
+            "Range": 25,
+            "Damage": 800,
+            "Cooldown": 0.5
         },
         {
             "Price": 10000,
-            "Range":54,
-            "Damage": 15000,
-            "Cooldown": 1
+            "Range":25,
+            "Damage": 1600,
+            "Cooldown": 0.2
         },
         {
             "Price": 25000,
-            "Range": 70,
-            "Damage": 45000,
-            "Cooldown": 1.2
+            "Range": 30,
+            "Damage": 2000,
+            "Cooldown": 0.2
         },
         {
             "Price": 30000,
-            "Range": 90,
-            "Damage": 75000,
-            "Cooldown": 1
+            "Range": 45,
+            "Damage": 2500,
+            "Cooldown": 0.2
         }
     ]
 },
