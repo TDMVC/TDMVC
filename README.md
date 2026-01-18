@@ -77,45 +77,6 @@
         }
     ]
 },
-"Truest Nightmare": {
-    "Type": "AOE",
-    "Image": "rbxassetid://136982296151411",
-    "Rarity": "Nightmare",
-    "PlacePrice": 50000,
-    "Offset": 0,
-    "Max": 1,
-    "hitboxOffset": {
-        "X": 0,
-        "Y": 0,
-        "Z": 0
-    },
-    "Upgrades": [
-        {
-            "Price": 0,
-            "Range": 25,
-            "Damage": 800,
-            "Cooldown": 0.5
-        },
-        {
-            "Price": 10000,
-            "Range":25,
-            "Damage": 1600,
-            "Cooldown": 0.2
-        },
-        {
-            "Price": 25000,
-            "Range": 30,
-            "Damage": 2000,
-            "Cooldown": 0.2
-        },
-        {
-            "Price": 30000,
-            "Range": 45,
-            "Damage": 2500,
-            "Cooldown": 0.2
-        }
-    ]
-},
 "Alchemist Toy Chica": {
     "Type": "Splash + Poison",
     "Image": "rbxassetid://72504936993539",
