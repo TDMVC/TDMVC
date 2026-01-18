@@ -38,84 +38,6 @@
         }
     ]
 },
-"Truest Nightmare": {
-    "Type": "AOE",
-    "Image": "rbxassetid://136982296151411",
-    "Rarity": "Nightmare",
-    "PlacePrice": 50000,
-    "Offset": 0,
-    "Max": 1,
-    "hitboxOffset": {
-        "X": 0,
-        "Y": 0,
-        "Z": 0
-    },
-    "Upgrades": [
-        {
-            "Price": 0,
-            "Range": 25,
-            "Damage": 800,
-            "Cooldown": 0.5
-        },
-        {
-            "Price": 10000,
-            "Range":25,
-            "Damage": 1600,
-            "Cooldown": 0.2
-        },
-        {
-            "Price": 25000,
-            "Range": 30,
-            "Damage": 2000,
-            "Cooldown": 0.2
-        },
-        {
-            "Price": 30000,
-            "Range": 45,
-            "Damage": 2500,
-            "Cooldown": 0.2
-        }
-    ]
-},
-"astral foxy": {
-    "Type": "Continuous",
-    "Image": "rbxassetid://86538081497532"
-    "Rarity": "Apex",
-    "PlacePrice": 20000,
-    "Offset": 0,
-    "Max": 2,
-    "hitboxOffset": {
-        "X": 0,
-        "Y": 0,
-        "Z": 0
-    },
-    "Upgrades": [
-        {
-            "Price": 0,
-            "Range": 25,
-            "Damage": 7500,
-            "Cooldown": 0.8
-        },
-        {
-            "Price": 10000,
-            "Range":30,
-            "Damage": 7500,
-            "Cooldown": 0.75
-        },
-        {
-            "Price": 25000,
-            "Range": 35,
-            "Damage": 7500,
-            "Cooldown": 0.6
-        },
-        {
-            "Price": 30000,
-            "Range": 40,
-            "Damage": 10000,
-            "Cooldown": 0.5
-        }
-    ]
-},
 "Alchemist Toy Chica": {
     "Type": "Splash + Poison",
     "Image": "rbxassetid://72504936993539",
@@ -5008,7 +4930,7 @@
     "ITS ME": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://120282726125561",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 7500,
         "Offset": -1.4,
         "Max": 1,
@@ -5254,7 +5176,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 125,
+                "Damage": 120,
                 "Cooldown": 0.25,
                 "Slow": 0.7,
                 "Bleed": 0.85,
@@ -5263,7 +5185,7 @@
             {
                 "Price": 800,
                 "Range": 22,
-                "Damage": 500,
+                "Damage": 135,
                 "Cooldown": 0.25,
                 "Slow": 0.7,
                 "Bleed": 0.85,
@@ -5272,7 +5194,7 @@
             {
                 "Price": 1000,
                 "Range": 24,
-                "Damage": 1500,
+                "Damage": 150,
                 "Cooldown": 0.25,
                 "Slow": 0.7,
                 "Bleed": 0.85,
