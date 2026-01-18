@@ -40,7 +40,7 @@
 },
 "astral foxy": {
     "Type": "Continuous",
-    "Image": "rbxassetid://86538081497532",
+    "Image": "rbxassetid://86538081497532",105640643389792
     "Rarity": "Apex",
     "PlacePrice": 20000,
     "Offset": 0,
@@ -74,6 +74,45 @@
             "Range": 40,
             "Damage": 10000,
             "Cooldown": 0.5
+        }
+    ]
+},
+"System Error Toy Bonnie": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://105640643389792",
+    "Rarity": "Nightmare",
+    "PlacePrice": 13870,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 500,
+            "Cooldown": 0.1
+        },
+        {
+            "Price": 12500,
+            "Range":20,
+            "Damage": 550,
+            "Cooldown": 0.1
+        },
+        {
+            "Price": 15000,
+            "Range": 20,
+            "Damage": 600,
+            "Cooldown": 0.1
+        },
+        {
+            "Price": 20000,
+            "Range": 22,
+            "Damage": 750,
+            "Cooldown": 0.1
         }
     ]
 },
