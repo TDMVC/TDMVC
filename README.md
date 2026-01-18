@@ -40,7 +40,7 @@
 },
 "astral foxy": {
     "Type": "Continuous",
-    "Image": "rbxassetid://86538081497532",105640643389792
+    "Image": "rbxassetid://86538081497532"
     "Rarity": "Apex",
     "PlacePrice": 20000,
     "Offset": 0,
