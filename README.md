@@ -77,10 +77,49 @@
         }
     ]
 },
+"Hunter Foxy": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://93762940681644",
+    "Rarity": "Apex",
+    "PlacePrice": 20000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 22,
+            "Damage": 5000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range":26,
+            "Damage": 7500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 25000,
+            "Range": 30,
+            "Damage": 10000,
+            "Cooldown": 0.25
+        },
+        {
+            "Price": 30000,
+            "Range": 35,
+            "Damage": 10000,
+            "Cooldown": 0.2
+        }
+    ]
+},
 "Truest Nightmare": {
     "Type": "AOE",
     "Image": "rbxassetid://136982296151411",
-    "Rarity": "Apex",
+    "Rarity": "Nightmare",
     "PlacePrice": 50000,
     "Offset": 0,
     "Max": 1,
