@@ -38,6 +38,162 @@
         }
     ]
 },
+"Angel": {
+    "Type": "Splash",
+    "Image": "rbxassetid://121040649459182",
+    "Rarity": "Epic",
+    "PlacePrice": 900,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 13,
+            "Damage": 500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 2500,
+            "Range": 15,
+            "Damage": 800,
+            "Cooldown": 1
+        },
+        {
+            "Price": 4000,
+            "Range": 15,
+            "Damage": 1000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 5000,
+            "Range": 15,
+            "Damage": 1000,
+            "Cooldown": 0.8
+        }
+    ]
+},
+"Mouth": {
+    "Type": "Splash",
+    "Image": "rbxassetid://120568697709401",
+    "Rarity": "Epic",
+    "PlacePrice": 1200,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 14,
+            "Damage": 1000,
+            "Cooldown": 3
+        },
+        {
+            "Price": 500,
+            "Range": 16,
+            "Damage": 1000,
+            "Cooldown": 2.5
+        },
+        {
+            "Price": 750,
+            "Range": 17.5,
+            "Damage": 1500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 1000,
+            "Range": 17.5,
+            "Damage": 1500,
+            "Cooldown": 1
+        }
+    ]
+},
+"Red": {
+    "Type": "Cone AOE",
+    "Image": "rbxassetid://139101120468457",
+    "Rarity": "Secret",
+    "PlacePrice": 12500,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 10000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 500,
+            "Range": 20,
+            "Damage": 12500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 750,
+            "Range": 20,
+            "Damage": 15000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 1000,
+            "Range": 25,
+            "Damage": 15000,
+            "Cooldown": 1
+        }
+    ]
+},
+"Blue": {
+    "Type": "Splash + Slow",
+    "Image": "rbxassetid://116489791181279",
+    "Rarity": "Secret",
+    "PlacePrice": 20000,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 1000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 500,
+            "Range": 20,
+            "Damage": 1500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 750,
+            "Range": 20,
+            "Damage": 1000,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 1000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.2
+        }
+    ]
+},
 "Ignited Shadow Bonnie": {
     "Type": "AOE",
     "Image": "rbxassetid://72720572895914",
