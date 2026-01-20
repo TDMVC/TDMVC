@@ -38,6 +38,123 @@
         }
     ]
 },
+"Ignited Shadow Bonnie": {
+    "Type": "AOE",
+    "Image": "rbxassetid://72720572895914",
+    "Rarity": "Secret",
+    "PlacePrice": 15000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 5000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 12500,
+            "Range": 22.5,
+            "Damage": 5000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 20000,
+            "Range": 22.5,
+            "Damage": 7500,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 25000,
+            "Range": 30,
+            "Damage": 5000,
+            "Cooldown": 0.5
+        }
+    ]
+},
+"Ignited Springtrap": {
+    "Type": "Pierce + Cone AOE",
+    "Image": "rbxassetid://104393491147467",
+    "Rarity": "Nightmare",
+    "PlacePrice": 15000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 3500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 2500,
+            "Range": 20,
+            "Damage": 4000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 4000,
+            "Range": 25,
+            "Damage": 5000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 5000,
+            "Range": 35,
+            "Damage": 5000,
+            "Cooldown": 0.25
+        }
+    ]
+},
+"Ignited Toy Golden Freddy": {
+    "Type": "AOE",
+    "Image": "rbxassetid://120692467170246",
+    "Rarity": "Secret",
+    "PlacePrice": 10000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 400,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 5000,
+            "Range": 22.5,
+            "Damage": 2500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 12500,
+            "Range": 22.5,
+            "Damage": 2500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 15000,
+            "Range": 25,
+            "Damage": 500,
+            "Cooldown": 0.1
+        }
+    ]
+},
 "Ignited Toy Chica": {
     "Type": "AOE",
     "Image": "rbxassetid://956071990258",
