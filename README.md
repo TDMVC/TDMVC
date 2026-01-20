@@ -1,7 +1,7 @@
 {
 "Ignited Toy Bonnie": {
     "Type": "AOE",
-    "Image": "rbxassetid://77655057063740",
+    "Image": "rbxassetid://116282096306009",
     "Rarity": "Mythic",
     "PlacePrice": 5000,
     "Offset": 0,
@@ -40,7 +40,7 @@
 },
 "Ignited Toy Freddy": {
     "Type": "Single",
-    "Image": "rbxassetid://77655057063740",
+    "Image": "rbxassetid://129492362258710",
     "Rarity": "Rare",
     "PlacePrice": 200,
     "Offset": 0,
