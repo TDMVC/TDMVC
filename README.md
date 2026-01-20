@@ -157,7 +157,7 @@
 },
 "Ignited Toy Chica": {
     "Type": "AOE",
-    "Image": "rbxassetid://956071990258",
+    "Image": "rbxassetid://95607199025802",
     "Rarity": "Epic",
     "PlacePrice": 1500,
     "Offset": 0,
