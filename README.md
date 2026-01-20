@@ -1,4 +1,199 @@
 {
+"Ignited Bonnie": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://77655057063740",
+    "Rarity": "Secret",
+    "PlacePrice": 20000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 750,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 15000,
+            "Range": 20,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 22500,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 25000,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.1
+        }
+    ]
+},
+"Ignited Freddy": {
+    "Type": "Melee",
+    "Image": "rbxassetid://92441451252662",
+    "Rarity": "Epic",
+    "PlacePrice": 1500,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 25000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 30000,
+            "Range": 30,
+            "Damage": 1500,
+            "Cooldown": 0.1
+        }
+    ]
+},
+"Ignited Chica": {
+    "Type": "Splash",
+    "Image": "rbxassetid://94794177465930",
+    "Rarity": "Rare",
+    "PlacePrice": 750,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 13,
+            "Damage": 1000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 500,
+            "Range": 14,
+            "Damage": 1500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 1750,
+            "Range": 15,
+            "Damage": 1500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 2000,
+            "Range": 15,
+            "Damage": 1500,
+            "Cooldown": 1.5
+        }
+    ]
+},
+"Ignited Foxy": {
+    "Type": "Dual",
+    "Image": "rbxassetid://90362740297575",
+    "Rarity": "Mythic",
+    "PlacePrice": 1250,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 13,
+            "Damage": 1000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 500,
+            "Range": 15,
+            "Damage": 1500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 1750,
+            "Range": 15,
+            "Damage": 1500,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 2000,
+            "Range": 20,
+            "Damage": 1500,
+            "Cooldown": 0.8
+        }
+    ]
+},
+"Creation": {
+    "Type": "AOE + Wither",
+    "Image": "rbxassetid://81169556338033",
+    "Rarity": "Nightmare",
+    "PlacePrice": 30000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 19830,
+            "Range": 25,
+            "Damage": 1200,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 45000,
+            "Range": 30,
+            "Damage": 1500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 75000,
+            "Range": 30,
+            "Damage": 2000,
+            "Cooldown": 0.1
+        }
+    ]
+},
 "Quantum Sentinal Bonnie": {
     "Type": "Continuous",
     "Image": "rbxassetid://131704531901446",
@@ -38,7 +233,7 @@
         }
     ]
 },
-"astral foxy": {
+"Astral Foxy": {
     "Type": "Continuous",
     "Image": "rbxassetid://86538081497532",
     "Rarity": "Apex",
