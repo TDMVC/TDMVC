@@ -470,7 +470,7 @@
 "Astral Foxy": {
     "Type": "Continuous",
     "Image": "rbxassetid://86538081497532",
-    "Rarity": "Apex",
+    "Rarity": "Nightmare",
     "PlacePrice": 8000,
     "Offset": 0,
     "Max": 2,
@@ -509,7 +509,7 @@
 "Hunter Foxy": {
     "Type": "Continuous",
     "Image": "rbxassetid://93762940681644",
-    "Rarity": "Apex",
+    "Rarity": "Nightmare",
     "PlacePrice": 25000,
     "Offset": 0,
     "Max": 2,
