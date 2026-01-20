@@ -16,22 +16,61 @@
             "Price": 0,
             "Range": 15,
             "Damage": 2000,
-            "Cooldown": 3
+            "Cooldown": 2.5
         },
         {
             "Price": 2500,
             "Range": 17.5,
-            "Damage": 2000,
-            "Cooldown": 2.5
+            "Damage": 2500,
+            "Cooldown": 2
         },
         {
             "Price": 4000,
             "Range": 17.5,
+            "Damage": 2500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 5000,
+            "Range": 17.5,
+            "Damage": 4500,
+            "Cooldown": 1
+        }
+    ]
+},
+"Ignited Toy Chica": {
+    "Type": "AOE",
+    "Image": "rbxassetid://956071990258",
+    "Rarity": "Epic",
+    "PlacePrice": 1500,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 13,
             "Damage": 2000,
             "Cooldown": 2
         },
         {
-            "Price": 5000,
+            "Price": 3000,
+            "Range": 14,
+            "Damage": 2000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 4500,
+            "Range": 15,
+            "Damage": 2000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 6500,
             "Range": 17.5,
             "Damage": 1500,
             "Cooldown": 1
