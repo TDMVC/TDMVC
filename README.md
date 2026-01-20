@@ -1,4 +1,82 @@
 {
+"Ignited Toy Bonnie": {
+    "Type": "AOE",
+    "Image": "rbxassetid://77655057063740",
+    "Rarity": "Mythic",
+    "PlacePrice": 5000,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 2000,
+            "Cooldown": 3
+        },
+        {
+            "Price": 2500,
+            "Range": 17.5,
+            "Damage": 2000,
+            "Cooldown": 2.5
+        },
+        {
+            "Price": 4000,
+            "Range": 17.5,
+            "Damage": 2000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 5000,
+            "Range": 17.5,
+            "Damage": 1500,
+            "Cooldown": 1
+        }
+    ]
+},
+"Ignited Toy Freddy": {
+    "Type": "Single",
+    "Image": "rbxassetid://77655057063740",
+    "Rarity": "Rare",
+    "PlacePrice": 200,
+    "Offset": 0,
+    "Max": 5,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 10,
+            "Damage": 100,
+            "Cooldown": 1
+        },
+        {
+            "Price": 500,
+            "Range": 10,
+            "Damage": 150,
+            "Cooldown": 1
+        },
+        {
+            "Price": 2000,
+            "Range": 12,
+            "Damage": 150,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 2500,
+            "Range": 12.5,
+            "Damage": 150,
+            "Cooldown": 0.5
+        }
+    ]
+},
 "Ignited Bonnie": {
     "Type": "Continuous",
     "Image": "rbxassetid://77655057063740",
