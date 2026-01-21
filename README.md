@@ -38,6 +38,123 @@
         }
     ]
 },
+"Flamer Endo": {
+    "Type": "Cone AOE",
+    "Image": "rbxassetid://86455700919455",
+    "Rarity": "Secret",
+    "PlacePrice": 7500,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 17.5,
+            "Damage": 2000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 2500,
+            "Range": 17.5,
+            "Damage": 2500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 4000,
+            "Range": 25,
+            "Damage": 2500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 5000,
+            "Range": 25,
+            "Damage": 2500,
+            "Cooldown": 0.25
+        }
+    ]
+},
+"Demon Bonnie": {
+    "Type": "Splash",
+    "Image": "rbxassetid://87792372340434",
+    "Rarity": "Secret",
+    "PlacePrice": 500,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 1000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 500,
+            "Range": 15,
+            "Damage": 2000,
+            "Cooldown": 2
+        },
+        {
+            "Price": 1000,
+            "Range": 17.5,
+            "Damage": 2000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 5000,
+            "Range": 18,
+            "Damage": 2000,
+            "Cooldown": 1
+        }
+    ]
+},
+"Mismatched Toys": {
+    "Type": "AOE + Wither",
+    "Image": "rbxassetid://71608597665163",
+    "Rarity": "Secret",
+    "PlacePrice": 10000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 16,
+            "Damage": 5000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 12500,
+            "Range": 18,
+            "Damage": 7500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 17500,
+            "Range": 22,
+            "Damage": 10000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 20000,
+            "Range": 25,
+            "Damage": 10000,
+            "Cooldown": 1
+        }
+    ]
+},
 "Angel": {
     "Type": "Splash",
     "Image": "rbxassetid://121040649459182",
