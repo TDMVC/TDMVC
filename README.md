@@ -1,4 +1,80 @@
 {
+    "System Error Toy Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://83649016714292",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 15,
+                "Damage": 35,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 16,
+                "Damage": 45,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Radioactive Foxy": {
+        "Type": "Melee + Poison",
+        "Image": "rbxassetid://83649016714292",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 15,
+                "Damage": 35,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 16,
+                "Damage": 45,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.05
+            }
+        ]
+    },
 "Ignited Toy Bonnie": {
     "Type": "AOE",
     "Image": "rbxassetid://116282096306009",
