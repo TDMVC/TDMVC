@@ -39,7 +39,7 @@
     },
     "Radioactive Foxy": {
         "Type": "Melee + Poison",
-        "Image": "rbxassetid://83649016714292",
+        "Image": "rbxassetid://120715015165542",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 3,
