@@ -38,10 +38,10 @@
         ]
     },
     "Radioactive Foxy": {
-        "Type": "Melee + Poison",
+        "Type": "Melee",
         "Image": "rbxassetid://120715015165542",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 700,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -51,27 +51,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Range": 13,
+                "Damage": 250,
+                "Cooldown": 1.5
             },
             {
-                "Price": 20000,
+                "Price": 600,
                 "Range": 15,
-                "Damage": 35,
-                "Cooldown": 0.05
+                "Damage": 300,
+                "Cooldown": 1.5
             },
             {
-                "Price": 25000,
-                "Range": 16,
-                "Damage": 45,
-                "Cooldown": 0.05
+                "Price": 800,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 1.5
             },
             {
-                "Price": 30000,
+                "Price": 1000,
                 "Range": 20,
-                "Damage": 50,
-                "Cooldown": 0.05
+                "Damage": 500,
+                "Cooldown": 1
             }
         ]
     },
