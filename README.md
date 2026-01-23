@@ -858,7 +858,7 @@
 "Hunter Foxy": {
     "Type": "Continuous",
     "Image": "rbxassetid://93762940681644",
-    "Rarity": "Nightmare",
+    "Rarity": "Secret",
     "PlacePrice": 25000,
     "Offset": 0,
     "Max": 2,
@@ -869,8 +869,8 @@
     },
     "Upgrades": [
         {
-            "Price": 25000,
-            "Range": 33,
+            "Price": 0,
+            "Range": 20,
             "Damage": 2000,
             "Cooldown": 0.25
         },
@@ -882,13 +882,13 @@
         },
         {
             "Price": 25000,
-            "Range": 35,
+            "Range": 30,
             "Damage": 23000,
             "Cooldown": 0.7
         },
         {
             "Price": 30000,
-            "Range": 45,
+            "Range": 35,
             "Damage": 27000,
             "Cooldown": 0.4
         }
