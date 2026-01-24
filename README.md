@@ -38,6 +38,45 @@
         }
     ]
 },
+"Victory Toy Chica": {
+    "Type": "Splash",
+    "Image": "rbxassetid://111774966439559",
+    "Rarity": "Secret",
+    "PlacePrice": 7500,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 23,
+            "Damage": 6000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 7500,
+            "Range":25,
+            "Damage": 8500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 8000,
+            "Range": 26,
+            "Damage": 7500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 9000,
+            "Range": 26,
+            "Damage": 7500,
+            "Cooldown": 0.8
+        }
+    ]
+},
 "Untouched Mangle": {
     "Type": "Single",
     "Image": "rbxassetid://90276610803926",
