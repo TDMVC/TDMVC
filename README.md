@@ -233,6 +233,45 @@
         }
     ]
 },
+"Modeled Foxy": {
+    "Type": "Melee",
+    "Image": "rbxassetid://117440838720240",
+    "Rarity": "Mythic",
+    "PlacePrice": 3000,
+    "Offset": 0,
+    "Max": 5,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 7500,
+            "Range":15,
+            "Damage": 500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 20000,
+            "Range": 20,
+            "Damage": 5000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 12000,
+            "Range": 25,
+            "Damage": 600,
+            "Cooldown": 1
+        }
+    ]
+},
 "Victory Toy Chica": {
     "Type": "Splash",
     "Image": "rbxassetid://111774966439559",
