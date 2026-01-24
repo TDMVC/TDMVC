@@ -155,6 +155,45 @@
         }
     ]
 },
+"Startime Mangle": {
+    "Type": "Cone AOE",
+    "Image": "rbxassetid://99395152757306",
+    "Rarity": "Mythic",
+    "PlacePrice": 2600,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 14,
+            "Damage": 600,
+            "Cooldown": 1.6
+        },
+        {
+            "Price": 7500,
+            "Range":16,
+            "Damage": 800,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 10000,
+            "Range": 16,
+            "Damage": 1000,
+            "Cooldown": 1.3
+        },
+        {
+            "Price": 12000,
+            "Range": 20,
+            "Damage": 1200,
+            "Cooldown": 1.2
+        }
+    ]
+},
 "System Error Toy Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://83649016714292",
