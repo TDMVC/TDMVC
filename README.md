@@ -77,6 +77,84 @@
         }
     ]
 },
+"Startime Withered Freddy": {
+    "Type": "Single",
+    "Image": "rbxassetid://75529009405158",
+    "Rarity": "Epic",
+    "PlacePrice": 700,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 300,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 750,
+            "Range":15,
+            "Damage": 400,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 1000,
+            "Range": 16,
+            "Damage": 500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 1200,
+            "Range": 16,
+            "Damage": 500,
+            "Cooldown": 1.5
+        }
+    ]
+},
+"Startime Withered Chica": {
+    "Type": "Splash",
+    "Image": "rbxassetid://115438690397502",
+    "Rarity": "Epic",
+    "PlacePrice": 1000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 10,
+            "Damage": 200,
+            "Cooldown": 1
+        },
+        {
+            "Price": 750,
+            "Range":13,
+            "Damage": 300,
+            "Cooldown": 1
+        },
+        {
+            "Price": 1000,
+            "Range": 15,
+            "Damage": 500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 1200,
+            "Range": 17.5,
+            "Damage": 700,
+            "Cooldown": 1
+        }
+    ]
+},
 "Startime Withered Bonnie": {
     "Type": "Pierce",
     "Image": "rbxassetid://108077323251489",
