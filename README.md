@@ -38,6 +38,45 @@
         }
     ]
 },
+"Startime Withered Foxy": {
+    "Type": "Single",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Epic",
+    "PlacePrice": 800,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 750,
+            "Range":15,
+            "Damage": 8500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 1000,
+            "Range": 16,
+            "Damage": 2000,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 1200,
+            "Range": 16,
+            "Damage": 2500,
+            "Cooldown": 0.8
+        }
+    ]
+},
 "Startime Withered Bonnie": {
     "Type": "Pierce",
     "Image": "rbxassetid://108077323251489",
