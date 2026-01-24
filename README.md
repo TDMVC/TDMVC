@@ -1194,13 +1194,13 @@
         },
         {
             "Price": 25000,
-            "Range": 35,
+            "Range": 30,
             "Damage": 500,
             "Cooldown": 0.2
         },
         {
             "Price": 30000,
-            "Range": 65,
+            "Range": 34,
             "Damage": 550,
             "Cooldown": 0.1
         }
