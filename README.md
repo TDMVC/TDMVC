@@ -38,6 +38,45 @@
         }
     ]
 },
+"Bug Fixer Scott": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123269399633304",
+    "Rarity": "Nightmare",
+    "PlacePrice": 25000,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 30,
+            "Damage": 7500,
+            "Cooldown": 4
+        },
+        {
+            "Price": 7500,
+            "Range":30,
+            "Damage": 10000,
+            "Cooldown": 4
+        },
+        {
+            "Price": 20000,
+            "Range": 40,
+            "Damage": 10000,
+            "Cooldown": 3
+        },
+        {
+            "Price": 12000,
+            "Range": 45,
+            "Damage": 15000,
+            "Cooldown": 3
+        }
+    ]
+},
 "Victory Toy Chica": {
     "Type": "Splash",
     "Image": "rbxassetid://111774966439559",
