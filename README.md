@@ -42,7 +42,7 @@
     "Type": "Pierce",
     "Image": "rbxassetid://108077323251489",
     "Rarity": "Mythic",
-    "PlacePrice": 1200,
+    "PlacePrice": 3000,
     "Offset": 0,
     "Max": 4,
     "hitboxOffset": {
@@ -54,25 +54,25 @@
         {
             "Price": 0,
             "Range": 15,
-            "Damage": 2000,
+            "Damage": 200,
             "Cooldown": 2
         },
         {
             "Price": 6000,
             "Range":20,
-            "Damage": 2500,
+            "Damage": 400,
             "Cooldown": 1
         },
         {
             "Price": 8000,
             "Range": 20,
-            "Damage": 3000,
+            "Damage": 600,
             "Cooldown": 1
         },
         {
             "Price": 10000,
             "Range": 25,
-            "Damage": 3000,
+            "Damage": 800,
             "Cooldown": 1
         }
     ]
