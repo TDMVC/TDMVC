@@ -1,5 +1,83 @@
 {
-    "System Error Toy Bonnie": {
+"Animatronic Purple Guy": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Secret",
+    "PlacePrice": 12500,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 7500,
+            "Range":25,
+            "Damage": 8500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 10000,
+            "Range": 30,
+            "Damage": 2000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 12000,
+            "Range": 30,
+            "Damage": 2500,
+            "Cooldown": 1
+        }
+    ]
+},
+"Untouched Mangle": {
+    "Type": "Single",
+    "Image": "rbxassetid://90276610803926",
+    "Rarity": "Secret",
+    "PlacePrice": 5000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 2400,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 7500,
+            "Range":24,
+            "Damage": 4500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 5000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 12000,
+            "Range": 27,
+            "Damage": 5600,
+            "Cooldown": 1.5
+        }
+    ]
+},
+"System Error Toy Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://83649016714292",
         "Rarity": "Secret",
