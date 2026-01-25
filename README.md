@@ -6315,26 +6315,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 30,
-                "Cooldown": 0.005
+                "Damage": 300,
+                "Cooldown": 0.001
             },
             {
                 "Price": 22222,
                 "Range": 28,
-                "Damage": 30,
-                "Cooldown": 0.005
+                "Damage": 300,
+                "Cooldown": 0.001
             },
             {
                 "Price": 33333,
                 "Range": 32,
-                "Damage": 40,
-                "Cooldown": 0.005
+                "Damage": 400,
+                "Cooldown": 0.001
             },
             {
                 "Price": 44444,
-                "Range": 45,
+                "Range": 450,
                 "Damage": 50,
-                "Cooldown": 0.005
+                "Cooldown": 0.001
             }
         ]
     },
