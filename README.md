@@ -5650,45 +5650,6 @@
             }
         ]
     },
-"Haunted Golden Freddy": {
-        "Type": "Single",
-        "Image": "rbxassetid://113183024632182",
-        "Rarity": "Mythic",
-        "PlacePrice": 4000,
-        "Offset": -2,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 500,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 7000,
-                "Range": 18,
-                "Damage": 600,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 10000,
-                "Range": 20,
-                "Damage": 800,
-                "Cooldown": 1
-            },
-            {
-                "Price": 15000,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 1
-            }
-        ]
-    },
 "Cool Toy Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://102583887192750",
@@ -6263,7 +6224,7 @@
     "Old Man Consequences": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://95479691284429",
-        "Rarity": "Apex",
+        "Rarity": "Nightmare",
         "PlacePrice": 11340,
         "Offset": 0.5,
         "Max": 1,
@@ -6276,26 +6237,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 3000,
-                "Cooldown": 0.25
+                "Damage": 30,
+                "Cooldown": 0.005
             },
             {
                 "Price": 22222,
                 "Range": 28,
-                "Damage": 3600,
-                "Cooldown": 0.25
+                "Damage": 30,
+                "Cooldown": 0.005
             },
             {
                 "Price": 33333,
                 "Range": 32,
-                "Damage": 4200,
-                "Cooldown": 0.25
+                "Damage": 40,
+                "Cooldown": 0.005
             },
             {
                 "Price": 44444,
-                "Range": 35,
-                "Damage": 5000,
-                "Cooldown": 0.25
+                "Range": 45,
+                "Damage": 50,
+                "Cooldown": 0.005
             }
         ]
     },
