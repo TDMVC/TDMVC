@@ -38,11 +38,89 @@
         }
     ]
 },
-"Startime Withered Foxy": {
+"Chief": {
+    "Type": "Splash",
+    "Image": "rbxassetid://109825845789459",
+    "Rarity": "Nightmare",
+    "PlacePrice": 5000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 1500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 7000,
+            "Range":20,
+            "Damage": 2000,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 9000,
+            "Range": 24,
+            "Damage": 3000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 20000,
+            "Range": 26,
+            "Damage": 3500,
+            "Cooldown": 0.25
+        }
+    ]
+},
+"General Shadow Freddy": {
+    "Type": "Continuous + Dual",
+    "Image": "rbxassetid://110667252572761",
+    "Rarity": "Secret",
+    "PlacePrice": 3000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 16,
+            "Damage": 5000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 750,
+            "Range":18,
+            "Damage": 6000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 9000,
+            "Range": 22,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 1200,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.25
+        }
+    ]
+},
+"Minion Freddy": {
     "Type": "Single",
-    "Image": "rbxassetid://123312961936967",
-    "Rarity": "Epic",
-    "PlacePrice": 800,
+    "Image": "rbxassetid://122072307755371",
+    "Rarity": "Mythic",
+    "PlacePrice": 1000,
     "Offset": 0,
     "Max": 4,
     "hitboxOffset": {
@@ -53,27 +131,27 @@
     "Upgrades": [
         {
             "Price": 0,
-            "Range": 15,
-            "Damage": 500,
+            "Range": 12,
+            "Damage": 200,
             "Cooldown": 1
         },
         {
-            "Price": 750,
+            "Price": 600,
             "Range":15,
-            "Damage": 8500,
-            "Cooldown": 1
+            "Damage": 100,
+            "Cooldown": 0.5
         },
         {
-            "Price": 1000,
+            "Price": 1750,
             "Range": 16,
-            "Damage": 2000,
-            "Cooldown": 0.8
+            "Damage": 100,
+            "Cooldown": 0.2
         },
         {
-            "Price": 1200,
-            "Range": 16,
-            "Damage": 2500,
-            "Cooldown": 0.8
+            "Price": 3000,
+            "Range": 18,
+            "Damage": 100,
+            "Cooldown": 0.1
         }
     ]
 },
