@@ -38,6 +38,162 @@
         }
     ]
 },
+"Bloodbear": {
+    "Type": "Poison",
+    "Image": "rbxassetid://127444994483134",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 1000,
+            "Cooldown": 1.2
+        },
+        {
+            "Price": 1400,
+            "Range":25,
+            "Damage": 300,
+            "Cooldown": 1.2
+        },
+        {
+            "Price": 16000,
+            "Range": 30,
+            "Damage": 5000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 18000,
+            "Range": 30,
+            "Damage": 10000,
+            "Cooldown": 0.8
+        }
+    ]
+},
+"Heavy Metal Shadow Bonnie": {
+    "Type": "Full AOE",
+    "Image": "rbxassetid://70865223125498",
+    "Rarity": "Secret",
+    "PlacePrice": 15000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 15,
+            "Damage": 500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 12500,
+            "Range":15,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 15000,
+            "Range": 18,
+            "Damage": 500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 17500,
+            "Range": 22,
+            "Damage": 300,
+            "Cooldown": 0.1
+        }
+    ]
+},
+"Corrupted Chica": {
+    "Type": "Secret",
+    "Image": "rbxassetid://85262974847846",
+    "Rarity": "Secret",
+    "PlacePrice": 500,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 16,
+            "Damage": 1000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 1500,
+            "Range":18,
+            "Damage": 2000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 4000,
+            "Range": 18,
+            "Damage": 2000,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 5090,
+            "Range": 20,
+            "Damage": 2200,
+            "Cooldown": 0.8
+        }
+    ]
+},
+"Flame Soldier Bonnie": {
+    "Type": "Wither + Melee",
+    "Image": "rbxassetid://110933348804687",
+    "Rarity": "Nightmare",
+    "PlacePrice": 5000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 5000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 13000,
+            "Range":22,
+            "Damage": 5000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 14000,
+            "Range": 26,
+            "Damage": 6000,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 15000,
+            "Range": 26,
+            "Damage": 6000,
+            "Cooldown": 0.8
+        }
+    ]
+},
 "Chief": {
     "Type": "Splash",
     "Image": "rbxassetid://109825845789459",
