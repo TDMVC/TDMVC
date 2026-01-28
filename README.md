@@ -6410,7 +6410,7 @@
     "ITS ME": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://120282726125561",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 7500,
         "Offset": -1.4,
         "Max": 1,
@@ -6458,7 +6458,7 @@
     "Old Man Consequences": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://95479691284429",
-        "Rarity": "Nightmare",
+        "Rarity": "Apex",
         "PlacePrice": 11340,
         "Offset": 0.5,
         "Max": 1,
@@ -6475,21 +6475,21 @@
                 "Cooldown": 0.001
             },
             {
-                "Price": 22222,
+                "Price": 450,
                 "Range": 28,
-                "Damage": 300,
+                "Damage": 450,
                 "Cooldown": 0.001
             },
             {
-                "Price": 33333,
+                "Price": 3333,
                 "Range": 32,
-                "Damage": 400,
+                "Damage": 600,
                 "Cooldown": 0.001
             },
             {
-                "Price": 44444,
+                "Price": 4444,
                 "Range": 450,
-                "Damage": 50,
+                "Damage": 750,
                 "Cooldown": 0.001
             }
         ]
