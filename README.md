@@ -1,3 +1,4 @@
+
 {
 "Animatronic Purple Guy": {
     "Type": "Splash",
@@ -39,12 +40,12 @@
     ]
 },
 "Corrupting Pirate Foxy": {
-    "Type": "Splash",
+    "Type": "Single",
     "Image": "rbxassetid://94393543106508",
     "Rarity": "Secret",
     "PlacePrice": 450,
     "Offset": 0,
-    "Max": 2,
+    "Max": 4,
     "hitboxOffset": {
         "X": 0,
         "Y": 0,
@@ -53,26 +54,26 @@
     "Upgrades": [
         {
             "Price": 0,
-            "Range": 20,
+            "Range": 22,
+            "Damage": 350,
+            "Cooldown": 1
+        },
+        {
+            "Price": 750,
+            "Range":24,
             "Damage": 400,
             "Cooldown": 1
         },
         {
-            "Price": 7500,
-            "Range":25,
+            "Price": 2000,
+            "Range": 26,
             "Damage": 450,
-            "Cooldown": 1
-        },
-        {
-            "Price": 10000,
-            "Range": 25,
-            "Damage": 500,
             "Cooldown": 0.8
         },
         {
-            "Price": 12000,
-            "Range": 25,
-            "Damage": 1000,
+            "Price": 3500,
+            "Range": 30,
+            "Damage": 700,
             "Cooldown": 0.75
         }
     ]
