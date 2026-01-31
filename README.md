@@ -38,6 +38,45 @@
         }
     ]
 },
+"Corrupting Pirate Foxy": {
+    "Type": "Splash",
+    "Image": "rbxassetid://94393543106508",
+    "Rarity": "Secret",
+    "PlacePrice": 450,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 7500,
+            "Range":25,
+            "Damage": 500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 12000,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.75
+        }
+    ]
+},
 "Bloodbear": {
     "Type": "Poison",
     "Image": "rbxassetid://127444994483134",
