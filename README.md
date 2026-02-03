@@ -1,4 +1,3 @@
-
 {
 "Animatronic Purple Guy": {
     "Type": "Splash",
@@ -36,6 +35,162 @@
             "Range": 30,
             "Damage": 2500,
             "Cooldown": 1
+        }
+    ]
+},
+"Twisted Bonnie": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Secret",
+    "PlacePrice": 100,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 2000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 7500,
+            "Range":22,
+            "Damage": 2200,
+            "Cooldown": 1
+        },
+        {
+            "Price": 10000,
+            "Range": 26,
+            "Damage": 2500,
+            "Cooldown": 0.9
+        },
+        {
+            "Price": 12000,
+            "Range": 26,
+            "Damage": 4000,
+            "Cooldown": 0.7
+        }
+    ]
+},
+"Void Twisted Bonnie": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Secret",
+    "PlacePrice": 100,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 3000,
+            "Cooldown": 1.4
+        },
+        {
+            "Price": 7500,
+            "Range":22,
+            "Damage": 3200,
+            "Cooldown": 0.9
+        },
+        {
+            "Price": 10000,
+            "Range": 26,
+            "Damage": 3500,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 12000,
+            "Range": 26,
+            "Damage": 4500,
+            "Cooldown": 0.6
+        }
+    ]
+},
+"Twisted Freddy": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Mythic",
+    "PlacePrice": 100,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 2000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 7500,
+            "Range":22,
+            "Damage": 2200,
+            "Cooldown": 1
+        },
+        {
+            "Price": 10000,
+            "Range": 26,
+            "Damage": 2500,
+            "Cooldown": 0.9
+        },
+        {
+            "Price": 12000,
+            "Range": 26,
+            "Damage": 4000,
+            "Cooldown": 0.7
+        }
+    ]
+},
+"Void Twisted Freddy": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Mythic",
+    "PlacePrice": 100,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 3000,
+            "Cooldown": 1.4
+        },
+        {
+            "Price": 7500,
+            "Range":22,
+            "Damage": 3200,
+            "Cooldown": 0.9
+        },
+        {
+            "Price": 10000,
+            "Range": 26,
+            "Damage": 3500,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 12000,
+            "Range": 26,
+            "Damage": 4500,
+            "Cooldown": 0.6
         }
     ]
 },
