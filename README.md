@@ -38,6 +38,84 @@
         }
     ]
 },
+"Hacklord Shadow Bonnie": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Secret",
+    "PlacePrice": 100,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 7500,
+            "Range":25,
+            "Damage": 8500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 10000,
+            "Range": 30,
+            "Damage": 2000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 12000,
+            "Range": 30,
+            "Damage": 2500,
+            "Cooldown": 1
+        }
+    ]
+},
+"Void Hacklord Shadow Bonnie": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Secret",
+    "PlacePrice": 100,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 7500,
+            "Range":25,
+            "Damage": 8500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 10000,
+            "Range": 30,
+            "Damage": 2000,
+            "Cooldown": 1
+        },
+        {
+            "Price": 12000,
+            "Range": 30,
+            "Damage": 2500,
+            "Cooldown": 1
+        }
+    ]
+},
 "Twisted Bonnie": {
     "Type": "Splash",
     "Image": "rbxassetid://123312961936967",
