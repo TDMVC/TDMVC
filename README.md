@@ -39,10 +39,10 @@
     ]
 },
 "Hacklord Shadow Bonnie": {
-    "Type": "Splash",
-    "Image": "rbxassetid://123312961936967",
+    "Type": "Full AOE",
+    "Image": "rbxassetid://130082324316231",
     "Rarity": "Secret",
-    "PlacePrice": 100,
+    "PlacePrice": 15000,
     "Offset": 0,
     "Max": 2,
     "hitboxOffset": {
@@ -53,35 +53,35 @@
     "Upgrades": [
         {
             "Price": 0,
-            "Range": 20,
-            "Damage": 500,
-            "Cooldown": 2
+            "Range": 18,
+            "Damage": 1000,
+            "Cooldown": 1.2
         },
         {
             "Price": 7500,
-            "Range":25,
-            "Damage": 8500,
-            "Cooldown": 2
+            "Range":22,
+            "Damage": 1500,
+            "Cooldown": 1
         },
         {
             "Price": 10000,
-            "Range": 30,
-            "Damage": 2000,
-            "Cooldown": 1
+            "Range": 24,
+            "Damage": 1500,
+            "Cooldown": 0.75
         },
         {
             "Price": 12000,
-            "Range": 30,
-            "Damage": 2500,
-            "Cooldown": 1
+            "Range": 26,
+            "Damage": 1500,
+            "Cooldown": 0.3
         }
     ]
 },
 "Void Hacklord Shadow Bonnie": {
-    "Type": "Splash",
-    "Image": "rbxassetid://123312961936967",
+    "Type": "Full AOE",
+    "Image": "rbxassetid://136673777865040",
     "Rarity": "Secret",
-    "PlacePrice": 100,
+    "PlacePrice": 15000,
     "Offset": 0,
     "Max": 2,
     "hitboxOffset": {
@@ -93,26 +93,26 @@
         {
             "Price": 0,
             "Range": 20,
-            "Damage": 500,
-            "Cooldown": 2
+            "Damage": 1000,
+            "Cooldown": 1
         },
         {
             "Price": 7500,
             "Range":25,
-            "Damage": 8500,
-            "Cooldown": 2
+            "Damage": 1500,
+            "Cooldown": 1
         },
         {
             "Price": 10000,
             "Range": 30,
-            "Damage": 2000,
-            "Cooldown": 1
+            "Damage": 1500,
+            "Cooldown": 0.5
         },
         {
             "Price": 12000,
             "Range": 30,
-            "Damage": 2500,
-            "Cooldown": 1
+            "Damage": 1500,
+            "Cooldown": 0.25
         }
     ]
 },
