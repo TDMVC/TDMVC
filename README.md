@@ -38,6 +38,45 @@
         }
     ]
 },
+"Toy Soldier Freddy": {
+    "Type": "Single",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Epic",
+    "PlacePrice": 800,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 12,
+            "Damage": 200,
+            "Cooldown": 2
+        },
+        {
+            "Price": 500,
+            "Range":15,
+            "Damage": 400,
+            "Cooldown": 2
+        },
+        {
+            "Price": 1000,
+            "Range": 15,
+            "Damage": 600,
+            "Cooldown": 1
+        },
+        {
+            "Price": 1500,
+            "Range": 17.5,
+            "Damage": 6000,
+            "Cooldown": 1
+        }
+    ]
+},
 "Overgrown Foxy": {
     "Type": "Splash",
     "Image": "rbxassetid://100475599798880",
