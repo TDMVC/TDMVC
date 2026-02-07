@@ -38,6 +38,84 @@
         }
     ]
 },
+"Overgrown Foxy": {
+    "Type": "Splash",
+    "Image": "rbxassetid://100475599798880",
+    "Rarity": "Nightmare",
+    "PlacePrice": 12500,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 17.5,
+            "Damage": 500,
+            "Cooldown": 0.25
+        },
+        {
+            "Price": 10000,
+            "Range":25,
+            "Damage": 550,
+            "Cooldown": 0.25
+        },
+        {
+            "Price": 15000,
+            "Range": 30,
+            "Damage": 650,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 20000,
+            "Range": 30,
+            "Damage": 750,
+            "Cooldown": 0.2
+        }
+    ]
+},
+"Void Overgrown Foxy": {
+    "Type": "Splash",
+    "Image": "rbxassetid://115713360057685",
+    "Rarity": "Nightmare",
+    "PlacePrice": 15000,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 550,
+            "Cooldown": 0.25
+        },
+        {
+            "Price": 10000,
+            "Range":25,
+            "Damage": 600,
+            "Cooldown": 0.25
+        },
+        {
+            "Price": 15000,
+            "Range": 30,
+            "Damage": 750,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 20000,
+            "Range": 30,
+            "Damage": 1000,
+            "Cooldown": 0.2
+        }
+    ]
+},
 "Hacklord Shadow Bonnie": {
     "Type": "Full AOE",
     "Image": "rbxassetid://130082324316231",
