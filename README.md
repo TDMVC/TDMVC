@@ -40,7 +40,7 @@
 },
 "Yukon Freddy": {
     "Type": "Splash",
-    "Image": "rbxassetid://123312961936967",
+    "Image": "rbxassetid://108172820315503",
     "Rarity": "Nightmare",
     "PlacePrice": 35000,
     "Offset": 0,
@@ -79,7 +79,7 @@
 },
 "Void Yukon Freddy": {
     "Type": "Splash",
-    "Image": "rbxassetid://123312961936967",
+    "Image": "rbxassetid://108172820315503",
     "Rarity": "Nightmare",
     "PlacePrice": 40000,
     "Offset": 0,
