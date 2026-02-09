@@ -38,6 +38,84 @@
         }
     ]
 },
+"Yukon Freddy": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Nightmare",
+    "PlacePrice": 35000,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 30,
+            "Damage": 3000,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 22000,
+            "Range": 32,
+            "Damage": 7500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 35000,
+            "Range": 35,
+            "Damage": 12500,
+            "Cooldown": 1.2
+        },
+        {
+            "Price": 50000,
+            "Range": 40,
+            "Damage": 12500,
+            "Cooldown": 1.2
+        }
+    ]
+},
+"Void Yukon Freddy": {
+    "Type": "Splash",
+    "Image": "rbxassetid://123312961936967",
+    "Rarity": "Nightmare",
+    "PlacePrice": 40000,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 35,
+            "Damage": 4500,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 22000,
+            "Range": 36,
+            "Damage": 8000,
+            "Cooldown": 1.3
+        },
+        {
+            "Price": 35000,
+            "Range": 40,
+            "Damage": 14000,
+            "Cooldown": 1.1
+        },
+        {
+            "Price": 50000,
+            "Range": 50,
+            "Damage": 15000,
+            "Cooldown": 1.1
+        }
+    ]
+},
 "Toy Soldier Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://92103792380556",
