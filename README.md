@@ -37,12 +37,12 @@
             }
         ]
     },
-     "Gold Freddy": {
-        "Type": "NR 1 Wins",
-        "Image": "rbxassetid://116159060262577",
-        "Rarity": "Secret",
-        "PlacePrice": 55000,
-        "Max": 1,
+ "Loving Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://101310474522196",
+        "Rarity": "Uncommon",
+        "PlacePrice": 100,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -51,27 +51,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 45,
-                "Damage": 55,
-                "Cooldown": 0.05
+                "Range": 12,
+                "Damage": 80,
+                "Cooldown": 1
             },
             {
                 "Price": 800,
-                "Range": 50,
-                "Damage": 75,
-                "Cooldown": 0.01
+                "Range": 14,
+                "Damage": 120,
+                "Cooldown": 1
             },
             {
                 "Price": 1200,
-                "Range": 55,
-                "Damage": 90,
-                "Cooldown": 0.01
+                "Range": 16,
+                "Damage": 175,
+                "Cooldown": 1
             },
             {
                 "Price": 1500,
-                "Range": 60,
-                "Damage": 105,
-                "Cooldown": 0.005
+                "Range": 20,
+                "Damage": 180,
+                "Cooldown": 0.5
             }
         ]
     },
