@@ -75,6 +75,234 @@
             }
         ]
     },
+     "Lover Lolbit": {
+        "Type": "AOE",
+        "Image": "rbxassetid://71420165087777",
+        "Rarity": "Rare",
+        "PlacePrice": 350,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 450,
+                "Cooldown": 3
+            },
+            {
+                "Price": 800,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 24,
+                "Damage": 550,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 24,
+                "Damage": 600,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+     "Chocolate Rockstar Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://110534167678130",
+        "Rarity": "Epic",
+        "PlacePrice": 3750,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 8000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 800,
+                "Range": 30,
+                "Damage": 12000,
+                "Cooldown": 4.5
+            },
+            {
+                "Price": 1200,
+                "Range": 40,
+                "Damage": 18000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 1500,
+                "Range": 45,
+                "Damage": 22000,
+                "Cooldown": 3.5
+            }
+        ]
+    },
+     "Chocolate Fredbear": {
+        "Type": "AOE",
+        "Image": "rbxassetid://84786162722752",
+        "Rarity": "Mythic",
+        "PlacePrice": 789,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 80,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 800,
+                "Range": 14,
+                "Damage": 120,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 175,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 180,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+     "Cupided ITS ME": {
+        "Type": "AOE",
+        "Image": "rbxassetid://72945346248386",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 66,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 800,
+                "Range": 24,
+                "Damage": 88,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 1200,
+                "Range": 34,
+                "Damage": 111,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 1500,
+                "Range": 38,
+                "Damage": 122,
+                "Cooldown": 0.01
+            }
+        ]
+    },
+     "Pink Ice Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://101362230524124",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7427,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 52,
+                "Damage": 8000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 64,
+                "Damage": 10020,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 76,
+                "Damage": 17005,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 80,
+                "Damage": 18000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+     "Chocolate Goliath Endo Freddy": {
+        "Type": "%@3#:D",
+        "Image": "rbxassetid://136113929232040",
+        "Rarity": "Apex",
+        "PlacePrice": 100000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 29,
+                "Damage": 23200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 38,
+                "Damage": 45000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 49,
+                "Damage": 78000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 57,
+                "Damage": 111000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
      "Bouncer": {
         "Type": "Snow",
         "Image": "rbxassetid://111690369757083",
