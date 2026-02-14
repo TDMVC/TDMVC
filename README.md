@@ -39,7 +39,7 @@
     },
  "Loving Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://101310474522196",
+        "Image": "rbxassetid://86825886492778",
         "Rarity": "Uncommon",
         "PlacePrice": 100,
         "Max": 3,
