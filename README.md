@@ -229,7 +229,7 @@
     },
      "Pink Ice Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://101362230524124",
+        "Image": "rbxassetid://78762820709978",
         "Rarity": "Nightmare",
         "PlacePrice": 7427,
         "Max": 3,
