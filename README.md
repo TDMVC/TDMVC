@@ -191,7 +191,7 @@
     },
      "Cupided ITS ME": {
         "Type": "AOE",
-        "Image": "rbxassetid://72945346248386",
+        "Image": "rbxassetid://89267258968212",
         "Rarity": "Secret",
         "PlacePrice": 25000,
         "Max": 2,
