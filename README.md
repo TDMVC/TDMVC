@@ -115,7 +115,7 @@
     },
      "Chocolate Rockstar Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://110534167678130",
+        "Image": "rbxassetid://91479952364314",
         "Rarity": "Epic",
         "PlacePrice": 3750,
         "Max": 1,
