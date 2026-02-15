@@ -6168,6 +6168,304 @@
             }
         ]
     },
+    "Dreadbear": {
+        "Type": "AOE Burn + Stun",
+        "Image": "rbxassetid://71876084991999",
+        "Rarity": "Nightmare",
+        "PlacePrice": 51000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Frightful Terror", "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 38000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 9500,
+                "BurnTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 32,
+                "Damage": 44000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 11000,
+                "BurnTime": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 50000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 12500,
+                "BurnTime": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 38,
+                "Damage": 56000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 14000,
+                "BurnTime": 1
+            }
+        ]
+    },
+"Jack O Bonnie": {
+        "Type": "Cone AOE Burst",
+        "Image": "rbxassetid://138089489409264",
+        "Rarity": "Mythic",
+        "PlacePrice": 6000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+          "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Burn": 25,
+                "BurnTime": 2,
+                "Cooldown": 0.5,
+                "ChargeTime": 2
+            },
+            {
+                "Price": 8000,
+                "Range": 22,
+                "Damage": 300,
+                "Burn": 25,
+                "BurnTime": 2,
+                "Cooldown": 0.5,
+                "ChargeTime": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 350,
+                "Burn": 25,
+                "BurnTime": 2,
+                "Cooldown": 0.5,
+                "ChargeTime": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 400,
+                "Burn": 25,
+                "BurnTime": 2,
+                "Cooldown": 0.5,
+                "ChargeTime": 2
+            } 
+        ]
+    },
+"Jack O Endo": {
+        "Type": "Continuous Burn",
+        "Image": "rbxassetid://140269643382452",
+        "Rarity": "Secret",
+        "PlacePrice": 17500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 140,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 0.1
+                
+            },
+            {
+                "Price": 15000,
+                "Range": 28,
+                "Damage": 180,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 32,
+                "Damage": 240,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 35,
+                "Damage": 270,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+"Jack O Chica": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://127828338385715",
+        "Rarity": "Rare",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 300,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 3
+            },
+            {
+                "Price": 4000,
+                "Range": 24,
+                "Damage": 350,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.85
+            },
+            {
+                "Price": 5000,
+                "Range": 27,
+                "Damage": 400,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 6000,
+                "Range": 30,
+                "Damage": 450,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+"Pumpkin Balloon Boy": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://114209077497389",
+        "Rarity": "Epic",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 3
+            },
+            {
+                "Price": 6000,
+                "Range": 24,
+                "Damage": 550,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.85
+            },
+            {
+                "Price": 7000,
+                "Range": 27,
+                "Damage": 600,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 8000,
+                "Range": 30,
+                "Damage": 650,
+                "Burn": 10,
+                "BurnTime": 2,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+    "Gravelord Foxy": {
+        "Type": "Summon",
+        "Image": "rbxassetid://76307842206911",
+        "Rarity": "Apex",
+        "PlacePrice": 20000,
+        "Offset": 0.5,
+        "Max": 4,
+        "Passive": {"Name": "Necromancer", "Description": "Summons spawns every 10 seconds that have health equal to 70 times this units damage"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 3000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 40,
+                "Damage": 3600,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 40000,
+                "Range": 45,
+                "Damage": 4000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 50000,
+                "Range": 50,
+                "Damage": 5000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
