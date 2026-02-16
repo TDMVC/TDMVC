@@ -1,10 +1,10 @@
 {
- "Yolly Freddy": {
-        "Type": "Yolly",
-        "Image": "rbxassetid://116159060262577",
-        "Rarity": "Uncommon",
-        "PlacePrice": 100,
-        "Max": 3,
+ "Demon Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://86038249184561",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -13,27 +13,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 60,
-                "Cooldown": 1.5
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1
             },
             {
                 "Price": 800,
-                "Range": 12,
-                "Damage": 75,
+                "Range": 17.5,
+                "Damage": 350,
                 "Cooldown": 1
             },
             {
                 "Price": 1200,
-                "Range": 14,
-                "Damage": 90,
+                "Range": 18,
+                "Damage": 500,
                 "Cooldown": 1
             },
             {
                 "Price": 1500,
-                "Range": 16,
-                "Damage": 105,
-                "Cooldown": 0.5
+                "Range": 18,
+                "Damage": 500,
+                "Cooldown": 0.8
             }
         ]
     },
@@ -110,6 +110,82 @@
                 "Range": 26,
                 "Damage": 2500,
                 "Cooldown": 0.5
+            }
+        ]
+    },
+ "Yolly Freddy": {
+        "Type": "Yolly",
+        "Image": "rbxassetid://116159060262577",
+        "Rarity": "Uncommon",
+        "PlacePrice": 100,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 60,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 12,
+                "Damage": 75,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 14,
+                "Damage": 90,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 16,
+                "Damage": 105,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+"Bug Fixer Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://114456314613630",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 30000,
+                "Range": 26,
+                "Damage": 7500,
+                "Cooldown": 4
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 7500,
+                "Cooldown": 4
+            },
+            {
+                "Price": 75000,
+                "Range": 35,
+                "Damage": 10000,
+                "Cooldown": 3.5
             }
         ]
     },
