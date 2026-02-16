@@ -37,6 +37,44 @@
             }
         ]
     },
+ "Animatronic Purple Guy": {
+        "Type": "Single",
+        "Image": "rbxassetid://98950636005837",
+        "Rarity": "Epic",
+        "PlacePrice": 100,
+        "Max": 6,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 20,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 10,
+                "Damage": 30,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 11,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 13,
+                "Damage": 75,
+                "Cooldown": 0.75
+            }
+        ]
+    },
 "Bug Fixer Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://114456314613630",
