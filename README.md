@@ -37,6 +37,44 @@
             }
         ]
     },
+    "Yukon Freddy": {
+        "Type": "Admin",
+        "Image": "rbxassetid://108172820315503",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 23,
+                "Damage": 2000,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1500,
+                "Range": 26,
+                "Damage": 5000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
  "Loving Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://86825886492778",
