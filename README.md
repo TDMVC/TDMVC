@@ -6656,6 +6656,213 @@
             }
         ]
     },
+        "Lefty": {
+        "Type": "AOE + Summon",
+        "Image": "rbxassetid://71854603701229",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Puppet", "Description": "Summons crying souls that are equal to 100x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 550,
+                "Unit": {"Haunted Soul": 1},
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 800,
+                "Unit": {"Haunted Soul": 1},
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 30000,
+                "Range": 31,
+                "Damage": 950,
+                "Unit": {"Haunted Soul": 1},
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 40000,
+                "Range": 35,
+                "Damage": 1250,
+                "Unit": {"Haunted Soul": 1},
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Rockstar Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://115841320633400",
+        "Rarity": "Rare",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 3
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 250,
+                "Cooldown": 3
+            },
+            {
+                "Price": 1200,
+                "Range": 18,
+                "Damage": 300,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1600,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Rockstar Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://136650589101234",
+        "Rarity": "Epic",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 4000,
+                "Range": 17,
+                "Damage": 650,
+                "Cooldown": 3
+            },
+            {
+                "Price": 6000,
+                "Range": 18,
+                "Damage": 750,
+                "Cooldown": 2
+            },
+            {
+                "Price": 8000,
+                "Range": 20,
+                "Damage": 900,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Rockstar Bonnie": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://134586861865689",
+        "Rarity": "Mythic",
+        "PlacePrice": 8000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 1250,
+                "Cooldown": 1.65
+            },
+            {
+                "Price": 14000,
+                "Range": 24,
+                "Damage": 1500,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Rockstar Foxy": {
+        "Type": "AOE + Booster",
+        "Image": "rbxassetid://94327478010876",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "NoEnemyAttack": true,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Sea Shanty", "Description": "All units in range get +35% range (x1.25 if shiny)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.1,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 0.1,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 25000,
+                "Range": 24,
+                "Damage": 200,
+                "Cooldown": 0.1,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 250,
+                "Cooldown": 0.1,
+                "RangeBoost": 1.35
+            }
+        ]
+    },
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
