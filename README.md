@@ -37,6 +37,44 @@
             }
         ]
     },
+"Bug Fixer Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://116159060262577",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 30000,
+                "Range": 26,
+                "Damage": 7500,
+                "Cooldown": 4
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 7500,
+                "Cooldown": 4
+            },
+            {
+                "Price": 75000,
+                "Range": 35,
+                "Damage": 10000,
+                "Cooldown": 3.5
+            }
+        ]
+    },
     "Yukon Freddy": {
         "Type": "Admin",
         "Image": "rbxassetid://108172820315503",
@@ -64,13 +102,13 @@
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 2500,
+                "Damage": 2000,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1500,
                 "Range": 26,
-                "Damage": 5000,
+                "Damage": 2500,
                 "Cooldown": 0.5
             }
         ]
