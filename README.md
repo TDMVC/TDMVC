@@ -75,7 +75,7 @@
             }
         ]
     },
-     "Upgraded Titan Speakerman": {
+     "Armoured Titan Speakerman": {
         "Type": "AOE",
         "Image": "rbxassetid://86038249184561",
         "Rarity": "Secret",
