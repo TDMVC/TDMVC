@@ -117,7 +117,7 @@
         "Type": "Admin",
         "Image": "rbxassetid://108172820315503",
         "Rarity": "Nightmare",
-        "PlacePrice": 100000,
+        "PlacePrice": 10000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
