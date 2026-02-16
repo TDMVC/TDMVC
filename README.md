@@ -39,7 +39,7 @@
     },
 "Bug Fixer Scott": {
         "Type": "Splash",
-        "Image": "rbxassetid://116159060262577",
+        "Image": "rbxassetid://114456314613630",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Max": 1,
