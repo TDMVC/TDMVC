@@ -6485,7 +6485,6 @@
                 "Burn": 10,
                 "BurnTime": 2,
                 "Cooldown": 0.1
-                
             },
             {
                 "Price": 15000,
@@ -6659,7 +6658,7 @@
         "Lefty": {
         "Type": "AOE + Summon",
         "Image": "rbxassetid://71854603701229",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
