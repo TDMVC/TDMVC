@@ -6934,7 +6934,7 @@
         "Helpy": {
         "Type": "Damage + Range Booster",
         "Image": "rbxassetid://135679216615409",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 800,
         "Offset": -0.75,
         "Max": 3,
