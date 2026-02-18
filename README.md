@@ -6818,6 +6818,380 @@
             }
         ]
     },
+        "Helpy": {
+        "Type": "Damage + Range Booster",
+        "Image": "rbxassetid://135679216615409",
+        "Rarity": "Nightmare",
+        "PlacePrice": 800,
+        "Offset": -0.75,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "DamageBoost": 1.27,
+                "RangeBoost": 1.27
+            }
+        ]
+    },
+    "Molten Freddy": {
+        "Type": "Explosion Burn",
+        "Image": "rbxassetid://72496434217414",
+        "Rarity": "Secret",
+        "PlacePrice": 17500,
+        "Offset": -0.75,
+        "Max": 3,
+        "MaxChain": 5,
+        "Passive": {"Name": "Burn", "Description": "Applies 100% Burn damage over 3 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 3,
+                "Burn": 39000,
+                "BurnTime": 3
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 15000,
+                "Cooldown": 3,
+                "Burn": 45000,
+                "BurnTime": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 17000,
+                "Cooldown": 3,
+                "Burn": 51000,
+                "BurnTime": 3
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 19000,
+                "Cooldown": 3,
+                "Burn": 57000,
+                "BurnTime": 3
+            }
+        ]
+    },
+    "Security Puppet": {
+        "Type": "Pierce + Slow",
+        "Image": "rbxassetid://85978475503613",
+        "Rarity": "Secret",
+        "PlacePrice": 12500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1200,
+                "Cooldown": 1.5,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 1400,
+                "Cooldown": 1.4,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 17500,
+                "Range": 24,
+                "Damage": 1600,
+                "Cooldown": 1.3,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 2800,
+                "Cooldown": 1.2,
+                "Slow": 0.80,
+                "SlowTime": 1
+            }
+        ]
+    },    
+    "Scrap Baby": {
+        "Type": "AOE + Wither",
+        "Image": "rbxassetid://96792758281792",
+        "Rarity": "Nightmare",
+        "PlacePrice": 6000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Scrapyard", "Description": "Enemies hit by this unit take +15% more damage."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 5000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 1.5
+            },
+            {
+                "Price": 8000,
+                "Range": 30,
+                "Damage": 6800,
+                "Cooldown": 1.8,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 1.5
+            },
+            {
+                "Price": 10000,
+                "Range": 32,
+                "Damage": 7200,
+                "Cooldown": 1.6,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 1.5
+            },
+            {
+                "Price": 12000,
+                "Range": 35,
+                "Damage": 9000,
+                "Cooldown": 1.5,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 1.5
+            }
+        ]
+    },
+    "Bucket Bob": {
+        "Type": "AOE + Slow",
+        "Image": "rbxassetid://126581484399291",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Offset": -0.925,
+        "Max": 4,
+        "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 20%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 60,
+                "Cooldown": 0.6,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 450,
+                "Range": 20,
+                "Damage": 70,
+                "Cooldown": 0.5,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 22,
+                "Damage": 80,
+                "Cooldown": 0.4,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 0.4,
+                "Slow": 0.80,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Jar of Pickles": {
+        "Type": "Booster + Slow",
+        "Image": "rbxassetid://98177156677827",
+        "Rarity": "Nightmare",
+        "PlacePrice": 3000,
+        "Offset": -2,
+        "Max": 3,
+        "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 60%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 2.2,
+                "RangeBoost": 1.5,
+                "Slow": 0.4,
+                "SlowTime": 5
+            },
+            {
+                "Price": 4000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 2.2,
+                "RangeBoost": 1.6,
+                "Slow": 0.4,
+                "SlowTime": 5
+            },
+            {
+                "Price": 5000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 2.2,
+                "RangeBoost": 1.7,
+                "Slow": 0.4,
+                "SlowTime": 5
+            },
+            {
+                "Price": 6000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 2.2,
+                "RangeBoost": 1.8,
+                "Slow": 0.4,
+                "SlowTime": 5
+            }
+        ]
+    },
+    "Number 1 Crate": {
+        "Type": "AOE",
+        "Image": "rbxassetid://75811990729586",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Offset": -2.25,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 15,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 600,
+                "Range": 16,
+                "Damage": 30,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 800,
+                "Range": 18,
+                "Damage": 40,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "Scraptrap": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://101802698966800",
+        "Rarity": "Nightmare",
+        "PlacePrice": 11000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 7000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 14000,
+                "Range": 28,
+                "Damage": 8000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 16000,
+                "Range": 31,
+                "Damage": 9000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 35,
+                "Damage": 10000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Rockstar Foxy": {
         "Type": "AOE + Booster",
         "Image": "rbxassetid://94327478010876",
