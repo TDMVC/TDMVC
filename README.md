@@ -37,7 +37,7 @@
             }
         ]
     },
-     "Blocky Doc": {
+"Blocky Doc": {
         "Type": "AOE",
         "Image": "rbxassetid://86038249184561",
         "Rarity": "Secret",
@@ -75,7 +75,7 @@
             }
         ]
     },
-     "Blocky Chef": {
+"Blocky Chef": {
         "Type": "AOE",
         "Image": "rbxassetid://86038249184561",
         "Rarity": "Secret",
@@ -113,7 +113,7 @@
             }
         ]
     },
-     "Grinder": {
+"Grinder": {
         "Type": "AOE",
         "Image": "rbxassetid://86038249184561",
         "Rarity": "Secret",
