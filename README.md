@@ -7237,6 +7237,265 @@
             }
         ]
     },
+    "Eclipse Ballora": {
+        "Type": "Damage + Cooldown Booster",
+        "Image": "rbxassetid://87973816034102",
+        "Rarity": "Nightmare",
+        "PlacePrice": 850,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 1250,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.2
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.73,
+                "DamageBoost": 1.27
+            }
+        ]
+    },
+"Jack O Cannon": {
+        "Type": "Splash",
+        "Image": "rbxassetid://96604370427078",
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
+        "Offset": -0.5,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4000,
+                "Range": 28,
+                "Damage": 9000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 5000,
+                "Range": 32,
+                "Damage": 12000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 35,
+                "Damage": 15000,
+                "Cooldown": 2
+            }
+        ]
+    },
+"Scarecrow Foxy": {
+        "Type": "Splash Stun + Passive",
+        "Image": "rbxassetid://112050273953919",
+        "Rarity": "Nightmare",
+        "PlacePrice": 16000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Fright", "Description": "Burns enemies at 50% over 2 seconds and applies 50% Anti Regen for 1 second"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 8000,
+                "Cooldown": 2.7,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 8000,
+                "BurnTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 2.7,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 10000,
+                "BurnTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 12000,
+                "Cooldown": 2.7,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 12000,
+                "BurnTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 14400,
+                "Cooldown": 2.7,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 14400,
+                "BurnTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            }
+        ]
+    },
+ "Clowntrap": {
+        "Type": "Splash Stun",
+        "Image": "rbxassetid://98100058612651",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Clown Show", "Description": "Attacks Stun enemies for 0.5 seconds and apply 10% Wither for 1.5 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 1.5
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 4400,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 1.5
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 5500,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 1.5
+            },
+            {
+                "Price": 16000,
+                "Range": 28,
+                "Damage": 6250,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 1.5
+            }
+        ]
+    },
+ "Grimm Foxy": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://101295016610509",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 1,
+        "Max": 3,
+        "Passive": {"Name": "Burn", "Description": "Burns enemies at 125% over 2 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1.5,
+                "Burn": 500,
+                "BurnTime": 2
+            },
+            {
+                "Price": 400,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 1.5,
+                "Burn": 625,
+                "BurnTime": 2
+            },
+            {
+                "Price": 500,
+                "Range": 24,
+                "Damage": 600,
+                "Cooldown": 1.5,
+                "Burn": 750,
+                "BurnTime": 2
+            },
+            {
+                "Price": 600,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 1.5,
+                "Burn": 1000,
+                "BurnTime": 2
+            }
+        ]
+    },
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
