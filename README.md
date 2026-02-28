@@ -1,7 +1,7 @@
 {
  "Noob": {
         "Type": "Single",
-        "Image": "rbxassetid://86038249184561",
+        "Image": "rbxassetid://81173129487485",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 5,
@@ -39,7 +39,7 @@
     },
  "Spaceman Blue": {
         "Type": "Pierce",
-        "Image": "rbxassetid://86038249184561",
+        "Image": "rbxassetid://127615883803937",
         "Rarity": "Epic",
         "PlacePrice": 750,
         "Max": 3,
@@ -77,7 +77,7 @@
     },
 "Minifigurw": {
         "Type": "Single",
-        "Image": "rbxassetid://86038249184561",
+        "Image": "rbxassetid://113868767541818",
         "Rarity": "Uncommon",
         "PlacePrice": 250,
         "Max": 6,
