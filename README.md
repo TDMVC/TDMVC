@@ -75,7 +75,7 @@
             }
         ]
     },
-"Minifigurw": {
+"Minifigure": {
         "Type": "Single",
         "Image": "rbxassetid://113868767541818",
         "Rarity": "Uncommon",
