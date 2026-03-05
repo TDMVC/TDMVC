@@ -78,7 +78,7 @@
      "Spaceman Red": {
         "Type": "Pierce",
         "Image": "rbxassetid://127615883803937",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 750,
         "Max": 3,
         "hitboxOffset": {
@@ -116,7 +116,7 @@
      "Mr Gold": {
         "Type": "Pierce",
         "Image": "rbxassetid://127615883803937",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 750,
         "Max": 3,
         "hitboxOffset": {
