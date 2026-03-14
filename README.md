@@ -38,6 +38,84 @@
             }
         ]
     },
+	    "Radioactive Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://120715015165542",
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 40,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 1250,
+                "Range": 18,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4300,
+                "Range": 18,
+                "Damage": 60,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 6250,
+                "Range": 22,
+                "Damage": 1250,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+		    "Victory Toy Chica": {
+        "Type": "Spash",
+        "Image": "rbxassetid://111774966439559",
+        "Rarity": "Mythic",
+        "PlacePrice": 2700,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 3000,
+                "Range": 18,
+                "Damage": 456,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 6200,
+                "Range": 18,
+                "Damage": 700,
+                "Cooldown": 1
+            },
+            {
+                "Price": 8950,
+                "Range": 22,
+                "Damage": 710,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
