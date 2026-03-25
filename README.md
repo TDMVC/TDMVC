@@ -656,6 +656,45 @@
             }
         ]
     },
+	  "Bounded Shadow": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16781077553",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "AnimationOffset": -5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 4
+            },
+            {
+                "Price": 10000,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 700,
+                "Cooldown": 3
+            }
+        ]
+    },
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
