@@ -38,6 +38,45 @@
             }
         ]
     },
+	    "Sand Castle Foxy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://75190922619252",
+        "Rarity": "Secret",
+        "PlacePrice": 4500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5240,
+                "Range": 19,
+                "Damage": 425,
+                "Cooldown": 1
+            },
+            {
+                "Price": 6540,
+                "Range": 20,
+                "Damage": 450,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
