@@ -737,8 +737,8 @@
     "Withered Golden Freddy": {
         "Type": "Single Wither",
         "Image": "rbxassetid://16781122207",
-        "Rarity": "Nightmare",
-        "PlacePrice": 4000,
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
         "Max": 4,
         "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
         "hitboxOffset": {
