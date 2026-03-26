@@ -38,13 +38,13 @@
             }
         ]
     },
-	    "Sand Castle Foxy": {
-        "Type": "Splash",
-        "Image": "rbxassetid://75190922619252",
+    "Sand Castle Foxy": {
+        "Type": "Support",
+        "Image": "rbxassetid://92986091581137",
         "Rarity": "Secret",
-        "PlacePrice": 4500,
-        "Max": 2,
-        "Offset": 0.3,
+        "PlacePrice": 2250,
+        "NoEnemyAttack": true,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -53,27 +53,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 250,
-                "Cooldown": 1
+                "Range": 17,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.08
             },
             {
                 "Price": 2500,
                 "Range": 18,
-                "Damage": 450,
-                "Cooldown": 1
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.10
             },
             {
-                "Price": 5240,
-                "Range": 20,
-                "Damage": 675,
-                "Cooldown": 1
+                "Price": 4500,
+                "Range": 18,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.2
             },
             {
-                "Price": 6540,
-                "Range": 22,
-                "Damage": 850,
-                "Cooldown": 0.75
+                "Price": 7500,
+                "Range": 19,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.32
             }
         ]
     },
