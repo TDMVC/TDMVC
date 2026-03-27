@@ -81,6 +81,234 @@
             }
         ]
     },
+	    "Mango": {
+        "Type": "Single",
+        "Image": "rbxassetid://91403386283391",
+        "Rarity": "Epic",
+        "PlacePrice": 2500,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 3
+            },
+            {
+                "Price": 800,
+                "Range": 16,
+                "Damage": 350,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 1200,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 1500,
+                "Range": 18,
+                "Damage": 400,
+                "Cooldown": 2.2
+            }
+        ]
+    },
+	    "Angry Chuca": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://115739759637258",
+        "Rarity": "Mythic",
+        "PlacePrice": 3000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 450,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 540,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 1200,
+                "Range": 17,
+                "Damage": 540,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 1500,
+                "Range": 19,
+                "Damage": 750,
+                "Cooldown": 1.6
+            }
+        ]
+    },
+	    "The Mighty Jimmy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://109373348950815",
+        "Rarity": "Secret",
+        "PlacePrice": 550,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 18,
+                "Damage": 750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 750,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 800,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+	    "Breadbear": {
+        "Type": "Full AOE",
+        "Image": "rbxassetid://80475833622884",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 25,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 19830,
+                "Range": 17,
+                "Damage": 60,
+                "Cooldown": 0.045
+            },
+            {
+                "Price": 35000,
+                "Range": 18,
+                "Damage": 60,
+                "Cooldown": 0.035
+            },
+            {
+                "Price": 35750,
+                "Range": 20,
+                "Damage": 75,
+                "Cooldown": 0.025
+            }
+        ]
+    },
+	    "Party Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://129193822593556",
+        "Rarity": "Uncommon",
+        "PlacePrice": 420,
+        "Max": 6,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 6,
+                "Damage": 50,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1200,
+                "Range": 7,
+                "Damage": 75,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2500,
+                "Range": 6,
+                "Damage": 200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 4200,
+                "Range": 4,
+                "Damage": 500,
+                "Cooldown": 2
+            }
+        ]
+    },
+	    "Purple Bonnie": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://137220020312542",
+        "Rarity": "Secret",
+        "PlacePrice": 4500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 450,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 18,
+                "Damage": 590,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12500,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 99999,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
