@@ -190,8 +190,8 @@
             {
                 "Price": 1500,
                 "Range": 15,
-                "Damage": 800,
-                "Cooldown": 0.8
+                "Damage": 1500,
+                "Cooldown": 0.5
             }
         ]
     },
@@ -236,7 +236,7 @@
 	    "Party Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://129193822593556",
-        "Rarity": "Uncommon",
+        "Rarity": "Rare",
         "PlacePrice": 420,
         "Max": 6,
         "hitboxOffset": {
