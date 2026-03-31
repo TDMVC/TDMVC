@@ -38,12 +38,12 @@
             }
         ]
     },
- "Captiane Foxy": {
-        "Type": "Full AOE",
-        "Image": "rbxassetid://119930341305654",
-        "Rarity": "Nightmare",
-        "PlacePrice": 15000,
-        "Max": 1,
+	    "Twisted Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://100996492789725",
+        "Rarity": "Mythic",
+        "PlacePrice": 2500,
+        "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -53,70 +53,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 1500,
-                "Cooldown": 1.5
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 1
             },
             {
                 "Price": 500,
-                "Range": 22,
-                "Damage": 2000,
+                "Range": 16,
+                "Damage": 420,
                 "Cooldown": 1
             },
             {
                 "Price": 750,
-                "Range": 22,
-                "Damage": 3500,
+                "Range": 18,
+                "Damage": 440,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 18,
+                "Damage": 460,
                 "Cooldown": 0.8
-            },
-            {
-                "Price": 1250,
-                "Range": 24,
-                "Damage": 5000,
-                "Cooldown": .75
             }
         ]
     },
-	 "Endo Freddy TDMVC": {
-        "Type": "Splash",
-        "Image": "rbxassetid://71133926497042",
-        "Rarity": "Secret",
-        "PlacePrice": 5000,
-        "Max": 2,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1800,
-                "Cooldown": 4
-            },
-            {
-                "Price": 500,
-                "Range": 26,
-                "Damage": 2200,
-                "Cooldown": 4
-            },
-            {
-                "Price": 750,
-                "Range": 30,
-                "Damage": 2500,
-                "Cooldown": 3.5
-            },
-            {
-                "Price": 1250,
-                "Range": 32,
-                "Damage": 3000,
-                "Cooldown": 3.2
-            }
-        ]
-    },
-	    "Twisted Freddy": {
+	"Captiane Foxy": {
         "Type": "AOE",
         "Image": "rbxassetid://100996492789725",
         "Rarity": "Mythic",
