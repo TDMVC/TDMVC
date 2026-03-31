@@ -78,11 +78,11 @@
         ]
     },
 	"Captiane Foxy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://100996492789725",
-        "Rarity": "Mythic",
-        "PlacePrice": 2500,
-        "Max": 3,
+        "Type": "Full AOE",
+        "Image": "rbxassetid://119930341305654",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -92,27 +92,66 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 400,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 4000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 4500,
                 "Cooldown": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 24,
+                "Damage": 5000,
+                "Cooldown": 1
+            }
+        ]
+    },
+		    "Endo Freddy TDMVC": {
+        "Type": "Splash",
+        "Image": "rbxassetid://71133926497042",
+        "Rarity": "Secret",
+        "PlacePrice": 3500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 4
             },
             {
                 "Price": 500,
-                "Range": 16,
-                "Damage": 420,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 4500,
+                "Cooldown": 4
             },
             {
                 "Price": 750,
-                "Range": 18,
-                "Damage": 440,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 3.5
             },
             {
                 "Price": 1250,
-                "Range": 18,
-                "Damage": 460,
-                "Cooldown": 0.8
+                "Range": 22,
+                "Damage": 5000,
+                "Cooldown": 3.5
             }
         ]
     },
