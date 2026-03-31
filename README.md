@@ -116,6 +116,45 @@
             }
         ]
     },
+		"Reddy Ducky": {
+        "Type": "Single",
+        "Image": "rbxassetid://110751603254429",
+        "Rarity": "Mythic",
+        "PlacePrice": 1,
+        "Max": 999,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 2,
+                "Damage": 1,
+                "Cooldown": 19
+            },
+            {
+                "Price": 1,
+                "Range": 5,
+                "Damage": 1,
+                "Cooldown": 19
+            },
+            {
+                "Price": 2,
+                "Range": 22,
+                "Damage": 7500,
+                "Cooldown": 10
+            },
+            {
+                "Price": 3,
+                "Range": 990,
+                "Damage": 100000000000,
+                "Cooldown": 10000
+            }
+        ]
+    },
 		    "Endo Freddy TDMVC": {
         "Type": "Splash",
         "Image": "rbxassetid://71133926497042",
