@@ -635,25 +635,25 @@
                 {
                     "Price": 0,
                     "Range": 10,
-                    "Damage": 250,
+                    "Damage": 150,
                     "Cooldown": 1
                 },
                 {
                     "Price": 1200,
                     "Range": 12,
-                    "Damage": 375,
+                    "Damage": 175,
                     "Cooldown": 1
                 },
                 {
                     "Price": 1500,
                     "Range": 15,
-                    "Damage": 500,
+                    "Damage": 200,
                     "Cooldown": 1
                 },
                 {
                     "Price": 2500,
                     "Range": 15,
-                    "Damage": 625,
+                    "Damage": 200,
                     "Cooldown": 0.9
                 }
             ]
@@ -680,19 +680,19 @@
                 {
                     "Price": 1800,
                     "Range": 18,
-                    "Damage": 375,
+                    "Damage": 275,
                     "Cooldown": 1
                 },
                 {
                     "Price": 3000,
                     "Range": 20,
-                    "Damage": 500,
+                    "Damage": 300,
                     "Cooldown": 0.75
                 },
                 {
                     "Price": 5000,
                     "Range": 20,
-                    "Damage": 750,
+                    "Damage": 350,
                     "Cooldown": 0.75
                 }
             ]
@@ -724,13 +724,13 @@
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 25,
+                "Damage": 20,
                 "Cooldown": 0.05
             },
             {
                 "Price": 25000,
                 "Range": 20,
-                "Damage": 30,
+                "Damage": 25,
                 "Cooldown": 0.05
             }
         ]
@@ -769,7 +769,7 @@
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 50,
+                "Damage": 35,
                 "Cooldown": 0.05
             }
         ]
@@ -1177,7 +1177,7 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 600,
+                "Damage": 300,
                 "Cooldown": 0.25,
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
@@ -1186,7 +1186,7 @@
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 700,
+                "Damage": 350,
                 "Cooldown": 0.25,
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
@@ -1195,7 +1195,7 @@
             {
                 "Price": 8000,
                 "Range": 22,
-                "Damage": 820,
+                "Damage": 400,
                 "Cooldown": 0.25,
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
@@ -1204,7 +1204,7 @@
             {
                 "Price": 10000,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 450,
                 "Cooldown": 0.25,
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
@@ -1271,25 +1271,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
+                "Damage": 40,
                 "Cooldown": 0.3
             },
             {
                 "Price": 1200,
                 "Range": 18,
-                "Damage": 35,
+                "Damage": 45,
                 "Cooldown": 0.3
             },
             {
                 "Price": 1600,
                 "Range": 22,
-                "Damage": 45,
+                "Damage": 55,
                 "Cooldown": 0.3
             },
             {
                 "Price": 2200,
                 "Range": 25,
-                "Damage": 60,
+                "Damage": 70,
                 "Cooldown": 0.3
             }
         ]
@@ -1348,25 +1348,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 50,
                 "Cooldown": 0.5
             },
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 125,
+                "Damage": 100,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 150,
+                "Damage": 125,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 175,
+                "Damage": 150,
                 "Cooldown": 0.5
             }
         ]
@@ -2011,35 +2011,35 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 400,
-                "Cooldown": 0.5,
+                "Damage": 150,
+                "Cooldown": 0.6,
                 "Wither": 1.25,
                 "ShinyWither": 1.25,
                 "WitherTime": 1
             },
             {
                 "Price": 800,
-                "Range": 23,
-                "Damage": 450,
-                "Cooldown": 0.4,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.6,
                 "Wither": 1.25,
                 "ShinyWither": 1.25,
                 "WitherTime": 1
             },
             {
                 "Price": 1400,
-                "Range": 25,
-                "Damage": 500,
-                "Cooldown": 0.3,
+                "Range": 23,
+                "Damage": 250,
+                "Cooldown": 0.5,
                 "Wither": 1.25,
                 "ShinyWither": 1.25,
                 "WitherTime": 1
             },
             {
                 "Price": 2000,
-                "Range": 27,
-                "Damage": 550,
-                "Cooldown": 0.3,
+                "Range": 24,
+                "Damage": 250,
+                "Cooldown": 0.5,
                 "Wither": 1.25,
                 "ShinyWither": 1.25,
                 "WitherTime": 1
