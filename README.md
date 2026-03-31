@@ -196,7 +196,7 @@
     },
 	    "Twisted Wolf": {
         "Type": "Splash",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://119988569508080",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Max": 2,
