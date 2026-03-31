@@ -2072,6 +2072,45 @@
             }
         ]
 	},
+	    "Artillery Puppet": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18672617524",
+        "Rarity": "Epic",
+        "PlacePrice": 1500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 200,
+                "Cooldown": 4
+            },
+            {
+                "Price": 2000,
+                "Range": 40,
+                "Damage": 300,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 2500,
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 3
+            },
+            {
+                "Price": 3000,
+                "Range": 40,
+                "Damage": 500,
+                "Cooldown": 3
+            }
+        ]
+    },
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
