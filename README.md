@@ -38,6 +38,201 @@
             }
         ]
     },
+	    "Twisted Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://100996492789725",
+        "Rarity": "Mythic",
+        "PlacePrice": 2500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 16,
+                "Damage": 1500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 18,
+                "Damage": 1800,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 18,
+                "Damage": 2200,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+	    "Twisted Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://100942937516771",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 12500,
+                "Range": 22,
+                "Damage": 2250,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 22500,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+	    "Twisted Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://101873903993809",
+        "Rarity": "Rare",
+        "PlacePrice": 200,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 150,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 600,
+                "Range": 13,
+                "Damage": 150,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 1250,
+                "Range": 14,
+                "Damage": 200,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 3500,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+	    "Twisted Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://137848375517621",
+        "Rarity": "Epic",
+        "PlacePrice": 750,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 300,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 500,
+                "Range": 15,
+                "Damage": 350,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 750,
+                "Range": 16,
+                "Damage": 450,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1250,
+                "Range": 16,
+                "Damage": 500,
+                "Cooldown": 1.4
+            }
+        ]
+    },
+	    "Twisted Wolf": {
+        "Type": "Splash",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 3500,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 32500,
+                "Range": 23,
+                "Damage": 4500,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 45000,
+                "Range": 24,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 0.8
+            }
+        ]
+    },
     "Sand Castle Foxy": {
         "Type": "Support",
         "Image": "rbxassetid://92986091581137",
