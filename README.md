@@ -116,6 +116,45 @@
 	}
 	]
 },
+"Sherrif Withered Bonnie": {
+	"Type": "Quad Attack",
+	"Image": "rbxassetid://113396218171549",
+	"Rarity": "Secret",
+	"PlacePrice": 3500,
+	"Max": 3,
+	"Offset": 0.3,
+	"hitboxOffset": {
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+		},
+		"Upgrades": [
+		{
+			"Price": 0,
+			"Range": 16,
+			"Damage": 15,
+			"Cooldown": 0.1
+		},
+		{
+			"Price": 3000,
+			"Range": 16,
+			"Damage": 20,
+			"Cooldown": 0.1
+		},
+		{
+			"Price": 5000,
+			"Range": 18,
+			"Damage": 20,
+			"Cooldown": 0.05
+		},
+		{
+			"Price": 12500,
+			"Range": 18,
+			"Damage": 35,
+			"Cooldown": 0.05
+		}
+	]
+},
 		"Captiane Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://119930341305654",
