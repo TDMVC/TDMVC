@@ -77,45 +77,6 @@
             }
         ]
     },
-	"Captiane_Foxy": {
-        "Type": "Full AOE",
-        "Image": "rbxassetid://119930341305654",
-        "Rarity": "Nightmare",
-        "PlacePrice": 50,
-        "Max": 10,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 500,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2000,
-                "Range": 22,
-                "Damage": 5000,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 2000,
-                "Range": 22,
-                "Damage": 7500,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 2000,
-                "Range": 24,
-                "Damage": 100000,
-                "Cooldown": 0.5
-            }
-        ]
-    },
 		"Captiane Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://119930341305654",
