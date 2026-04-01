@@ -77,6 +77,45 @@
             }
         ]
     },
+	"Hunter Foxy": {
+	"Type": "Continuous + Dual",
+	"Image": "rbxassetid://126134048421917",
+	"Rarity": "Nightmare",
+	"PlacePrice": 35000,
+	"Max": 1,
+	"Offset": 0.3,
+	"hitboxOffset": {
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"Upgrades": [
+	{
+		"Price": 0,
+		"Range": 22,
+		"Damage": 250,
+		"Cooldown": 0.25
+	},
+	{
+		"Price": 15000,
+		"Range": 24,
+		"Damage": 500,
+		"Cooldown": 0.25
+	},
+	{
+		"Price": 25000,
+		"Range": 26,
+		"Damage": 500,
+		"Cooldown": 0.2
+	},
+	{
+		"Price": 55000,
+		"Range": 28,
+		"Damage": 500,
+		"Cooldown": 0.1
+	}
+	]
+},
 		"Captiane Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://119930341305654",
