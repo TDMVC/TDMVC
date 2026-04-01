@@ -300,14 +300,53 @@
             {
                 "Price": 2,
                 "Range": 22,
-                "Damage": 7500,
+                "Damage": 100,
                 "Cooldown": 10
             },
             {
                 "Price": 3,
                 "Range": 990,
-                "Damage": 100000000000,
+                "Damage": 100,
                 "Cooldown": 10000
+            }
+        ]
+    },
+			"Astral Foxy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://126134048421917",
+        "Rarity": "Nightmare",
+        "PlacePrice": ,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 2500,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 2500,
+                "Range": 26,
+                "Damage": 3200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5500,
+                "Range": 26,
+                "Damage": 3500,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 15000,
+                "Range": 28,
+                "Damage": 4000,
+                "Cooldown": 0.6
             }
         ]
     },
