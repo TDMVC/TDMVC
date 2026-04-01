@@ -77,9 +77,48 @@
             }
         ]
     },
+	"Shadow Slinger Freddy": {
+	"Type": "Quad Attack",
+	"Image": "rbxassetid://114348347985553",
+	"Rarity": "Mythic",
+	"PlacePrice": 2500,
+	"Max": 3,
+	"Offset": 0.3,
+	"hitboxOffset": {
+		"X": 0,
+		"Y": 0,
+		"Z": 0
+	},
+	"Upgrades": [
+	{
+		"Price": 0,
+		"Range": 16,
+		"Damage": 150,
+		"Cooldown": 0.5
+	},
+	{
+		"Price": 3000,
+		"Range": 16,
+		"Damage": 300,
+		"Cooldown": 0.5
+	},
+	{
+		"Price": 5000,
+		"Range": 18,
+		"Damage": 250,
+		"Cooldown": 0.25
+	},
+	{
+		"Price": 12500,
+		"Range": 18,
+		"Damage": 250,
+		"Cooldown": 0.25
+	}
+	]
+},
 	"Hunter Foxy": {
 	"Type": "Continuous + Dual",
-	"Image": "rbxassetid://126134048421917",
+	"Image": "rbxassetid://86991634679012",
 	"Rarity": "Nightmare",
 	"PlacePrice": 35000,
 	"Max": 1,
