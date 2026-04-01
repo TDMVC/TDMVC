@@ -116,7 +116,7 @@
 	}
 	]
 },
-"Sherrif Withered Bonnie": {
+"Sheriff Withered Bonnie": {
 	"Type": "Quad Attack",
 	"Image": "rbxassetid://113396218171549",
 	"Rarity": "Secret",
