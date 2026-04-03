@@ -77,6 +77,44 @@
             }
         ]
     },
+	    "System Error Toy Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://110658593622167",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 16,
+                "Damage": 25,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 20,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 45000,
+                "Range": 22,
+                "Damage": 45,
+                "Cooldown": 0.05
+            }
+        ]
+    },
 	"Shadow Slinger Freddy": {
 	"Type": "Quad Attack",
 	"Image": "rbxassetid://114348347985553",
