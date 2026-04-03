@@ -2267,6 +2267,45 @@
             }
         ]
     },
+	    "Patriot Freddy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18326604996",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 220,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 18,
+                "Damage": 250,
+                "Cooldown": 3.8
+            },
+            {
+                "Price": 800,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 3.7
+            },
+            {
+                "Price": 1200,
+                "Range": 22,
+                "Damage": 350,
+                "Cooldown": 3.5
+            }
+        ]
+    },
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
