@@ -77,7 +77,162 @@
             }
         ]
     },
-	    "System Error Toy Bonnie": {
+		    "Radioactive Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://120715015165542",
+        "Rarity": "Epic",
+        "PlacePrice": 1200,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 200,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 300,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 3000,
+                "Range": 16,
+                "Damage": 400,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 5500,
+                "Range": 17,
+                "Damage": 400,
+                "Cooldown": 1
+            }
+        ]
+    },
+			    "Ice Cream Spring Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://126425141933782",
+        "Rarity": "Rare",
+        "PlacePrice": 600,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 220,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2500,
+                "Range": 13,
+                "Damage": 320,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 360,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5500,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+			  "Flamer Endo": {
+        "Type": "AOE",
+        "Image": "rbxassetid://119846272499020",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 120,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 15000,
+                "Range": 16,
+                "Damage": 150,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 17500,
+                "Range": 16,
+                "Damage": 200,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 20000,
+                "Range": 16,
+                "Damage": 200,
+                "Cooldown": 0.2
+            }
+        ]
+    },
+	    "Astral Foxy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://126134048421917",
+        "Rarity": "Nightmare",
+        "PlacePrice": 22000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 16,
+                "Damage": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 17.5,
+                "Damage": 750,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 35000,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+		    "System Error Toy Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://110658593622167",
         "Rarity": "Nightmare",
