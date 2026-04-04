@@ -79,7 +79,7 @@
     },
 		    "Chocolate Bonnie": {
         "Type": "Splash",
-        "Image": "rbxassetid://100996492789725",
+        "Image": "rbxassetid://140177052895729",
         "Rarity": "Mythic",
         "PlacePrice": 475,
         "Max": 4,
@@ -118,7 +118,7 @@
     },
 			    "Melted Chocolate Bonnie": {
         "Type": "Splash",
-        "Image": "rbxassetid://100996492789725",
+        "Image": "rbxassetid://98573539473765",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 2,
