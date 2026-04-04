@@ -77,6 +77,84 @@
             }
         ]
     },
+		    "Chocolate Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://100996492789725",
+        "Rarity": "Mythic",
+        "PlacePrice": 475,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 14,
+                "Damage": 420,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 16,
+                "Damage": 440,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 17.5,
+                "Damage": 460,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+			    "Melted Chocolate Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://100996492789725",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 14000,
+                "Range": 18,
+                "Damage": 2200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 16000,
+                "Range": 20,
+                "Damage": 2600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 3200,
+                "Cooldown": 0.8
+            }
+        ]
+    },
 		    "Radioactive Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://120715015165542",
