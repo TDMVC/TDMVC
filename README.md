@@ -1,7 +1,7 @@
 {
     "Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://80522476298415",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 8,
