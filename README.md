@@ -40,7 +40,7 @@
     },
     "Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://101036791940515",
+        "Image": "rbxassetid://16620303027",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
