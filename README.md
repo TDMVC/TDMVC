@@ -387,7 +387,7 @@
     "Withered Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://122802088206523",
-        "Rarity": "Mythic",
+        "Rarity": "Secret",
         "PlacePrice": 20000,
         "Max": 3,
         "hitboxOffset": {
