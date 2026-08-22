@@ -803,7 +803,7 @@
             {
                 "Price": 50000,
                 "Range": 40,
-                "Damage": 65,
+                "Damage": 66,
                 "Cooldown": 0.05
             }
         ]
