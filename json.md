@@ -543,7 +543,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
