@@ -1,4 +1,4 @@
-{ 
+{  
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
@@ -400,25 +400,25 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 55,
+                "Damage": 25,
                 "Cooldown": 0.05
             },
             {
                 "Price": 35000,
                 "Range": 28,
-                "Damage": 65,
+                "Damage": 30,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
                 "Range": 32,
-                "Damage": 80,
+                "Damage": 40,
                 "Cooldown": 0.05
             },
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 100,
+                "Damage": 50,
                 "Cooldown": 0.05
             }
         ]
@@ -803,7 +803,7 @@
             {
                 "Price": 50000,
                 "Range": 40,
-                "Damage": 66,
+                "Damage": 65,
                 "Cooldown": 0.05
             }
         ]
@@ -823,26 +823,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 80,
+                "Damage": 50,
                 "Cooldown": 0.75
             },
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 135,
+                "Damage": 75,
                 "Cooldown": 0.75
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 200,
+                "Damage": 100,
                 "Cooldown": 0.75
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 225,
-                "Cooldown": 0.50
+                "Damage": 125,
+                "Cooldown": 0.75
             }
         ]
     },
@@ -1277,7 +1277,7 @@
             },
             {
                 "Price": 2000,
-                "Range": 46,
+                "Range": 45,
                 "Damage": 500,
                 "Cooldown": 2
             }
