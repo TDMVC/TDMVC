@@ -40,7 +40,7 @@
     },
     "Tdmvc": {
         "Type": "Love",
-        "Image": "rbxassetid://130605413315943",
+        "Image": "rbxassetid://74599110099826",
         "Rarity": "Nightmare",
         "PlacePrice": 125000,
         "Offset": 0.65,
