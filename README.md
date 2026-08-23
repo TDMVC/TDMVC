@@ -38,6 +38,123 @@
             }
         ]
     },
+    "Tdmvc": {
+        "Type": "Love",
+        "Image": "rbxassetid://130605413315943",
+        "Rarity": "Nightmare",
+        "PlacePrice": 125000,
+        "Offset": 0.65,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 7,
+                "Damage": 30,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 8,
+                "Damage": 40,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 9,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Tiky": {
+        "Type": "WILD",
+        "Image": "rbxassetid://90250250834725",
+        "Rarity": "Nightmare",
+        "PlacePrice": 125000,
+        "Offset": 0.65,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 7,
+                "Damage": 30,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 8,
+                "Damage": 40,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 9,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Kasya": {
+        "Type": "WAZAAAA",
+        "Image": "rbxassetid://71798804358135",
+        "Rarity": "Nightmare",
+        "PlacePrice": 125000,
+        "Offset": 0.65,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 7,
+                "Damage": 30,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 8,
+                "Damage": 40,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 9,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
