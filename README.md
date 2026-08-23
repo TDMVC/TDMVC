@@ -41,7 +41,7 @@
     "Tdmvc": {
         "Type": "Love",
         "Image": "rbxassetid://74599110099826",
-        "Rarity": "Nightmare",
+        "Rarity": "LuckyFinder",
         "PlacePrice": 125000,
         "Offset": 0.65,
         "Max": 1,
@@ -53,34 +53,34 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 7,
-                "Damage": 30,
-                "Cooldown": 1
+                "Range": 70,
+                "Damage": 250,
+                "Cooldown": 0.05
             },
             {
                 "Price": 800,
-                "Range": 8,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 80,
+                "Damage": 450,
+                "Cooldown": 0.01
             },
             {
                 "Price": 1200,
-                "Range": 9,
-                "Damage": 50,
-                "Cooldown": 1
+                "Range": 90,
+                "Damage": 550,
+                "Cooldown": 0.01
             },
             {
                 "Price": 2000,
-                "Range": 10,
-                "Damage": 50,
-                "Cooldown": 0.75
+                "Range": 100,
+                "Damage": 750,
+                "Cooldown": 0.01
             }
         ]
     },
     "Tiky": {
         "Type": "WILD",
         "Image": "rbxassetid://90250250834725",
-        "Rarity": "Nightmare",
+        "Rarity": "LuckyFinder",
         "PlacePrice": 125000,
         "Offset": 0.65,
         "Max": 1,
@@ -119,7 +119,7 @@
     "Kasya": {
         "Type": "WAZAAAA",
         "Image": "rbxassetid://71798804358135",
-        "Rarity": "Nightmare",
+        "Rarity": "LuckyFinder",
         "PlacePrice": 125000,
         "Offset": 0.65,
         "Max": 1,
