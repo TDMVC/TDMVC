@@ -120,7 +120,7 @@
         "Type": "WAZAAAA",
         "Image": "rbxassetid://71798804358135",
         "Rarity": "LuckyFinder",
-        "PlacePrice": 125000,
+        "PlacePrice": 900,
         "Offset": 0.65,
         "Max": 1,
         "hitboxOffset": {
@@ -131,27 +131,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 7,
-                "Damage": 30,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 0.9
             },
             {
                 "Price": 800,
-                "Range": 8,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 24,
+                "Damage": 500,
+                "Cooldown": 0.7
             },
             {
                 "Price": 1200,
-                "Range": 9,
-                "Damage": 50,
-                "Cooldown": 1
+                "Range": 32,
+                "Damage": 1250,
+                "Cooldown": 0.5
             },
             {
                 "Price": 2000,
-                "Range": 10,
-                "Damage": 50,
-                "Cooldown": 0.75
+                "Range": 35,
+                "Damage": 2500,
+                "Cooldown": 0.3
             }
         ]
     },
