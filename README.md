@@ -118,7 +118,7 @@
     },
     "Kasya": {
         "Type": "WAZAAAA",
-        "Image": "rbxassetid://71798804358135",
+        "Image": "rbxassetid://129894439823571",
         "Rarity": "LuckyFinder",
         "PlacePrice": 900,
         "Offset": 0.65,
