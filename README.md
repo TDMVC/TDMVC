@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Snorkeler Withered Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://114319948143197",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.25,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 35,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 7000,
+                "Range": 20,
+                "Damage": 45,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 25,
+                "Damage": 50,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 35,
+                "Damage": 60,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Tdmvc": {
         "Type": "Love",
         "Image": "rbxassetid://74599110099826",
