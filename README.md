@@ -271,6 +271,51 @@
             }
         ]
     },
+    "Bukavac Mangle": {
+        "Type": "AOE",
+        "Image": "rbxassetid://75051365211648",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,
+                "Damage": 220,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 5800,
+                "Range": 12,
+                "Damage": 450,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 7700,
+                "Range": 15,
+                "Damage": 900,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 10000,
+                "Range": 18,
+                "Damage": 1350,
+                "Cooldown": 0.3
+            },
+                        {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 1900,
+                "Cooldown": 0.2
+            }
+        ]
+    },
     "Blighted Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://18151573285",
@@ -306,6 +351,44 @@
                 "Range": 25,
                 "Damage": 45,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+    "Polluted Chica": {
+        "Type": "Melee",
+        "Image": "rbxassetid://18161347460",
+        "Rarity": "Epic",
+        "PlacePrice": 300,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 70,
+                "Cooldown": 2
+            },
+            {
+                "Price": 500,
+                "Range": 35,
+                "Damage": 125,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 45,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 55,
+                "Damage": 350,
+                "Cooldown": 0.5
             }
         ]
     },
@@ -383,6 +466,27 @@
                 "Range": 10,
                 "Damage": 50,
                 "Cooldown": 0.75
+            }
+        ]
+    },
+     "Sea Crawler Foxy": {
+        "Type": "Melee",
+        "Image": "rbxassetid://138512558080561",
+        "Rarity": "Rare",
+        "PlacePrice": 50,
+        "Offset": 0.65,
+        "Max": 10,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 7,
+                "Damage": 25,
+                "Cooldown": 1
             }
         ]
     },
@@ -1557,6 +1661,49 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.24
+            }
+        ]
+    },
+    "Angler Endo": {
+        "Type": "Support",
+        "Image": "rbxassetid://130029131701946",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "NoEnemyAttack": true,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.12
+            },
+            {
+                "Price": 250,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.25
+            },
+            {
+                "Price": 550,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.32
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.50
             }
         ]
     },
