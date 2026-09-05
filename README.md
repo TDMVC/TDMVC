@@ -356,7 +356,7 @@
     },
     "Polluted Chica": {
         "Type": "Melee",
-        "Image": "rbxassetid://18161347460",
+        "Image": "rbxassetid://101405202724981",
         "Rarity": "Epic",
         "PlacePrice": 300,
         "Max": 1,
