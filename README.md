@@ -607,40 +607,39 @@
     },
     "Shadow Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://132962602464746",
+        "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
-        "PlacePrice": 10,
-        "Max": 10,
+        "PlacePrice": 25000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
-        "Offset": 0.3,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 100,
-                "Damage": 10000,
-                "Cooldown": 0.1
+                "Range": 10,
+                "Damage": 30,
+                "Cooldown": 0.05
             },
             {
-                "Price": 5000,
-                "Range": 100,
-                "Damage": 10000,
-                "Cooldown": 0.1
+                "Price": 35000,
+                "Range": 15,
+                "Damage": 35,
+                "Cooldown": 0.05
             },
             {
-                "Price": 6000,
-                "Range": 100,
-                "Damage": 10000,
-                "Cooldown": 0.1
+                "Price": 45000,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.05
             },
             {
-                "Price": 7500,
-                "Range": 100,
-                "Damage": 10000,
-                "Cooldown": 0.1
+                "Price": 60000,
+                "Range": 20,
+                "Damage": 65,
+                "Cooldown": 0.05
             }
         ]
     },
