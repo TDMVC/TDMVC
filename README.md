@@ -1624,8 +1624,7 @@
                 "Cooldown": 2
             }
         ]
-    }
-},
+    },
     "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
@@ -2350,4 +2349,5 @@
                 "PoisonLength": 3
             }
         ]
-    },
+    }
+}
