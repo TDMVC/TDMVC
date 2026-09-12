@@ -1666,7 +1666,7 @@
     "Endo 03": {
         "Type": "Single",
         "Image": "rbxassetid://18363471703",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 3,
         "hitboxOffset": {
