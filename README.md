@@ -2335,34 +2335,34 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 600,
+                "Range": 22,
+                "Damage": 125,
                 "Cooldown": 2.5,
-                "Poison": 450,
+                "Poison": 80,
                 "PoisonLength": 3
             },
             {
                 "Price": 800,
-                "Range": 22,
-                "Damage": 800,
+                "Range": 24,
+                "Damage": 180,
                 "Cooldown": 2.3,
-                "Poison": 600,
+                "Poison": 120,
                 "PoisonLength": 3
             },
             {
                 "Price": 1000,
-                "Range": 25,
-                "Damage": 1000,
+                "Range": 28,
+                "Damage": 260,
                 "Cooldown": 2.2,
-                "Poison": 750,
+                "Poison": 220,
                 "PoisonLength": 3
             },
             {
                 "Price": 1200,
-                "Range": 28,
-                "Damage": 1200,
+                "Range": 32,
+                "Damage": 420,
                 "Cooldown": 2,
-                "Poison": 900,
+                "Poison": 400,
                 "PoisonLength": 3
             }
         ]
