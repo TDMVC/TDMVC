@@ -2301,6 +2301,58 @@
             }
         ]
     },
+        "Circuit Breaker Freddy": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://18886487842",
+        "Rarity": "Nightmare",
+        "PlacePrice": 6000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Virus", "Description": "Enemies hit by Circuit Breaker's attack take 7.5% more damage for 3 seconds (15% if shiny)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 1,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 1
+            },
+            {
+                "Price": 8000,
+                "Range": 28,
+                "Damage": 3200,
+                "Cooldown": 1,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 31,
+                "Damage": 4000,
+                "Cooldown": 1,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 1,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 1
+            }
+        ]
+    },
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
