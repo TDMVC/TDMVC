@@ -1624,44 +1624,6 @@
             }
         ]
     },
-    "SpringTrap": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://18356146630",
-        "Rarity": "Nightmare",
-        "PlacePrice": 50000,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 10000,
-                "Cooldown": 2
-            },
-            {
-                "Price": 30000,
-                "Range": 22,
-                "Damage": 12000,
-                "Cooldown": 1.95
-            },
-            {
-                "Price": 40000,
-                "Range": 25,
-                "Damage": 14000,
-                "Cooldown": 1.9
-            },
-            {
-                "Price": 50000,
-                "Range": 30,
-                "Damage": 180000,
-                "Cooldown": 2.5
-            }
-        ]
-    },
     "Endo 03": {
         "Type": "Single",
         "Image": "rbxassetid://18363471703",
@@ -2298,58 +2260,6 @@
                 "Range": 45,
                 "Damage": 500,
                 "Cooldown": 2
-            }
-        ]
-    },
-        "Circuit Breaker Freddy": {
-        "Type": "Cone AOE",
-        "Image": "rbxassetid://18886487842",
-        "Rarity": "Nightmare",
-        "PlacePrice": 6000,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Virus", "Description": "Enemies hit by Circuit Breaker's attack take 7.5% more damage for 3 seconds (15% if shiny)"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 2500,
-                "Cooldown": 1,
-                "Wither": 1.075,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
-            },
-            {
-                "Price": 8000,
-                "Range": 28,
-                "Damage": 3200,
-                "Cooldown": 1,
-                "Wither": 1.075,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
-            },
-            {
-                "Price": 10000,
-                "Range": 31,
-                "Damage": 4000,
-                "Cooldown": 1,
-                "Wither": 1.075,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
-            },
-            {
-                "Price": 12000,
-                "Range": 35,
-                "Damage": 5000,
-                "Cooldown": 1,
-                "Wither": 1.075,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
             }
         ]
     },
