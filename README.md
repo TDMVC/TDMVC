@@ -2188,7 +2188,7 @@
     "War Machine Foxy": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 3500,
         "Offset": 0.45,
         "Max": 4,
