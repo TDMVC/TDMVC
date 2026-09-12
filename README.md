@@ -2353,6 +2353,62 @@
             }
         ]
     },
+    "Flame Empress Chica": {
+        "Type": "Nuke Burn",
+        "Image": "rbxassetid://18971134114",
+        "Rarity": "Secret",
+        "PlacePrice": 12500,
+        "Offset": 0.5,
+        "Max": 2,
+        "Passive": {"Name": "Burn", "Description": "Enemies take 100% burn damage over 3 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2500,
+                "Burn": 5000,
+                "BurnTime": 3,
+                "Cooldown": 2
+            },
+            {
+                "Price": 55000,
+                "Range": 28,
+                "Damage": 3000,
+                "Burn": 6500,
+                "BurnTime": 3,
+                "Cooldown": 2
+            },
+            {
+                "Price": 60000,
+                "Range": 31,
+                "Damage": 3150,
+                "Burn": 8000,
+                "BurnTime": 3,
+                "Cooldown": 2
+            },
+            {
+                "Price": 65000,
+                "Range": 34,
+                "Damage": 3300,
+                "Burn": 9000,
+                "BurnTime": 3,
+                "Cooldown": 2
+            },
+            {
+                "Price": 70000,
+                "Range": 38,
+                "Damage": 3500,
+                "Burn": 9500,
+                "BurnTime": 3,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
