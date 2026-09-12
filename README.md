@@ -1780,7 +1780,7 @@
         "Type": "Nuke",
         "Image": "rbxassetid://18356472602",
         "Rarity": "Secret",
-        "PlacePrice": 750,
+        "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1791,25 +1791,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 600,
+                "Damage": 6000,
                 "Cooldown": 1
             },
             {
                 "Price": 10000,
                 "Range": 18,
-                "Damage": 700,
+                "Damage": 7000,
                 "Cooldown": 1
             },
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 800,
+                "Damage": 8000,
                 "Cooldown": 1
             },
             {
                 "Price": 20000,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 10000,
                 "Cooldown": 1
             }
         ]
