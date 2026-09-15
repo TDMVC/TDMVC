@@ -2319,6 +2319,72 @@
             }
         ]
     },
+        "Abyssal Foxy": {
+        "Type": "AOE Slow",
+        "Image": "rbxassetid://18578478327",
+        "Rarity": "Primastick",
+        "PlacePrice": 15000,
+        "Max": 3,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.1,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 400,
+                "Cooldown": 0.07,
+                "ChargeLength": 2.5,
+                "RechargeLength": 5,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 12500,
+                "Range": 20,
+                "Damage": 450,
+                "Cooldown": 0.07,
+                "ChargeLength": 2.5,
+                "RechargeLength": 5,
+                "Slow": 0.3,
+                "SlowTime": 1
+            },
+            {
+                "Price": 17500,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.07,
+                "ChargeLength": 2.5,
+                "RechargeLength": 5,
+                "Slow": 0.25,
+                "SlowTime": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 550,
+                "Cooldown": 0.07,
+                "ChargeLength": 2,
+                "RechargeLength": 5,
+                "Slow": 0.15,
+                "SlowTime": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 600,
+                "Cooldown": 0.07,
+                "ChargeLength": 2,
+                "RechargeLength": 5,
+                "Slow": 0.08,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
