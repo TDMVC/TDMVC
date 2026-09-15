@@ -2322,7 +2322,7 @@
         "Abyssal Foxy": {
         "Type": "AOE Slow",
         "Image": "rbxassetid://18578478327",
-        "Rarity": "Primastick",
+        "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
