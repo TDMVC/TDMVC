@@ -2336,7 +2336,7 @@
             {
                 "Price": 0,
                 "Range": 16,
-                "Damage": 400,
+                "Damage": 50,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
@@ -2346,7 +2346,7 @@
             {
                 "Price": 12500,
                 "Range": 20,
-                "Damage": 450,
+                "Damage": 75,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
@@ -2356,7 +2356,7 @@
             {
                 "Price": 17500,
                 "Range": 25,
-                "Damage": 500,
+                "Damage": 125,
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
@@ -2366,7 +2366,7 @@
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 550,
+                "Damage": 150,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
