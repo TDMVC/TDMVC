@@ -156,7 +156,7 @@
     },
     "Bukavac Mangle": {
         "Type": "AOE",
-        "Image": "rbxassetid://75051365211648",
+        "Image": "rbxassetid://138114871531482",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
         "Max": 2,
