@@ -40,7 +40,7 @@
     },
     "Snorkeler Withered Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://114319948143197",
+        "Image": "rbxassetid://98332995917393",
         "Rarity": "Secret",
         "PlacePrice": 25000,
         "Max": 2,
