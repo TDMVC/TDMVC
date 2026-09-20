@@ -1372,7 +1372,7 @@
         ]
     },
     "Rad Freddy": {
-        "Type": "Single",
+        "Type": "Pierce",
         "Image": "rbxassetid://18258392627",
         "Rarity": "Secret",
         "PlacePrice": 800,
