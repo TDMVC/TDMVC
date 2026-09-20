@@ -115,45 +115,6 @@
             }
         ]
     },
-        "Marionette's Puppeteer": {
-        "Type": "AOE",
-        "Image": "rbxassetid://18151575297",
-        "Rarity": "Nightmare",
-        "PlacePrice": 10000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.7,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 400,
-                "Cooldown": 2
-            },
-            {
-                "Price": 12000,
-                "Range": 17,
-                "Damage": 700,
-                "Cooldown": 2
-            },
-            {
-                "Price": 15000,
-                "Range": 19,
-                "Damage": 1000,
-                "Cooldown": 2
-            },
-            {
-                "Price": 20000,
-                "Range": 21,
-                "Damage": 1200,
-                "Cooldown": 1.5
-            }
-        ]
-    },
     "Bukavac Mangle": {
         "Type": "AOE",
         "Image": "rbxassetid://138114871531482",
