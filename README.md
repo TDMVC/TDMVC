@@ -2385,6 +2385,395 @@
             }
         ]
     },
+        "Major Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://18665224476",
+        "Rarity": "Rare",
+        "PlacePrice": 1000,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 20,
+                "Cooldown": 0.5,
+                "Ammo": 30,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 25,
+                "Cooldown": 0.4,
+                "Ammo": 30,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 30,
+                "Cooldown": 0.3,
+                "Ammo": 30,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 40,
+                "Cooldown": 0.3,
+                "Ammo": 30,
+                "ReloadTime": 1.5
+            }
+        ]
+    },
+    "Enforcer Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://18673234413",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 35,
+                "Cooldown": 0.25,
+                "Ammo": 50,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage":45,
+                "Cooldown": 0.125,
+                "Ammo": 50,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 23,
+                "Damage": 55,
+                "Cooldown": 0.1,
+                "Ammo": 60,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 25000,
+                "Range": 26,
+                "Damage": 70,
+                "Cooldown": 0.05,
+                "Ammo": 60,
+                "ReloadTime": 1.5
+            }
+        ]
+    },
+    "Mercenary Foxy": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://18673129884",
+        "Rarity": "Mythic",
+        "PlacePrice": 2500,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 20,
+                "Cooldown": 0.25,
+                "Ammo": 50,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 3500,
+                "Range": 18,
+                "Damage": 20,
+                "Cooldown": 0.125,
+                "Ammo": 50,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 25,
+                "Cooldown": 0.1,
+                "Ammo": 60,
+                "ReloadTime": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 23,
+                "Damage": 25,
+                "Cooldown": 0.05,
+                "Ammo": 60,
+                "ReloadTime": 1.5
+            }
+        ]
+    },
+    "Cupcake Tank": {
+        "Type": "Summoner",
+        "Image": "rbxassetid://18673630095",
+        "Rarity": "Nightmare",
+        "PlacePrice": 2000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,
+                "Damage": 100,
+                "Cooldown": 5,
+                "SummonTime": 5,
+                "Health": 1000,
+                "WalkSpeed": 11,
+                "Unit": "TankCake",
+                "Offset": -1.5
+            },
+            {
+                "Price": 2500,
+                "Range": 10,
+                "Damage": 150,
+                "Cooldown": 4,
+                "SummonTime": 15,
+                "Health": 5000,
+                "WalkSpeed": 11,
+                "Unit": "TankCake",
+                "Offset": -1.5
+            },
+            {
+                "Price": 3000,
+                "Range": 12,
+                "Damage": 200,
+                "Cooldown": 2,
+                "SummonTime": 25,
+                "Health": 7500,
+                "WalkSpeed": 41,
+                "Unit": "TankCake",
+                "Offset": -1.5
+            },
+            {
+                "Price": 4000,
+                "Range": 14,
+                "Damage": 250,
+                "Cooldown": 1,
+                "SummonTime": 30,
+                "Health": 15000,
+                "WalkSpeed": 25,
+                "Unit": "TankCake",
+                "Offset": -1.5
+            }
+        ]
+    },
+    "Commando Endo": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://18673468864",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 320,
+                "Cooldown": 0.25,
+                "SummonTime": 30,
+                "Health": 20,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -2,
+                "SummonRange": 25,
+                "SummonDamage": 320,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 1500,
+                "Range": 23,
+                "Damage": 380,
+                "Cooldown": 0.25,
+                "SummonTime": 30,
+                "Health": 30,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": 0,
+                "SummonRange": 25,
+                "SummonDamage": 380,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 2000,
+                "Range": 26,
+                "Damage": 440,
+                "Cooldown": 0.25,
+                "SummonTime": 30,
+                "Health": 50,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -2,
+                "SummonRange": 25,
+                "SummonDamage": 440,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 3000,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 0.25,
+                "SummonTime": 30,
+                "Health": 75,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -2,
+                "SummonRange": 25,
+                "SummonDamage": 500,
+                "SummonCooldown": 0.25
+            }
+        ]
+    },
+        "Rocketeer Mangle": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18673926504",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.85,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 300,
+                "Cooldown": 3
+            },
+            {
+                "Price": 7000,
+                "Range": 15,
+                "Damage": 450,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 10000,
+                "Range": 17,
+                "Damage": 600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Valkyrie Chica": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://18673330553",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.8,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 40,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 28,
+                "Damage": 50,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 32,
+                "Damage": 60,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 35,
+                "Damage": 80,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Artillery Puppet": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18672617524",
+        "Rarity": "Epic",
+        "PlacePrice": 1500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 200,
+                "Cooldown": 4
+            },
+            {
+                "Price": 2000,
+                "Range": 40,
+                "Damage": 300,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 2500,
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 3
+            },
+            {
+                "Price": 3000,
+                "Range": 40,
+                "Damage": 500,
+                "Cooldown": 3
+            }
+        ]
+    },
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
