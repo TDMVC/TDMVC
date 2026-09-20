@@ -1287,26 +1287,44 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 250,
+                "Damage": 185,
                 "Cooldown": 2
             },
             {
                 "Price": 5000,
                 "Range": 18,
-                "Damage": 350,
+                "Damage": 225,
                 "Cooldown": 1.5
             },
             {
                 "Price": 7000,
                 "Range": 20,
-                "Damage": 500,
+                "Damage": 380,
                 "Cooldown": 1.25
             },
             {
                 "Price": 10000,
                 "Range": 25,
-                "Damage": 650,
+                "Damage": 550,
                 "Cooldown": 1
+            },            
+            {
+                "Price": 12500,
+                "Range": 28,
+                "Damage": 675,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 700,
+                "Cooldown": 0.55
+            },
+             {
+                "Price": 20000,
+                "Range": 32,
+                "Damage": 750,
+                "Cooldown": 0.5
             }
         ]
     },
