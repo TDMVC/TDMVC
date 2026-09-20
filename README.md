@@ -38,11 +38,11 @@
             }
         ]
     },
-    "Snorkeler Withered Bonnie": {
+"Snorkeler Withered Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://98332995917393",
         "Rarity": "Secret",
-        "PlacePrice": 25000,
+        "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -54,25 +54,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 35,
+                "Damage": 60,
                 "Cooldown": 0.1
             },
             {
                 "Price": 7000,
                 "Range": 20,
-                "Damage": 45,
+                "Damage": 75,
                 "Cooldown": 0.1
             },
             {
                 "Price": 16000,
                 "Range": 25,
-                "Damage": 50,
+                "Damage": 95,
                 "Cooldown": 0.1
             },
             {
                 "Price": 25000,
                 "Range": 35,
-                "Damage": 60,
+                "Damage": 125,
                 "Cooldown": 0.1
             }
         ]
@@ -605,7 +605,7 @@
             }
         ]
     },
-    "Shadow Bonnie": {
+"Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
@@ -620,25 +620,31 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 30,
+                "Damage": 40,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 15,
-                "Damage": 25,
+                "Damage": 60,
                 "Cooldown": 0.05
             },
             {
                 "Price": 45000,
                 "Range": 20,
-                "Damage": 35,
+                "Damage": 70,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
                 "Range": 20,
-                "Damage": 50,
+                "Damage": 80,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 75000,
+                "Range": 22,
+                "Damage": 120,
                 "Cooldown": 0.05
             }
         ]
