@@ -2134,6 +2134,57 @@
             }
         ]
     },
+        "Scott": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18864498819",
+        "Rarity": "Secret",
+        "PlacePrice": 250000,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 160000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 15000,
+                "Range": 31,
+                "Damage": 220000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 20000,
+                "Range": 34,
+                "Damage": 280000,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 25000,
+                "Range": 37,
+                "Damage": 340000,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 30000,
+                "Range": 45,
+                "Damage": 400000,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Spring Bonnie": {
         "Type": "Support",
         "Image": "rbxassetid://18364574191",
