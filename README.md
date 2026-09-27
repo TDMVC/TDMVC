@@ -1273,11 +1273,11 @@
         ]
     },
     "Algae FredBear": {
-        "Type": "Single",
+        "Type": "Explosion",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Secret",
-        "PlacePrice": 3000,
-        "Max": 3,
+        "PlacePrice": 2500,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
