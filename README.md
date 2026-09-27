@@ -842,7 +842,7 @@
     "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 450,
         "Max": 4,
         "hitboxOffset": {
