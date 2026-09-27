@@ -1276,7 +1276,7 @@
         "Type": "Explosion",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Secret",
-        "PlacePrice": 2500,
+        "PlacePrice": 6500,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -1535,7 +1535,7 @@
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
         "Rarity": "Secret",
-        "PlacePrice": 500,
+        "PlacePrice": 400,
         "Offset": 0.55,
         "Max": 3,
         "hitboxOffset": {
@@ -1547,31 +1547,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
+                "Damage": 50,
                 "Cooldown": 0.45
             },
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 35,
+                "Damage": 75,
                 "Cooldown": 0.35
             },
             {
                 "Price": 1400,
                 "Range": 20,
-                "Damage": 40,
+                "Damage": 90,
                 "Cooldown": 0.35
             },
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 45,
+                "Damage": 95,
                 "Cooldown": 0.32
             },
                         {
                 "Price": 2500,
                 "Range": 25,
-                "Damage": 60,
+                "Damage": 100,
                 "Cooldown": 0.15
             }
         ]
@@ -1980,7 +1980,7 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 50,
+                "Damage": 70,
                 "Cooldown": 0.05,
                 "Wither": 2.5,
                 "ShinyWither": 3.5,
@@ -1989,7 +1989,7 @@
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 60,
+                "Damage": 80,
                 "Cooldown": 0.05,
                 "Wither": 2.5,
                 "ShinyWither": 3.5,
@@ -1998,7 +1998,7 @@
             {
                 "Price": 55000,
                 "Range": 35,
-                "Damage": 70,
+                "Damage": 90,
                 "Cooldown": 0.05,
                 "Wither": 2.5,
                 "ShinyWither": 3.5,
@@ -2007,7 +2007,7 @@
             {
                 "Price": 70000,
                 "Range": 45,
-                "Damage": 80,
+                "Damage": 100,
                 "Cooldown": 0.05,
                 "Wither": 2.5,
                 "ShinyWither": 3.5,
