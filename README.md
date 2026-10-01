@@ -1272,6 +1272,44 @@
             }
         ]
     },
+    "Vampire Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://111491089042335",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 5500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 38,
+                "Damage": 7500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 15000,
+                "Range": 40,
+                "Damage": 10000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 42,
+                "Damage": 12500,
+                "Cooldown": 0.4
+            }
+        ]
+    },
     "Algae FredBear": {
         "Type": "Explosion",
         "Image": "rbxassetid://18255264349",
