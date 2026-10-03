@@ -2134,6 +2134,73 @@
             }
         ]
     },
+      "Jaeger Freddy": {
+        "Type": "Duel",
+        "Image": "rbxassetid://0",
+        "Rarity": "Nightmare",
+        "PlacePrice": 6000,
+        "Max": 4,
+        "Passive": {"Name": "Flamethrower", "Description": "Burns enemies in a cone in front of him"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,
+                "Damage": 150,
+                "Cooldown": 1,
+                "ConeDamage": 80,
+                "ConeCooldown": 5,
+                "ConeRange": 20,
+                "ConeAngle": 70,
+                "BurnDamage": 15,
+                "BurnTime": 3,
+                "BurnTick": 0.5
+            },
+            {
+                "Price": 5000,
+                "Range": 9,
+                "Damage": 300,
+                "Cooldown": 0.9,
+                "ConeDamage": 160,
+                "ConeCooldown": 4.5,
+                "ConeRange": 22,
+                "ConeAngle": 75,
+                "BurnDamage": 30,
+                "BurnTime": 3,
+                "BurnTick": 0.5
+            },
+            {
+                "Price": 8000,
+                "Range": 10,
+                "Damage": 600,
+                "Cooldown": 0.8,
+                "ConeDamage": 320,
+                "ConeCooldown": 4,
+                "ConeRange": 24,
+                "ConeAngle": 80,
+                "BurnDamage": 60,
+                "BurnTime": 4,
+                "BurnTick": 0.5
+            },
+            {
+                "Price": 12000,
+                "Range": 12,
+                "Damage": 1200,
+                "Cooldown": 0.7,
+                "ConeDamage": 650,
+                "ConeCooldown": 3.5,
+                "ConeRange": 26,
+                "ConeAngle": 90,
+                "BurnDamage": 120,
+                "BurnTime": 4,
+                "BurnTick": 0.5
+            }
+        ]
+    },
         "Major Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18665224476",
