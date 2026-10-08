@@ -2449,7 +2449,7 @@
         "Type": "Cone AOE",
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
-        "PlacePrice": 8000,
+        "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -2461,26 +2461,26 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 110,
-                "Cooldown": 0.05
+                "Damage": 1100,
+                "Cooldown": 0.5
             },
             {
                 "Price": 8000,
                 "Range": 38,
-                "Damage": 125,
-                "Cooldown": 0.05
+                "Damage": 1125,
+                "Cooldown": 0.5
             },
             {
                 "Price": 10000,
                 "Range": 42,
-                "Damage": 150,
-                "Cooldown": 0.05
+                "Damage": 1550,
+                "Cooldown": 0.5
             },
             {
                 "Price": 15000,
                 "Range": 45,
-                "Damage": 200,
-                "Cooldown": 0.05
+                "Damage": 2000,
+                "Cooldown": 0.5
             }
         ]
     },
