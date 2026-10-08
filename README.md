@@ -1273,10 +1273,10 @@
         ]
     },
     "Vampire Chica": {
-        "Type": "Pierce",
+        "Type": "Splash",
         "Image": "rbxassetid://100079275460401",
         "Rarity": "Nightmare",
-        "PlacePrice": 35000,
+        "PlacePrice": 20000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -1287,20 +1287,20 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 6500,
-                "Cooldown": 1
+                "Damage": 4500,
+                "Cooldown": 2
             },
             {
                 "Price": 22000,
                 "Range": 38,
                 "Damage": 7500,
-                "Cooldown": 1
+                "Cooldown": 1.7
             },
             {
                 "Price": 25000,
                 "Range": 40,
                 "Damage": 8000,
-                "Cooldown": 1
+                "Cooldown": 1.4
             },
             {
                 "Price": 30000,
@@ -1898,25 +1898,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 6000,
-                "Cooldown": 5
+                "Cooldown": 4
             },
             {
                 "Price": 25000,
                 "Range": 23,
                 "Damage": 7750,
-                "Cooldown": 5
+                "Cooldown": 3.7
             },
             {
                 "Price": 30000,
                 "Range": 26,
                 "Damage": 8500,
-                "Cooldown": 5
+                "Cooldown": 3.3
             },
             {
                 "Price": 40000,
                 "Range": 30,
                 "Damage": 10500,
-                "Cooldown": 5
+                "Cooldown": 3
             }
         ]
     },
@@ -2291,7 +2291,7 @@
                 "Damage": 100,
                 "Cooldown": 5,
                 "SummonTime": 5,
-                "Health": 1000,
+                "Health": 200,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2302,7 +2302,7 @@
                 "Damage": 150,
                 "Cooldown": 4,
                 "SummonTime": 15,
-                "Health": 5000,
+                "Health": 450,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2313,7 +2313,7 @@
                 "Damage": 200,
                 "Cooldown": 2,
                 "SummonTime": 25,
-                "Health": 7500,
+                "Health": 750,
                 "WalkSpeed": 41,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2324,7 +2324,7 @@
                 "Damage": 250,
                 "Cooldown": 1,
                 "SummonTime": 30,
-                "Health": 15000,
+                "Health": 1500,
                 "WalkSpeed": 25,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2446,7 +2446,7 @@
         ]
     },
     "Valkyrie Chica": {
-        "Type": "Cone AOE",
+        "Type": "Single",
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
@@ -2461,26 +2461,26 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 1100,
-                "Cooldown": 0.5
+                "Damage": 300,
+                "Cooldown": 0.2
             },
             {
                 "Price": 8000,
                 "Range": 38,
-                "Damage": 1125,
-                "Cooldown": 0.5
+                "Damage": 400,
+                "Cooldown": 0.2
             },
             {
                 "Price": 10000,
                 "Range": 42,
-                "Damage": 1550,
-                "Cooldown": 0.5
+                "Damage": 500,
+                "Cooldown": 0.2
             },
             {
                 "Price": 15000,
                 "Range": 45,
-                "Damage": 2000,
-                "Cooldown": 0.5
+                "Damage": 600,
+                "Cooldown": 0.2
             }
         ]
     },
