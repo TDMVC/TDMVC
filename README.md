@@ -884,7 +884,7 @@
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 2,
-        "Max": 4,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -893,27 +893,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 35,
                 "Damage": 10,
-                "Cooldown": 0.01
+                "Cooldown": 0.03
             },
             {
                 "Price": 3000,
-                "Range": 30,
+                "Range": 40,
                 "Damage": 15,
-                "Cooldown": 0.01
+                "Cooldown": 0.03
             },
             {
                 "Price": 4000,
-                "Range": 25,
+                "Range": 55,
                 "Damage": 40,
-                "Cooldown": 0.01
+                "Cooldown": 0.03
             },
             {
                 "Price": 5000,
                 "Range": 40,
-                "Damage": 35,
-                "Cooldown": 0.01
+                "Damage": 65,
+                "Cooldown": 0.03
             }
         ]
     },
@@ -1630,26 +1630,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 225,
-                "Cooldown": 3
+                "Damage": 325,
+                "Cooldown": 2.5
             },
             {
                 "Price": 500,
                 "Range": 18,
-                "Damage": 380,
-                "Cooldown": 2.5
+                "Damage": 480,
+                "Cooldown": 2
             },
             {
                 "Price": 800,
                 "Range": 20,
-                "Damage": 450,
-                "Cooldown": 2.5
+                "Damage": 550,
+                "Cooldown": 1.85
             },
             {
                 "Price": 1200,
                 "Range": 22,
-                "Damage": 525,
-                "Cooldown": 1.5
+                "Damage": 625,
+                "Cooldown": 1.25
             }
         ]
     },
