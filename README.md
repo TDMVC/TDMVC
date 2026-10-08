@@ -2446,7 +2446,7 @@
         ]
     },
     "Valkyrie Chica": {
-        "Type": "Continuous",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
         "PlacePrice": 8000,
