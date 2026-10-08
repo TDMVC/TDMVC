@@ -580,31 +580,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 70,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
-                "Range": 25,
+                "Range": 26,
                 "Damage": 80,
                 "Cooldown": 0.05
             },
             {
                 "Price": 45000,
-                "Range": 30,
+                "Range": 29,
                 "Damage": 90,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
-                "Range": 40,
+                "Range": 32,
                 "Damage": 100,
                 "Cooldown": 0.05
             },
             {
                 "Price": 75000,
-                "Range": 42,
+                "Range": 35,
                 "Damage": 150,
                 "Cooldown": 0.05
             }
@@ -2314,7 +2314,7 @@
                 "Cooldown": 2,
                 "SummonTime": 25,
                 "Health": 750,
-                "WalkSpeed": 41,
+                "WalkSpeed": 15,
                 "Unit": "TankCake",
                 "Offset": -1.5
             },
