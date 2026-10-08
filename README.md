@@ -570,7 +570,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
-        "PlacePrice": 20000,
+        "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -581,32 +581,32 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 40,
+                "Damage": 70,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 60,
+                "Damage": 80,
                 "Cooldown": 0.05
             },
             {
                 "Price": 45000,
                 "Range": 30,
-                "Damage": 70,
+                "Damage": 90,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
                 "Range": 40,
-                "Damage": 80,
+                "Damage": 100,
                 "Cooldown": 0.05
             },
             {
                 "Price": 75000,
                 "Range": 42,
-                "Damage": 120,
-                "Cooldown": 0.05
+                "Damage": 150,
+                "Cooldown": 0.02
             }
         ]
     },
@@ -1273,10 +1273,10 @@
         ]
     },
     "Vampire Chica": {
-        "Type": "Single",
+        "Type": "Pierce",
         "Image": "rbxassetid://100079275460401",
         "Rarity": "Nightmare",
-        "PlacePrice": 10000,
+        "PlacePrice": 80000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -1287,25 +1287,25 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 5500,
-                "Cooldown": 1
-            },
-            {
-                "Price": 12000,
-                "Range": 38,
                 "Damage": 6500,
                 "Cooldown": 1
             },
             {
-                "Price": 15000,
-                "Range": 40,
-                "Damage": 7000,
+                "Price": 72000,
+                "Range": 38,
+                "Damage": 7500,
                 "Cooldown": 1
             },
             {
-                "Price": 20000,
+                "Price": 75000,
+                "Range": 40,
+                "Damage": 8000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 80000,
                 "Range": 42,
-                "Damage": 8500,
+                "Damage": 10000,
                 "Cooldown": 1
             }
         ]
