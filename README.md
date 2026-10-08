@@ -931,26 +931,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 155,
+                "Range": 20,
+                "Damage": 60,
                 "Cooldown": 0.45
             },
             {
                 "Price": 800,
-                "Range": 25,
-                "Damage": 175,
+                "Range": 22,
+                "Damage": 90,
                 "Cooldown": 0.45
             },
             {
                 "Price": 1200,
-                "Range": 30,
-                "Damage": 200,
+                "Range": 25,
+                "Damage": 120,
                 "Cooldown": 0.45
             },
             {
                 "Price": 1600,
-                "Range": 35,
-                "Damage": 220,
+                "Range": 30,
+                "Damage": 155,
                 "Cooldown": 0.45
             }
         ]
@@ -971,26 +971,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1000,
-                "Cooldown": 4
+                "Damage": 1250,
+                "Cooldown": 3
             },
             {
                 "Price": 20000,
-                "Range": 30,
-                "Damage": 1200,
-                "Cooldown": 3.5
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 3
             },
             {
                 "Price": 25000,
-                "Range": 35,
-                "Damage": 3000,
-                "Cooldown": 3.5
+                "Range": 30,
+                "Damage": 2450,
+                "Cooldown": 2.5
             },
             {
                 "Price": 30000,
-                "Range": 40,
-                "Damage": 5000,
-                "Cooldown": 3
+                "Range": 35,
+                "Damage": 3500,
+                "Cooldown": 2
             }
         ]
     },
@@ -2450,7 +2450,7 @@
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2749,7 +2749,7 @@
             {
                 "Price": 22000,
                 "Range": 22,
-                "Damage": 2200,
+                "Damage": 3000,
                 "Cooldown": 1
             }
         ]
