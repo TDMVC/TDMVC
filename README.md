@@ -119,7 +119,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://138114871531482",
         "Rarity": "Nightmare",
-        "PlacePrice": 25000,
+        "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -959,7 +959,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://18151575297",
         "Rarity": "Nightmare",
-        "PlacePrice": 30000,
+        "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -975,19 +975,19 @@
                 "Cooldown": 4
             },
             {
-                "Price": 22000,
+                "Price": 20000,
                 "Range": 30,
                 "Damage": 1200,
                 "Cooldown": 3.5
             },
             {
-                "Price": 35000,
+                "Price": 25000,
                 "Range": 35,
                 "Damage": 3000,
                 "Cooldown": 3.5
             },
             {
-                "Price": 50000,
+                "Price": 30000,
                 "Range": 40,
                 "Damage": 5000,
                 "Cooldown": 3
