@@ -1238,8 +1238,8 @@
         "Type": "Pierce",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
-        "PlacePrice": 7000,
-        "Max": 1,
+        "PlacePrice": 15000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1266,8 +1266,8 @@
             },
             {
                 "Price": 20000,
-                "Range": 55,
-                "Damage": 1550,
+                "Range": 35,
+                "Damage": 1350,
                 "Cooldown": 0.5
             }
         ]
