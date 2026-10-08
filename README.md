@@ -119,7 +119,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://138114871531482",
         "Rarity": "Nightmare",
-        "PlacePrice": 15000,
+        "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -130,33 +130,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 8,
+                "Range": 10,
                 "Damage": 120,
                 "Cooldown": 0.9
             },
             {
                 "Price": 5800,
-                "Range": 12,
-                "Damage": 150,
+                "Range": 15,
+                "Damage": 250,
                 "Cooldown": 0.7
             },
             {
                 "Price": 7700,
-                "Range": 15,
-                "Damage": 400,
+                "Range": 20,
+                "Damage": 450,
                 "Cooldown": 0.6
             },
             {
                 "Price": 10000,
-                "Range": 18,
-                "Damage": 550,
+                "Range": 26,
+                "Damage": 750,
                 "Cooldown": 0.5
             },
                         {
                 "Price": 15000,
-                "Range": 22,
-                "Damage": 700,
-                "Cooldown": 0.5
+                "Range": 30,
+                "Damage": 1700,
+                "Cooldown": 0.3
             }
         ]
     },
@@ -920,7 +920,7 @@
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 400,
         "Max": 4,
         "hitboxOffset": {
