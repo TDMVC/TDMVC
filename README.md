@@ -1963,7 +1963,7 @@
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Epic",
-        "PlacePrice": 250,
+        "PlacePrice": 750,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -1976,29 +1976,29 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 0,
-                "Cooldown": 3,
-                "Farm": 5000
+                "Cooldown": 1,
+                "Farm": 200
             },
             {
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 0,
-                "Cooldown": 3,
-                "Farm": 5550
+                "Cooldown": 1,
+                "Farm": 350
             },
             {
                 "Price": 2000,
                 "Range": 15,
                 "Damage": 0,
-                "Cooldown": 3,
-                "Farm": 6000
+                "Cooldown": 1,
+                "Farm": 400
             },
             {
                 "Price": 3000,
                 "Range": 15,
-                "Damage": 850,
-                "Cooldown": 3,
-                "Farm": 10000
+                "Damage": 0,
+                "Cooldown": 1,
+                "Farm": 600
             }
         ]
     },
