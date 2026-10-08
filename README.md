@@ -1273,10 +1273,10 @@
         ]
     },
     "Vampire Chica": {
-        "Type": "Splash",
+        "Type": "Single",
         "Image": "rbxassetid://100079275460401",
         "Rarity": "Nightmare",
-        "PlacePrice": 7500,
+        "PlacePrice": 10000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -1287,26 +1287,26 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 2500,
-                "Cooldown": 0.9
+                "Damage": 5500,
+                "Cooldown": 1
             },
             {
                 "Price": 12000,
                 "Range": 38,
-                "Damage": 3500,
-                "Cooldown": 0.8
+                "Damage": 6500,
+                "Cooldown": 1
             },
             {
                 "Price": 15000,
                 "Range": 40,
-                "Damage": 5000,
-                "Cooldown": 0.7
+                "Damage": 7000,
+                "Cooldown": 1
             },
             {
                 "Price": 20000,
                 "Range": 42,
-                "Damage": 6500,
-                "Cooldown": 0.6
+                "Damage": 8500,
+                "Cooldown": 1
             }
         ]
     },
