@@ -2272,6 +2272,610 @@
             }
         ]
     },
+        "Nightmare Foxy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://18974775213",
+        "Rarity": "Mythic",
+        "PlacePrice": 5000,
+        "Offset": 1,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 3
+            },
+            {
+                "Price": 6500,
+                "Range": 24,
+                "Damage": 700,
+                "Cooldown": 2.85
+            },
+            {
+                "Price": 8000,
+                "Range": 27,
+                "Damage": 800,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 900,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+    "Nightmare Bonnie": {
+        "Type": "Melee",
+        "Image": "rbxassetid://18975677946",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 0.25,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 13,
+                "Damage": 2500,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 25000,
+                "Range": 14,
+                "Damage": 3000,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 30000,
+                "Range": 15,
+                "Damage": 4000,
+                "Cooldown": 1.2
+            }
+        ]
+    },
+   "Nightmare Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://18975771590",
+        "Rarity": "Epic",
+        "PlacePrice": 4000,
+        "Offset": 0.25,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Slow": 1.1,
+                "Cooldown": 3
+            },
+            {
+                "Price": 6000,
+                "Range": 15,
+                "Damage": 625,
+                "Slow": 1.2,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 7000,
+                "Range": 15,
+                "Damage": 750,
+                "Slow": 1.2,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 8000,
+                "Range": 20,
+                "Damage": 1000,
+                "Slow": 1.2,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Nightmare Freddy": {
+        "Type": "Melee",
+        "Image": "rbxassetid://18975866920",
+        "Rarity": "Rare",
+        "PlacePrice": 750,
+        "Offset": 0.25,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 200,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 800,
+                "Range": 13,
+                "Damage": 250,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 1250,
+                "Range": 14,
+                "Damage": 300,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 1800,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "NightMarionne": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18975916197",
+        "Rarity": "Nightmare",
+        "PlacePrice": 48000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 42000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 48000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 72000,
+                "Range": 40,
+                "Damage": 54000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 84000,
+                "Range": 45,
+                "Damage": 60000,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Fredbear": {
+        "Type": "Support",
+        "Image": "rbxassetid://18977659349",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 800,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.3
+            }
+        ]
+    },
+    "Nightmare Cupcake": {
+        "Type": "Single Slow",
+        "Image": "rbxassetid://18978229455",
+        "Rarity": "Epic",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 175,
+                "Slow": 0.6,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 200,
+                "Slow": 0.6,
+                "Cooldown": 1.85
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 225,
+                "Slow":  0.6,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 250,
+                "Slow": 0.6,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Nightmare": {
+        "Type": "AOE Poison",
+        "Image": "rbxassetid://18977738423",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Offset": 0.5,
+        "Max": 3,
+        "Passive": {"Name": "Poison", "Description": "Poisons enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 700,
+                "Poison": 350,
+                "PoisonTime": 3,
+                "Cooldown": 3
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 800,
+                "Poison": 400,
+                "PoisonTime": 3,
+                "Cooldown": 2.85
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 900,
+                "Poison": 450,
+                "PoisonTime": 3,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 40000,
+                "Range": 35,
+                "Damage": 1000,
+                "Poison": 500,
+                "PoisonTime": 3,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+    "Endo 04": {
+        "Type": "Cone AOE Burn",
+        "Image": "rbxassetid://18989232497",
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 150,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4000,
+                "Range": 19,
+                "Damage": 200,
+                "Burn": 50,
+                "BurnTime": 1.2,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 250,
+                "Burn": 62,
+                "BurnTime": 1.2,
+                "Cooldown": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage":300,
+                "Burn": 80,
+                "BurnTime": 1.2,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Nightmare Mangle": {
+        "Type": "AOE Poison",
+        "Image": "rbxassetid://18977428026",
+        "Rarity": "Nightmare",
+        "PlacePrice": 65000,
+        "Offset": -1,
+        "Max": 2,
+        "Passive": {"Name": "Poison", "Description": "Deals 200% damage in poison over 8 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 17500,
+                "Poison": 35000,
+                "PoisonTime": 8,
+                "Cooldown": 3
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 20000,
+                "Poison": 40000,
+                "PoisonTime": 8,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 29,
+                "Damage": 22500,
+                "Poison": 45000,
+                "PoisonTime": 8,
+                "Cooldown": 3
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 25000,
+                "Poison": 50000,
+                "PoisonTime": 8,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Freddle": {
+        "Type": "Summoner",
+        "Image": "rbxassetid://18978374958",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 500,
+                "Cooldown": 10
+            },
+            {
+                "Price": 500,
+                "Range": 15,
+                "Damage": 1000,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 1000,
+                "Cooldown": 9
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 2000,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 2000,
+                "Cooldown": 8
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 3000,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 3000,
+                "Cooldown": 7
+            }
+        ]
+    },
+  "Nightmare Balloon Boy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://18978330449",
+        "Rarity": "Mythic",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 140,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 160,
+                "Cooldown": 0.85
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 180,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "Plushtrap": {
+        "Type": "Support",
+        "Image": "rbxassetid://18978316223",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+               "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.24
+            }
+        ]
+    },
+    "Nightmare Fredbear": {
+        "Type": "Single",
+        "Image": "rbxassetid://18978153260",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 80,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 95,
+                "Cooldown": 0.17
+            },
+            {
+                "Price": 7500,
+                "Range": 25,
+                "Damage": 110,
+                "Cooldown": 0.14
+            },
+            {
+                "Price": 9000,
+                "Range": 30,
+                "Damage": 125,
+                "Cooldown": 0.15
+            }
+        ]
+    },
     "Cupcake Tank": {
         "Type": "Summoner",
         "Image": "rbxassetid://18673630095",
