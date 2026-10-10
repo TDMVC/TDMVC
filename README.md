@@ -2312,7 +2312,7 @@
         ]
     },
     "Nightmare Bonnie": {
-        "Type": "Melee",
+        "Type": "AOE",
         "Image": "rbxassetid://18975677946",
         "Rarity": "Secret",
         "PlacePrice": 15000,
