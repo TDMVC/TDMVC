@@ -3475,6 +3475,44 @@
             }
         ]
     },
+    "SpringTrap": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://18356146630",
+        "Rarity": "Nightmare",
+        "PlacePrice": 50000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 12000,
+                "Cooldown": 1.95
+            },
+            {
+                "Price": 40000,
+                "Range": 25,
+                "Damage": 14000,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 180000,
+                "Cooldown": 2.5
+            }
+        ]
+    },
     "Flame Empress Chica": {
         "Type": "Nuke Burn",
         "Image": "rbxassetid://18971134114",
