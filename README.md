@@ -2584,7 +2584,7 @@
             {
                 "Price": 20000,
                 "Range": 27,
-                "Damage": 800,
+                "Damage": 1000,
                 "Poison": 400,
                 "PoisonTime": 3,
                 "Cooldown": 2.85
@@ -2592,7 +2592,7 @@
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 900,
+                "Damage": 1250,
                 "Poison": 450,
                 "PoisonTime": 3,
                 "Cooldown": 2.7
@@ -2600,7 +2600,7 @@
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 1000,
+                "Damage": 1500,
                 "Poison": 500,
                 "PoisonTime": 3,
                 "Cooldown": 2.5
@@ -2659,7 +2659,7 @@
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
         "Rarity": "Nightmare",
-        "PlacePrice": 65000,
+        "PlacePrice": 30000,
         "Offset": -1,
         "Max": 2,
         "Passive": {"Name": "Poison", "Description": "Deals 200% damage in poison over 8 seconds"},
@@ -2672,32 +2672,32 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 17500,
-                "Poison": 35000,
+                "Damage": 1750,
+                "Poison": 450,
                 "PoisonTime": 8,
                 "Cooldown": 3
             },
             {
                 "Price": 20000,
                 "Range": 27,
-                "Damage": 20000,
-                "Poison": 40000,
+                "Damage": 2000,
+                "Poison": 500,
                 "PoisonTime": 8,
                 "Cooldown": 3
             },
             {
                 "Price": 25000,
                 "Range": 29,
-                "Damage": 22500,
-                "Poison": 45000,
+                "Damage": 2250,
+                "Poison": 650,
                 "PoisonTime": 8,
                 "Cooldown": 3
             },
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 25000,
-                "Poison": 50000,
+                "Damage": 3000,
+                "Poison": 700,
                 "PoisonTime": 8,
                 "Cooldown": 3
             }
@@ -2853,26 +2853,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 80,
-                "Cooldown": 0.2
+                "Damage": 120,
+                "Cooldown": 0.15
             },
             {
                 "Price": 6000,
                 "Range": 22,
-                "Damage": 95,
-                "Cooldown": 0.17
+                "Damage": 142.5,
+                "Cooldown": 0.14
             },
             {
                 "Price": 7500,
                 "Range": 25,
-                "Damage": 110,
-                "Cooldown": 0.14
+                "Damage": 150,
+                "Cooldown": 0.12
             },
             {
                 "Price": 9000,
                 "Range": 30,
-                "Damage": 125,
-                "Cooldown": 0.15
+                "Damage": 200,
+                "Cooldown": 0.1
             }
         ]
     },
@@ -3490,26 +3490,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10000,
-                "Cooldown": 2
+                "Damage": 2000,
+                "Cooldown": 1.5
             },
             {
                 "Price": 30000,
                 "Range": 22,
-                "Damage": 12000,
-                "Cooldown": 1.95
+                "Damage": 3250,
+                "Cooldown": 1.3
             },
             {
                 "Price": 40000,
                 "Range": 25,
-                "Damage": 14000,
-                "Cooldown": 1.9
+                "Damage": 3800,
+                "Cooldown": 1.1
             },
             {
                 "Price": 50000,
                 "Range": 30,
-                "Damage": 180000,
-                "Cooldown": 2.5
+                "Damage": 4200,
+                "Cooldown": 0.9
             }
         ]
     },
