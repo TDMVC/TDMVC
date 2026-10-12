@@ -1887,7 +1887,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Offset": 0.7,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2006,7 +2006,7 @@
         "Type": "Continuous Wither",
         "Image": "rbxassetid://18363533024",
         "Rarity": "Nightmare",
-        "PlacePrice": 35000,
+        "PlacePrice": 30000,
         "Max": 3,
         "Passive": {"Name": "Phantasms Wrath", "Description": "Targetted enemies take 50% more damage for 1 second."},
         "hitboxOffset": {
@@ -2018,7 +2018,7 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 70,
+                "Damage": 80,
                 "Cooldown": 0.05,
                 "Wither": 2.5,
                 "ShinyWither": 3.5,
@@ -2027,25 +2027,25 @@
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 80,
-                "Cooldown": 0.05,
-                "Wither": 2.5,
-                "ShinyWither": 3.5,
-                "WitherTime": 1
-            },
-            {
-                "Price": 55000,
-                "Range": 35,
-                "Damage": 90,
-                "Cooldown": 0.05,
-                "Wither": 2.5,
-                "ShinyWither": 3.5,
-                "WitherTime": 1
-            },
-            {
-                "Price": 70000,
-                "Range": 45,
                 "Damage": 100,
+                "Cooldown": 0.05,
+                "Wither": 2.5,
+                "ShinyWither": 3.5,
+                "WitherTime": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 130,
+                "Cooldown": 0.05,
+                "Wither": 2.5,
+                "ShinyWither": 3.5,
+                "WitherTime": 1
+            },
+            {
+                "Price": 60000,
+                "Range": 45,
+                "Damage": 160,
                 "Cooldown": 0.05,
                 "Wither": 2.5,
                 "ShinyWither": 3.5,
@@ -2315,7 +2315,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://18975677946",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 5000,
         "Offset": 0.25,
         "Max": 3,
         "hitboxOffset": {
@@ -2326,25 +2326,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 12,
+                "Range": 15,
                 "Damage": 2000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 20000,
-                "Range": 13,
+                "Range": 20,
                 "Damage": 2500,
                 "Cooldown": 1.4
             },
             {
                 "Price": 25000,
-                "Range": 14,
+                "Range": 23,
                 "Damage": 3000,
                 "Cooldown": 1.3
             },
             {
                 "Price": 30000,
-                "Range": 15,
+                "Range": 25,
                 "Damage": 4000,
                 "Cooldown": 1.2
             }
@@ -3393,7 +3393,7 @@
                 "Price": 7000,
                 "Range": 25,
                 "Damage": 75,
-                "Cooldown": 0.02
+                "Cooldown": 0.05
             }
         ]
     },
@@ -3479,8 +3479,8 @@
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
         "Rarity": "Nightmare",
-        "PlacePrice": 50000,
-        "Max": 1,
+        "PlacePrice": 20000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
