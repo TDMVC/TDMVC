@@ -198,6 +198,51 @@
             }
         ]
     },
+"Transbit": {
+    "Type": "AOE",
+    "Image": "rbxassetid://120586403246563",
+    "Rarity": "Forbidden",
+    "PlacePrice": 500,
+    "Max": 2
+,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 22,
+            "Damage": 500,
+            "Cooldown": 0.4
+        },
+        {
+            "Price": 1000,
+            "Range": 24,
+            "Damage": 1000,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 4000,
+            "Range": 26,
+            "Damage": 2500,
+            "Cooldown": 0.15
+        },
+        {
+            "Price": 10000,
+            "Range": 28,
+            "Damage": 4000,
+            "Cooldown": 0.1
+        },
+        {
+            "Price": 100000,
+            "Range": 35,
+            "Damage": 7500,
+            "Cooldown": 0.1
+        }
+    ]
+}, 
     "Polluted Chica": {
         "Type": "Melee",
         "Image": "rbxassetid://101405202724981",
