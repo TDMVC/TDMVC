@@ -1870,25 +1870,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 44,
+                "Damage": 220,
                 "Cooldown": 0.25
             },
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 50,
+                "Damage": 250,
                 "Cooldown": 0.25
             },
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 60,
+                "Damage": 300,
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
                 "Range": 30,
-                "Damage": 70,
+                "Damage": 350,
                 "Cooldown": 0.25
             }
         ]
@@ -2747,7 +2747,7 @@
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
         "Rarity": "Nightmare",
-        "PlacePrice": 30000,
+        "PlacePrice": 20000,
         "Offset": -1,
         "Max": 2,
         "Passive": {"Name": "Poison", "Description": "Deals 200% damage in poison over 8 seconds"},
@@ -2760,7 +2760,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1750,
+                "Damage": 2500,
                 "Poison": 450,
                 "PoisonTime": 8,
                 "Cooldown": 3
@@ -2768,7 +2768,7 @@
             {
                 "Price": 20000,
                 "Range": 27,
-                "Damage": 2000,
+                "Damage": 3000,
                 "Poison": 500,
                 "PoisonTime": 8,
                 "Cooldown": 3
@@ -2776,7 +2776,7 @@
             {
                 "Price": 25000,
                 "Range": 29,
-                "Damage": 2250,
+                "Damage": 4450,
                 "Poison": 650,
                 "PoisonTime": 8,
                 "Cooldown": 3
@@ -2784,7 +2784,7 @@
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 3000,
+                "Damage": 5000,
                 "Poison": 700,
                 "PoisonTime": 8,
                 "Cooldown": 3
@@ -3618,39 +3618,39 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 2500,
+                "Damage": 3000,
                 "Burn": 5000,
                 "BurnTime": 3,
                 "Cooldown": 2
             },
             {
-                "Price": 55000,
+                "Price": 30000,
                 "Range": 28,
-                "Damage": 3000,
+                "Damage": 3250,
                 "Burn": 6500,
                 "BurnTime": 3,
                 "Cooldown": 2
             },
             {
-                "Price": 60000,
+                "Price": 35000,
                 "Range": 31,
-                "Damage": 3150,
+                "Damage": 3500,
                 "Burn": 8000,
                 "BurnTime": 3,
                 "Cooldown": 2
             },
             {
-                "Price": 65000,
+                "Price": 40000,
                 "Range": 34,
-                "Damage": 3300,
+                "Damage": 4000,
                 "Burn": 9000,
                 "BurnTime": 3,
                 "Cooldown": 2
             },
             {
-                "Price": 70000,
+                "Price": 50000,
                 "Range": 38,
-                "Damage": 3500,
+                "Damage": 5000,
                 "Burn": 9500,
                 "BurnTime": 3,
                 "Cooldown": 2
