@@ -1409,6 +1409,49 @@
             }
         ]
     },
+    "The Pumpking": {
+        "Type": "Support",
+        "Image": "rbxassetid://134623810125214",
+        "Rarity": "Forgotten",
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.06
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1400,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.23
+            },
+            {
+                "Price": 1800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.25
+            }
+        ]
+    },
     "Rad Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://18258392627",
