@@ -3651,7 +3651,7 @@
                 "Price": 50000,
                 "Range": 38,
                 "Damage": 5000,
-                "Burn": 9500,
+                "Burn": 10000,
                 "BurnTime": 3,
                 "Cooldown": 2
             }
