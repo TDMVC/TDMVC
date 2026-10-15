@@ -1412,7 +1412,7 @@
     "The Pumpking": {
         "Type": "Support",
         "Image": "rbxassetid://134623810125214",
-        "Rarity": "Forgotten",
+        "Rarity": "Forbidden",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
