@@ -198,13 +198,12 @@
             }
         ]
     },
-"Transbit": {
+"Treatbit": {
     "Type": "AOE",
     "Image": "rbxassetid://120586403246563",
-    "Rarity": "Forbidden",
+    "Rarity": "Secret",
     "PlacePrice": 500,
-    "Max": 2
-,
+    "Max": 2,
     "hitboxOffset": {
         "X": 0,
         "Y": 0,
@@ -214,31 +213,31 @@
         {
             "Price": 0,
             "Range": 22,
-            "Damage": 500,
+            "Damage": 225,
             "Cooldown": 0.4
         },
         {
             "Price": 1000,
             "Range": 24,
-            "Damage": 1000,
+            "Damage": 225,
             "Cooldown": 0.2
         },
         {
             "Price": 4000,
             "Range": 26,
-            "Damage": 2500,
+            "Damage": 225,
             "Cooldown": 0.15
         },
         {
             "Price": 10000,
             "Range": 28,
-            "Damage": 4000,
+            "Damage": 300,
             "Cooldown": 0.1
         },
         {
             "Price": 100000,
             "Range": 35,
-            "Damage": 7500,
+            "Damage": 325,
             "Cooldown": 0.1
         }
     ]
