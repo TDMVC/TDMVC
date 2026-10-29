@@ -200,7 +200,7 @@
     },
 "Treatbit": {
     "Type": "AOE",
-    "Image": "rbxassetid://120586403246563",
+    "Image": "rbxassetid://135659548383102",
     "Rarity": "Secret",
     "PlacePrice": 500,
     "Max": 2,
