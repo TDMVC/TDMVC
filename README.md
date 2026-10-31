@@ -2588,6 +2588,62 @@
             }
         ]
     },
+    "The Hallow": {
+        "Type": "???",
+        "Image": "rbxassetid://115164895793220",
+        "Rarity": "Limited",
+        "PlacePrice": 9999,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Frightful Terror", "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 38000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 9500,
+                "BurnTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 32,
+                "Damage": 44000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 11000,
+                "BurnTime": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 50000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 12500,
+                "BurnTime": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 38,
+                "Damage": 56000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 14000,
+                "BurnTime": 1
+            }
+        ]
+    },
     "Nightmare Freddy": {
         "Type": "Melee",
         "Image": "rbxassetid://18975866920",
