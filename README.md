@@ -1410,6 +1410,109 @@
             }
         ]
     },
+    "Clowntrap": {
+        "Type": "Splash Stun",
+        "Image": "rbxassetid://98100058612651",
+        "Rarity": "Secret",
+        "PlacePrice": 8000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 2500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 3000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 16000,
+                "Range": 25,
+                "Damage": 3500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Dreadbear": {
+        "Type": "AOE Burn + Stun",
+        "Image": "rbxassetid://71876084991999",
+        "Rarity": "Nightmare",
+        "PlacePrice": 51000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Frightful Terror", "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 38000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 9500,
+                "BurnTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 32,
+                "Damage": 44000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 11000,
+                "BurnTime": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 50000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 12500,
+                "BurnTime": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 38,
+                "Damage": 56000,
+                "Cooldown": 2.8,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 14000,
+                "BurnTime": 1
+            }
+        ]
+    },
     "Hawaii Endo 02": {
         "Type": "Support",
         "Image": "rbxassetid://18255863130",
