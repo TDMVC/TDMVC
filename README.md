@@ -1887,6 +1887,54 @@
             }
         ]
     },
+     "Grimm Foxy": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://101295016610509",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 1,
+        "Max": 3,
+        "Passive": {"Name": "Burn", "Description": "Burns enemies at 125% over 2 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1.5,
+                "Burn": 500,
+                "BurnTime": 2
+            },
+            {
+                "Price": 400,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 1.5,
+                "Burn": 625,
+                "BurnTime": 2
+            },
+            {
+                "Price": 500,
+                "Range": 24,
+                "Damage": 600,
+                "Cooldown": 1.5,
+                "Burn": 750,
+                "BurnTime": 2
+            },
+            {
+                "Price": 600,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 1.5,
+                "Burn": 1000,
+                "BurnTime": 2
+            }
+        ]
+    },
     "Phantom Gold Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18363517791",
