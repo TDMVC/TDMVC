@@ -1127,6 +1127,44 @@
       }
     ]
   },
+    "Demon Freddy": {
+    "Type": "???",
+    "Image": "rbxassetid://122296021370620",
+    "Rarity": "Limited",
+    "PlacePrice": 6666,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 6,
+        "Damage": 12400,
+        "Cooldown": 6
+      },
+      {
+        "Price": 12222,
+        "Range": 8,
+        "Damage": 27500,
+        "Cooldown": 4
+      },
+      {
+        "Price": 24444,
+        "Range": 10,
+        "Damage": 32500,
+        "Cooldown": 3
+      },
+      {
+        "Price": 48888,
+        "Range": 12,
+        "Damage": 40000
+        "Cooldown": 3
+      }
+    ]
+  },
   "Vendor Toy Chica": {
     "Type": "Explosion",
     "Image": "rbxassetid://18256363652",
