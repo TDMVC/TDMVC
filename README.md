@@ -1411,7 +1411,7 @@
         ]
     },
     "Clowntrap": {
-        "Type": "Splash Stun",
+        "Type": "AOE",
         "Image": "rbxassetid://98100058612651",
         "Rarity": "Secret",
         "PlacePrice": 8000,
@@ -1428,40 +1428,32 @@
                 "Range": 20,
                 "Damage": 2000,
                 "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 0.5
             },
             {
                 "Price": 10000,
                 "Range": 22,
                 "Damage": 2500,
                 "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 0.5
             },
             {
                 "Price": 12000,
                 "Range": 24,
                 "Damage": 3000,
                 "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 0.5
             },
             {
                 "Price": 16000,
                 "Range": 25,
                 "Damage": 3500,
                 "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 0.5
             }
         ]
     },
     "Dreadbear": {
-        "Type": "AOE Burn + Stun",
+        "Type": "AOE",
         "Image": "rbxassetid://71876084991999",
         "Rarity": "Nightmare",
-        "PlacePrice": 51000,
+        "PlacePrice": 80000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Frightful Terror", "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"},
@@ -1473,43 +1465,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 38000,
-                "Cooldown": 2.8,
-                "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 9500,
-                "BurnTime": 1
+                "Range": 18,
+                "Damage": 12500,
+                "Cooldown": 2,
             },
             {
-                "Price": 25000,
-                "Range": 32,
-                "Damage": 44000,
-                "Cooldown": 2.8,
-                "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 11000,
-                "BurnTime": 1
+                "Price": 120000,
+                "Range": 20,
+                "Damage": 15750,
+                "Cooldown": 2,
             },
             {
-                "Price": 30000,
-                "Range": 35,
-                "Damage": 50000,
-                "Cooldown": 2.8,
-                "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 12500,
-                "BurnTime": 1
+                "Price": 135000,
+                "Range": 21,
+                "Damage": 17500,
+                "Cooldown": 2,
             },
             {
-                "Price": 40000,
-                "Range": 38,
-                "Damage": 56000,
-                "Cooldown": 2.8,
-                "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 14000,
-                "BurnTime": 1
+                "Price": 150000,
+                "Range": 22,
+                "Damage": 22500,
+                "Cooldown": 1.8,
+            },
+            {
+                "Price": 180000,
+                "Range": 25,
+                "Damage": 25000,
+                "Cooldown": 1.8,
             }
         ]
     },
@@ -1991,7 +1973,7 @@
         ]
     },
      "Grimm Foxy": {
-        "Type": "Splash Burn",
+        "Type": "Single",
         "Image": "rbxassetid://101295016610509",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -2007,34 +1989,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 400,
+                "Damage": 800,
                 "Cooldown": 1.5,
-                "Burn": 500,
-                "BurnTime": 2
             },
             {
                 "Price": 400,
                 "Range": 22,
-                "Damage": 500,
+                "Damage": 900,
                 "Cooldown": 1.5,
-                "Burn": 625,
-                "BurnTime": 2
             },
             {
                 "Price": 500,
                 "Range": 24,
-                "Damage": 600,
+                "Damage": 1200,
                 "Cooldown": 1.5,
-                "Burn": 750,
-                "BurnTime": 2
             },
             {
                 "Price": 600,
                 "Range": 25,
-                "Damage": 800,
+                "Damage": 1500,
                 "Cooldown": 1.5,
-                "Burn": 1000,
-                "BurnTime": 2
             }
         ]
     },
@@ -2604,43 +2578,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
+                "Range": 15,
                 "Damage": 38000,
-                "Cooldown": 2.8,
-                "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 9500,
-                "BurnTime": 1
+                "Cooldown": 4,
             },
             {
                 "Price": 25000,
-                "Range": 32,
+                "Range": 18,
                 "Damage": 44000,
-                "Cooldown": 2.8,
-                "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 11000,
-                "BurnTime": 1
+                "Cooldown": 4,
             },
             {
                 "Price": 30000,
-                "Range": 35,
+                "Range": 22,
                 "Damage": 50000,
-                "Cooldown": 2.8,
-                "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 12500,
-                "BurnTime": 1
+                "Cooldown": 4,
             },
             {
                 "Price": 40000,
-                "Range": 38,
+                "Range": 26,
                 "Damage": 56000,
-                "Cooldown": 2.8,
-                "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 14000,
-                "BurnTime": 1
+                "Cooldown": 4,
             }
         ]
     },
