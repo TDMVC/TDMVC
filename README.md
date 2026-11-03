@@ -2904,6 +2904,107 @@
       }
     ]
   },
+      "Gravelord Foxy": {
+        "Type": "Summon",
+        "Image": "rbxassetid://76307842206911",
+        "Rarity": "Apex",
+        "PlacePrice": 20000,
+        "Offset": 0.5,
+        "Max": 4,
+        "Passive": {"Name": "Necromancer", "Description": "Summons spawns every 10 seconds that have health equal to 70 times this units damage"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 3000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 40,
+                "Damage": 3600,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 40000,
+                "Range": 45,
+                "Damage": 4000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 50000,
+                "Range": 50,
+                "Damage": 5000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 1
+            }
+        ]
+    },
+  "Jack o Freddles": {
+    "Type": "Summoner",
+    "Image": "rbxassetid://124342440412969",
+    "Rarity": "Secret",
+    "PlacePrice": 700,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 750,
+        "Range": 18,
+        "Damage": 800,
+        "SummonTime": 5,
+        "Unit": "Ghost Freddle",
+        "Health": 1500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 900,
+        "Range": 19,
+        "Damage": 1300,
+        "SummonTime": 4,
+        "Unit": "Ghost Freddle",
+        "Health": 2000,
+        "Cooldown": 1,7
+      },
+      {
+        "Price": 1200,
+        "Range": 23,
+        "Damage": 2000,
+        "SummonTime": 3,
+        "Unit": "Zombie Freddle",
+        "Health": 3000,
+        "Cooldown": 1,5
+      },
+      {
+        "Price": 2500,
+        "Range": 28,
+        "Damage": 3400,
+        "SummonTime": 2,
+        "Unit": "Zombie Freddle",
+        "Unit": "Ghost Freddle",
+        "Health": 5600,
+        "Cooldown": 1,3
+      }
+    ]
+  },
   "Freddle": {
     "Type": "Summoner",
     "Image": "rbxassetid://18978374958",
