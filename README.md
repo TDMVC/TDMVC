@@ -570,7 +570,85 @@
         "Cooldown": 0.05
       }
     ]
-  },
+  }, 
+"Wraith Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://115627084338568",
+        "Rarity": "Secret",
+        "PlacePrice": 53000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 58000,
+                "Range": 22,
+                "Damage": 900,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 63000,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 66000,
+                "Range": 28,
+                "Damage": 1375,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+  "Spectral Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://130677986382080",
+        "Rarity": "Secret",
+        "PlacePrice": 30000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 35000,
+                "Range": 23,
+                "Damage": 6500,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 40000,
+                "Range": 26,
+                "Damage": 8000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 10000,
+                "Cooldown": 2
+            }
+        ]
+    },
   "Toy Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://16781095520",
@@ -610,6 +688,230 @@
       }
     ]
   },
+  "Agonized SpringTrap": {
+        "Type": "Pierce Spread",
+        "Image": "rbxassetid://132655301839150",
+        "Rarity": "Nightmare",
+        "PlacePrice": 66000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "I Always Come Back", "Description": "Attacks apply 60% Anti Bleed and 15% Wither to enemies for 2 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 18000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 77000,
+                "Range": 27,
+                "Damage": 22000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 88000,
+                "Range": 31,
+                "Damage": 26000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 99000,
+                "Range": 35,
+                "Damage": 30000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            }
+        ]
+    },
+   "Limitless Shadow": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://134973909366355",
+        "Rarity": "Nightmare",
+        "PlacePrice": 58000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Unnerving Presence", "Description": "Deals +100% more damage if enemies are within 12 range of this unit."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 16000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 64000,
+                "Range": 17,
+                "Damage": 19000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 76000,
+                "Range": 18,
+                "Damage": 22000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 88000,
+                "Range": 20,
+                "Damage": 26000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Fractured Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://124956379444337",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 120,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 40000,
+                "Range": 27,
+                "Damage": 180,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 250,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+  "Master Puppeteer": {
+        "Type": "Continuous Pierce",
+        "Image": "rbxassetid://139994062140962",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Lethal Rebound", "Description": "Attacks hit enemies 10 times"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5600,
+                "Cooldown": 4
+            },
+           {
+                "Price": 15000,
+                "Range": 27,
+                "Damage": 6400,
+                "Cooldown": 4
+            },
+           {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 7000,
+                "Cooldown": 4
+            },
+           {
+                "Price": 25000,
+                "Range": 33,
+                "Damage": 7600,
+                "Cooldown": 4
+            }
+        ]
+    },
+"Tuned Mangle": {
+        "Type": "Splash",
+        "Image": "rbxassetid://139180573868562",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1300,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 23,
+                "Damage": 1600,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 26,
+                "Damage": 1900,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 2250,
+                "Cooldown": 0.5
+            }
+        ]
+    },
   "Shadow Bonnie": {
     "Type": "AOE",
     "Image": "rbxassetid://16781197179",
