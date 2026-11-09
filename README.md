@@ -626,25 +626,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 5000,
+                "Damage": 2500,
                 "Cooldown": 3
             },
             {
                 "Price": 35000,
                 "Range": 23,
-                "Damage": 6500,
+                "Damage": 3000,
                 "Cooldown": 2.7
             },
             {
                 "Price": 40000,
                 "Range": 26,
-                "Damage": 8000,
+                "Damage": 4000,
                 "Cooldown": 2.4
             },
             {
                 "Price": 50000,
                 "Range": 30,
-                "Damage": 8000,
+                "Damage": 5000,
                 "Cooldown": 2
             }
         ]
@@ -694,7 +694,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 66000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "I Always Come Back", "Description": "Attacks apply 60% Anti Bleed and 15% Wither to enemies for 2 seconds."},
         "hitboxOffset": {
             "X": 0,
@@ -765,25 +765,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 6000,
+                "Damage": 4000,
                 "Cooldown": 3
             },
             {
                 "Price": 54000,
                 "Range": 17,
-                "Damage": 7500,
+                "Damage": 4000,
                 "Cooldown": 2
             },
             {
                 "Price": 62000,
                 "Range": 18,
-                "Damage": 10000,
+                "Damage": 5000,
                 "Cooldown": 2
             },
             {
                 "Price": 88000,
                 "Range": 20,
-                "Damage": 6000,
+                "Damage": 4500,
                 "Cooldown": 1
             }
         ]
@@ -828,7 +828,7 @@
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 400,
+                "Damage": 350,
                 "Cooldown": 0.1
             }
         ]
@@ -850,25 +850,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 7500,
+                "Damage": 3750,
                 "Cooldown": 4
             },
            {
                 "Price": 15000,
                 "Range": 27,
-                "Damage": 9000,
+                "Damage": 4500,
                 "Cooldown": 3
             },
            {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 9000,
+                "Damage": 4500,
                 "Cooldown": 2
             },
            {
                 "Price": 25000,
                 "Range": 33,
-                "Damage": 12000,
+                "Damage": 6000,
                 "Cooldown": 2
             }
         ]
@@ -879,7 +879,7 @@
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
