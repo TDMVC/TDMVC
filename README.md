@@ -4756,6 +4756,142 @@
             }
         ]
     },
+     "Galleon Foxy": {
+        "Type": "Splash Slow",
+        "Image": "rbxassetid://118548312954474",
+        "Rarity": "Nightmare",
+        "PlacePrice": 8000,
+        "Offset": 1.5,
+        "Max": 3,
+        "Passive": {"Name": "Pirate's Grasp", "Description": "Enemies hit by attacks are slowed by 60%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.4,
+                "Slow": 0.4
+            },
+            {
+                "Price": 12500,
+                "Range": 24,
+                "Damage": 250,
+                "Cooldown": 0.4,
+                "Slow": 0.4
+            },
+            {
+                "Price": 15000,
+                "Range": 27,
+                "Damage": 300,
+                "Cooldown": 0.3,
+                "Slow": 0.4
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 400,
+                "Cooldown": 0.2,
+                "Slow": 0.4
+            }
+        ]
+    },
+    "Rave Demon Bonnie": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://100372638867635",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Offset": 0.7,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 8000,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 12500,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 6000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Buccaneer Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://116374108172820",
+        "Rarity": "Epic",
+        "PlacePrice": 400,
+        "Offset": 0.7,
+        "Max": 6,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 30,
+                "Poison": 350,
+                "PoisonTime": 3,
+                "Cooldown": 1
+            },
+            {
+                "Price": 600,
+                "Range": 16,
+                "Damage": 35,
+                "Poison": 350,
+                "PoisonTime": 3,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 40,
+                "Poison": 350,
+                "PoisonTime": 3,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 50,
+                "Poison": 350,
+                "PoisonTime": 3,
+                "Cooldown": 0.7
+            }
+        ]
+    },
   "Witch Toy Chica": {
     "Type": "Poison",
     "Image": "rbxassetid://18363391561",
