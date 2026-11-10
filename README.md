@@ -1,6 +1,4 @@
 {
-
-  // ---------- Summon ----------
   "Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://16620053009",
@@ -40,6 +38,45 @@
       }
     ]
   },
+  "Snorkeler Withered Bonnie": {
+    "Type": "Single",
+    "Image": "rbxassetid://98332995917393",
+    "Rarity": "Secret",
+    "PlacePrice": 10000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": 0.25,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 60,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 7000,
+        "Range": 20,
+        "Damage": 75,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 16000,
+        "Range": 25,
+        "Damage": 95,
+        "Cooldown": 0.1
+      },
+      {
+        "Price": 25000,
+        "Range": 35,
+        "Damage": 125,
+        "Cooldown": 0.1
+      }
+    ]
+  },
   "Chica": {
     "Type": "Explosion",
     "Image": "rbxassetid://16620303027",
@@ -75,6 +112,209 @@
         "Range": 14,
         "Damage": 30,
         "Cooldown": 1.5
+      }
+    ]
+  },
+  "Bukavac Mangle": {
+    "Type": "AOE",
+    "Image": "rbxassetid://138114871531482",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": 0.7,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 500,
+        "Cooldown": 1
+      },
+      {
+        "Price": 10000,
+        "Range": 15,
+        "Damage": 1250,
+        "Cooldown": 0.7
+      },
+      {
+        "Price": 25000,
+        "Range": 20,
+        "Damage": 1500,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 30000,
+        "Range": 26,
+        "Damage": 1750,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 50000,
+        "Range": 30,
+        "Damage": 2250,
+        "Cooldown": 0.5
+      }
+    ]
+  },
+  "Blighted Endo Freddy": {
+    "Type": "AOE",
+    "Image": "rbxassetid://18151573285",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 75,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 30000,
+        "Range": 25,
+        "Damage": 100,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 40000,
+        "Range": 25,
+        "Damage": 150,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 50000,
+        "Range": 30,
+        "Damage": 200,
+        "Cooldown": 0.05
+      }
+    ]
+  },
+  "Treatbit": {
+    "Type": "AOE",
+    "Image": "rbxassetid://135659548383102",
+    "Rarity": "Secret",
+    "PlacePrice": 500,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 200,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 450,
+        "Range": 24,
+        "Damage": 250,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 700,
+        "Range": 26,
+        "Damage": 250,
+        "Cooldown": 0.4
+      },
+      {
+        "Price": 800,
+        "Range": 28,
+        "Damage": 250,
+        "Cooldown": 0.3
+      },
+      {
+        "Price": 1000,
+        "Range": 30,
+        "Damage": 250,
+        "Cooldown": 0.25
+      }
+    ]
+  },
+  "Polluted Chica": {
+    "Type": "Melee",
+    "Image": "rbxassetid://101405202724981",
+    "Rarity": "Epic",
+    "PlacePrice": 300,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 70,
+        "Cooldown": 2
+      },
+      {
+        "Price": 500,
+        "Range": 35,
+        "Damage": 125,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 800,
+        "Range": 45,
+        "Damage": 300,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1250,
+        "Range": 55,
+        "Damage": 350,
+        "Cooldown": 0.5
+      }
+    ]
+  },
+  "Baker Toy Chica": {
+    "Type": "Explosion",
+    "Image": "rbxassetid://18161347460",
+    "Rarity": "Epic",
+    "PlacePrice": 800,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 30,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1400,
+        "Range": 18,
+        "Damage": 45,
+        "Cooldown": 1
+      },
+      {
+        "Price": 2000,
+        "Range": 22,
+        "Damage": 60,
+        "Cooldown": 1
+      },
+      {
+        "Price": 2500,
+        "Range": 25,
+        "Damage": 75,
+        "Cooldown": 0.8
       }
     ]
   },
@@ -117,195 +357,24 @@
       }
     ]
   },
-  "Toy Freddy": {
-    "Type": "Single",
-    "Image": "rbxassetid://16781095520",
+  "Sea Crawler Foxy": {
+    "Type": "Melee",
+    "Image": "rbxassetid://138512558080561",
     "Rarity": "Rare",
-    "PlacePrice": 800,
-    "Max": 3,
+    "PlacePrice": 50,
+    "Offset": 0.65,
+    "Max": 10,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
       "Z": 0
     },
-    "Offset": 0.3,
     "Upgrades": [
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 40,
-        "Cooldown": 2
-      },
-      {
-        "Price": 1000,
-        "Range": 12,
-        "Damage": 60,
-        "Cooldown": 2
-      },
-      {
-        "Price": 1500,
-        "Range": 15,
-        "Damage": 80,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 2000,
-        "Range": 15,
-        "Damage": 100,
-        "Cooldown": 1.5
-      }
-    ]
-  },
-  "Toy Bonnie": {
-    "Type": "Dual",
-    "Image": "rbxassetid://16780983603",
-    "Rarity": "Epic",
-    "PlacePrice": 1000,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 12,
-        "Damage": 40,
-        "Cooldown": 1
-      },
-      {
-        "Price": 1600,
-        "Range": 15,
-        "Damage": 50,
-        "Cooldown": 1
-      },
-      {
-        "Price": 2000,
-        "Range": 18,
-        "Damage": 60,
-        "Cooldown": 1
-      },
-      {
-        "Price": 3000,
-        "Range": 20,
-        "Damage": 75,
-        "Cooldown": 0.75
-      }
-    ]
-  },
-  "Toy Chica": {
-    "Type": "Explosion",
-    "Image": "rbxassetid://16781017510",
-    "Rarity": "Epic",
-    "PlacePrice": 1250,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Offset": -0.7,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 12,
-        "Damage": 100,
-        "Cooldown": 3
-      },
-      {
-        "Price": 2500,
-        "Range": 15,
-        "Damage": 125,
-        "Cooldown": 3
-      },
-      {
-        "Price": 4000,
-        "Range": 15,
-        "Damage": 150,
-        "Cooldown": 2
-      },
-      {
-        "Price": 6000,
-        "Range": 17,
-        "Damage": 150,
-        "Cooldown": 1.5
-      }
-    ]
-  },
-  "Balloon Boy": {
-    "Type": "Explosion",
-    "Image": "rbxassetid://16781077553",
-    "Rarity": "Mythic",
-    "PlacePrice": 5000,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 12,
-        "Damage": 200,
-        "Cooldown": 4
-      },
-      {
-        "Price": 10000,
-        "Range": 15,
-        "Damage": 250,
-        "Cooldown": 3.5
-      },
-      {
-        "Price": 15000,
-        "Range": 18,
-        "Damage": 300,
-        "Cooldown": 3
-      },
-      {
-        "Price": 25000,
-        "Range": 25,
-        "Damage": 350,
-        "Cooldown": 3
-      }
-    ]
-  },
-  "Golden Freddy": {
-    "Type": "Single",
-    "Image": "rbxassetid://17629034232",
-    "Rarity": "Mythic",
-    "PlacePrice": 4000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
         "Damage": 125,
         "Cooldown": 1.5
-      },
-      {
-        "Price": 7000,
-        "Range": 18,
-        "Damage": 150,
-        "Cooldown": 1.25
-      },
-      {
-        "Price": 10000,
-        "Range": 20,
-        "Damage": 200,
-        "Cooldown": 1
-      },
-      {
-        "Price": 15000,
-        "Range": 20,
-        "Damage": 250,
-        "Cooldown": 1
       }
     ]
   },
@@ -348,333 +417,6 @@
       }
     ]
   },
-  "FazCade": {
-    "Type": "Farm",
-    "Image": "rbxassetid://18363529003",
-    "Rarity": "Epic",
-    "PlacePrice": 750,
-    "Max": 1,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "NoEnemyAttack": true,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "Farm": 200
-      },
-      {
-        "Price": 1500,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "Farm": 350
-      },
-      {
-        "Price": 2000,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "Farm": 400
-      },
-      {
-        "Price": 3000,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "Farm": 600
-      }
-    ]
-  },
-  "Sniper Cupcake": {
-    "Type": "Single",
-    "Image": "rbxassetid://18364281117",
-    "Rarity": "Rare",
-    "PlacePrice": 800,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Offset": 5,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 30,
-        "Damage": 140,
-        "Cooldown": 3
-      },
-      {
-        "Price": 1200,
-        "Range": 35,
-        "Damage": 240,
-        "Cooldown": 3
-      },
-      {
-        "Price": 1500,
-        "Range": 40,
-        "Damage": 400,
-        "Cooldown": 2.5
-      },
-      {
-        "Price": 2000,
-        "Range": 45,
-        "Damage": 500,
-        "Cooldown": 2
-      }
-    ]
-  },
-  "Shadow Freddy": {
-    "Type": "AOE",
-    "Image": "rbxassetid://17270065249",
-    "Rarity": "Secret",
-    "PlacePrice": 15000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 12,
-        "Damage": 10,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 25000,
-        "Range": 14,
-        "Damage": 12,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 30000,
-        "Range": 16,
-        "Damage": 15,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 50000,
-        "Range": 18,
-        "Damage": 18,
-        "Cooldown": 0.05
-      }
-    ]
-  },
-  "Mangle": {
-    "Type": "Explosion",
-    "Image": "rbxassetid://16781119726",
-    "Rarity": "Secret",
-    "PlacePrice": 10000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Offset": -0.2,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 100,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 20000,
-        "Range": 17,
-        "Damage": 150,
-        "Cooldown": 1.25
-      },
-      {
-        "Price": 25000,
-        "Range": 20,
-        "Damage": 200,
-        "Cooldown": 1
-      },
-      {
-        "Price": 30000,
-        "Range": 22,
-        "Damage": 250,
-        "Cooldown": 0.75
-      }
-    ]
-  },
-  "Phantom Chica": {
-    "Type": "Explosion",
-    "Image": "rbxassetid://18356356760",
-    "Rarity": "Secret",
-    "PlacePrice": 15000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 200,
-        "Cooldown": 2.75
-      },
-      {
-        "Price": 20000,
-        "Range": 17,
-        "Damage": 300,
-        "Cooldown": 2.5
-      },
-      {
-        "Price": 25000,
-        "Range": 19,
-        "Damage": 400,
-        "Cooldown": 2
-      },
-      {
-        "Price": 30000,
-        "Range": 21,
-        "Damage": 550,
-        "Cooldown": 2
-      }
-    ]
-  },
-  "Marionette's Puppeteer": {
-    "Type": "AOE",
-    "Image": "rbxassetid://18151575297",
-    "Rarity": "Nightmare",
-    "PlacePrice": 15000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Offset": 0.7,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 25,
-        "Damage": 1250,
-        "Cooldown": 3
-      },
-      {
-        "Price": 20000,
-        "Range": 25,
-        "Damage": 1500,
-        "Cooldown": 3
-      },
-      {
-        "Price": 25000,
-        "Range": 30,
-        "Damage": 2450,
-        "Cooldown": 2.5
-      },
-      {
-        "Price": 30000,
-        "Range": 35,
-        "Damage": 3500,
-        "Cooldown": 2
-      }
-    ]
-  },
-  "Bounded Shadow": {
-    "Type": "Pierce",
-    "Image": "rbxassetid://18363555442",
-    "Rarity": "Nightmare",
-    "PlacePrice": 12500,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 16,
-        "Damage": 1000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 15000,
-        "Range": 18,
-        "Damage": 1100,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 17000,
-        "Range": 20,
-        "Damage": 1250,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 22000,
-        "Range": 22,
-        "Damage": 1500,
-        "Cooldown": 1
-      }
-    ]
-  },
-  "Astral Bonnie": {
-    "Type": "Continuous Splash",
-    "Image": "rbxassetid://73029306518155",
-    "Rarity": "Apex",
-    "PlacePrice": 20000,
-    "Offset": 0.5,
-    "Max": 3,
-    "Passive": {
-      "Name": "Nuclear Fission",
-      "Description": "Completely halts regen on targeted enemies"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 30,
-        "Damage": 200,
-        "Cooldown": 0.05,
-        "Bleed": 0,
-        "BleedTime": 10
-      },
-      {
-        "Price": 10000,
-        "Range": 32,
-        "Damage": 300,
-        "Cooldown": 0.05,
-        "Bleed": 0,
-        "BleedTime": 10
-      },
-      {
-        "Price": 25000,
-        "Range": 34,
-        "Damage": 350,
-        "Cooldown": 0.05,
-        "Bleed": 0,
-        "BleedTime": 10
-      },
-      {
-        "Price": 40000,
-        "Range": 40,
-        "Damage": 500,
-        "Cooldown": 0.05,
-        "Bleed": 0,
-        "BleedTime": 10
-      }
-    ]
-  },
-
-  // ---------- Season1 ----------
   "Withered Chica": {
     "Type": "Single",
     "Image": "rbxassetid://16632209265",
@@ -710,127 +452,6 @@
         "Range": 15,
         "Damage": 125,
         "Cooldown": 0.9
-      }
-    ]
-  },
-  "Puppet": {
-    "Type": "Pierce",
-    "Image": "rbxassetid://17802016570",
-    "Rarity": "Secret",
-    "PlacePrice": 10000,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Offset": -1.9,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 30,
-        "Damage": 500,
-        "Cooldown": 4
-      },
-      {
-        "Price": 15000,
-        "Range": 35,
-        "Damage": 600,
-        "Cooldown": 4
-      },
-      {
-        "Price": 20000,
-        "Range": 40,
-        "Damage": 700,
-        "Cooldown": 3.5
-      },
-      {
-        "Price": 25000,
-        "Range": 45,
-        "Damage": 800,
-        "Cooldown": 3
-      }
-    ]
-  },
-  "War Machine Foxy": {
-    "Type": "Continuous Cone AOE",
-    "Image": "rbxassetid://18363581536",
-    "Rarity": "Secret",
-    "PlacePrice": 3500,
-    "Offset": 0.45,
-    "Max": 4,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 75,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 5000,
-        "Range": 23,
-        "Damage": 100,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 6000,
-        "Range": 26,
-        "Damage": 125,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 10000,
-        "Range": 30,
-        "Damage": 175,
-        "Cooldown": 0.05
-      }
-    ]
-  },
-  "Endo": {
-    "Type": "Support",
-    "Image": "rbxassetid://17851638702",
-    "Rarity": "Secret",
-    "PlacePrice": 1000,
-    "NoEnemyAttack": true,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "DamageBoost": 1.07
-      },
-      {
-        "Price": 1700,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "DamageBoost": 1.13
-      },
-      {
-        "Price": 2200,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "DamageBoost": 1.19
-      },
-      {
-        "Price": 2500,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "DamageBoost": 1.25
       }
     ]
   },
@@ -946,10 +567,351 @@
         "Price": 70000,
         "Range": 35,
         "Damage": 50,
-        "Cooldown": 0.05
+        "Cooldown": 0.04
+      }
+    ]
+  }, 
+"Wraith Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://115627084338568",
+        "Rarity": "Secret",
+        "PlacePrice": 53000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 58000,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 63000,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.25
+            },
+           {
+                "Price": 66000,
+                "Range": 28,
+                "Damage": 750,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+  "Spectral Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://130677986382080",
+        "Rarity": "Secret",
+        "PlacePrice": 30000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 35000,
+                "Range": 23,
+                "Damage": 3000,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 40000,
+                "Range": 26,
+                "Damage": 4000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 2
+            }
+        ]
+    },
+  "Toy Freddy": {
+    "Type": "Single",
+    "Image": "rbxassetid://16781095520",
+    "Rarity": "Rare",
+    "PlacePrice": 800,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": 0.3,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 40,
+        "Cooldown": 2
+      },
+      {
+        "Price": 1000,
+        "Range": 12,
+        "Damage": 60,
+        "Cooldown": 2
+      },
+      {
+        "Price": 1500,
+        "Range": 15,
+        "Damage": 80,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 2000,
+        "Range": 15,
+        "Damage": 100,
+        "Cooldown": 1.5
       }
     ]
   },
+  "Agonized SpringTrap": {
+        "Type": "Pierce Spread",
+        "Image": "rbxassetid://132655301839150",
+        "Rarity": "Nightmare",
+        "PlacePrice": 66000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "I Always Come Back", "Description": "Attacks apply 60% Anti Bleed and 15% Wither to enemies for 2 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 10000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 77000,
+                "Range": 27,
+                "Damage": 14000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 88000,
+                "Range": 31,
+                "Damage": 17500,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 99000,
+                "Range": 35,
+                "Damage": 24000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            }
+        ]
+    },
+   "Limitless Shadow": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://134973909366355",
+        "Rarity": "Nightmare",
+        "PlacePrice": 58000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Unnerving Presence", "Description": "Deals +100% more damage if enemies are within 12 range of this unit."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 4000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 54000,
+                "Range": 17,
+                "Damage": 4000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 62000,
+                "Range": 18,
+                "Damage": 5000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 88000,
+                "Range": 20,
+                "Damage": 4500,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Fractured Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://124956379444337",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 120,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 180,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 250,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 40000,
+                "Range": 35,
+                "Damage": 350,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+  "Master Puppeteer": {
+        "Type": "Continuous Pierce",
+        "Image": "rbxassetid://139994062140962",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Lethal Rebound", "Description": "Attacks hit enemies 10 times"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 3750,
+                "Cooldown": 4
+            },
+           {
+                "Price": 15000,
+                "Range": 27,
+                "Damage": 5500,
+                "Cooldown": 3
+            },
+           {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 9000,
+                "Cooldown": 3
+            },
+           {
+                "Price": 25000,
+                "Range": 33,
+                "Damage": 12000,
+                "Cooldown": 3
+            }
+        ]
+    },
+"Tuned Mangle": {
+        "Type": "Splash",
+        "Image": "rbxassetid://139180573868562",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 23,
+                "Damage": 1900,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 25000,
+                "Range": 26,
+                "Damage": 1900,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 2500,
+                "Cooldown": 1
+            }
+        ]
+    },
   "Shadow Bonnie": {
     "Type": "AOE",
     "Image": "rbxassetid://16781197179",
@@ -994,6 +956,197 @@
       }
     ]
   },
+  "Toy Bonnie": {
+    "Type": "Dual",
+    "Image": "rbxassetid://16780983603",
+    "Rarity": "Epic",
+    "PlacePrice": 1000,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 12,
+        "Damage": 40,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1600,
+        "Range": 15,
+        "Damage": 50,
+        "Cooldown": 1
+      },
+      {
+        "Price": 2000,
+        "Range": 18,
+        "Damage": 60,
+        "Cooldown": 1
+      },
+      {
+        "Price": 3000,
+        "Range": 20,
+        "Damage": 75,
+        "Cooldown": 0.75
+      }
+    ]
+  },
+  "Toy Chica": {
+    "Type": "Explosion",
+    "Image": "rbxassetid://16781017510",
+    "Rarity": "Epic",
+    "PlacePrice": 1250,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": -0.7,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 12,
+        "Damage": 100,
+        "Cooldown": 3
+      },
+      {
+        "Price": 2500,
+        "Range": 15,
+        "Damage": 125,
+        "Cooldown": 3
+      },
+      {
+        "Price": 4000,
+        "Range": 15,
+        "Damage": 150,
+        "Cooldown": 2
+      },
+      {
+        "Price": 6000,
+        "Range": 17,
+        "Damage": 150,
+        "Cooldown": 1.5
+      }
+    ]
+  },
+  "Shadow Freddy": {
+    "Type": "AOE",
+    "Image": "rbxassetid://17270065249",
+    "Rarity": "Secret",
+    "PlacePrice": 15000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 12,
+        "Damage": 10,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 25000,
+        "Range": 14,
+        "Damage": 12,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 30000,
+        "Range": 16,
+        "Damage": 15,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 50000,
+        "Range": 18,
+        "Damage": 18,
+        "Cooldown": 0.05
+      }
+    ]
+  },
+  "Balloon Boy": {
+    "Type": "Explosion",
+    "Image": "rbxassetid://16781077553",
+    "Rarity": "Mythic",
+    "PlacePrice": 5000,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 12,
+        "Damage": 200,
+        "Cooldown": 4
+      },
+      {
+        "Price": 10000,
+        "Range": 15,
+        "Damage": 250,
+        "Cooldown": 3.5
+      },
+      {
+        "Price": 15000,
+        "Range": 18,
+        "Damage": 300,
+        "Cooldown": 3
+      },
+      {
+        "Price": 25000,
+        "Range": 25,
+        "Damage": 350,
+        "Cooldown": 3
+      }
+    ]
+  },
+  "Golden Freddy": {
+    "Type": "Single",
+    "Image": "rbxassetid://17629034232",
+    "Rarity": "Mythic",
+    "PlacePrice": 4000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 125,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 7000,
+        "Range": 18,
+        "Damage": 150,
+        "Cooldown": 1.25
+      },
+      {
+        "Price": 10000,
+        "Range": 20,
+        "Damage": 200,
+        "Cooldown": 1
+      },
+      {
+        "Price": 15000,
+        "Range": 20,
+        "Damage": 250,
+        "Cooldown": 1
+      }
+    ]
+  },
   "Withered Golden Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://16781122207",
@@ -1029,51 +1182,6 @@
         "Range": 35,
         "Damage": 425,
         "Cooldown": 0.6
-      }
-    ]
-  },
-  "Pirate Withered Foxy": {
-    "Type": "Single",
-    "Image": "rbxassetid://17851205149",
-    "Rarity": "Secret",
-    "PlacePrice": 400,
-    "Offset": 0.55,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 50,
-        "Cooldown": 0.45
-      },
-      {
-        "Price": 800,
-        "Range": 18,
-        "Damage": 75,
-        "Cooldown": 0.35
-      },
-      {
-        "Price": 1400,
-        "Range": 20,
-        "Damage": 90,
-        "Cooldown": 0.35
-      },
-      {
-        "Price": 2000,
-        "Range": 22,
-        "Damage": 95,
-        "Cooldown": 0.32
-      },
-      {
-        "Price": 2500,
-        "Range": 25,
-        "Damage": 100,
-        "Cooldown": 0.15
       }
     ]
   },
@@ -1193,89 +1301,11 @@
       }
     ]
   },
-  "Baker Toy Chica": {
-    "Type": "Explosion",
-    "Image": "rbxassetid://18161347460",
-    "Rarity": "Epic",
-    "PlacePrice": 800,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 30,
-        "Cooldown": 1
-      },
-      {
-        "Price": 1400,
-        "Range": 18,
-        "Damage": 45,
-        "Cooldown": 1
-      },
-      {
-        "Price": 2000,
-        "Range": 22,
-        "Damage": 60,
-        "Cooldown": 1
-      },
-      {
-        "Price": 2500,
-        "Range": 25,
-        "Damage": 75,
-        "Cooldown": 0.8
-      }
-    ]
-  },
-  "Blighted Endo Freddy": {
+  "Marionette's Puppeteer": {
     "Type": "AOE",
-    "Image": "rbxassetid://18151573285",
+    "Image": "rbxassetid://18151575297",
     "Rarity": "Nightmare",
-    "PlacePrice": 20000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 75,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 30000,
-        "Range": 25,
-        "Damage": 100,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 40000,
-        "Range": 25,
-        "Damage": 150,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 50000,
-        "Range": 30,
-        "Damage": 200,
-        "Cooldown": 0.05
-      }
-    ]
-  },
-
-  // ---------- Summer ----------
-  "Bukavac Mangle": {
-    "Type": "AOE",
-    "Image": "rbxassetid://138114871531482",
-    "Rarity": "Nightmare",
-    "PlacePrice": 20000,
+    "PlacePrice": 15000,
     "Max": 2,
     "hitboxOffset": {
       "X": 0,
@@ -1286,92 +1316,27 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 500,
-        "Cooldown": 1
+        "Range": 25,
+        "Damage": 1250,
+        "Cooldown": 3
       },
       {
-        "Price": 10000,
-        "Range": 15,
-        "Damage": 1250,
-        "Cooldown": 0.7
+        "Price": 20000,
+        "Range": 25,
+        "Damage": 1500,
+        "Cooldown": 3
       },
       {
         "Price": 25000,
-        "Range": 20,
-        "Damage": 1500,
-        "Cooldown": 0.5
+        "Range": 30,
+        "Damage": 2450,
+        "Cooldown": 2.5
       },
       {
         "Price": 30000,
-        "Range": 26,
-        "Damage": 1750,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 50000,
-        "Range": 30,
-        "Damage": 2250,
-        "Cooldown": 0.5
-      }
-    ]
-  },
-  "Polluted Chica": {
-    "Type": "Melee",
-    "Image": "rbxassetid://101405202724981",
-    "Rarity": "Epic",
-    "PlacePrice": 300,
-    "Max": 1,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 25,
-        "Damage": 70,
-        "Cooldown": 2
-      },
-      {
-        "Price": 500,
         "Range": 35,
-        "Damage": 125,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 800,
-        "Range": 45,
-        "Damage": 300,
-        "Cooldown": 1
-      },
-      {
-        "Price": 1250,
-        "Range": 55,
-        "Damage": 350,
-        "Cooldown": 0.5
-      }
-    ]
-  },
-  "Sea Crawler Foxy": {
-    "Type": "Melee",
-    "Image": "rbxassetid://138512558080561",
-    "Rarity": "Rare",
-    "PlacePrice": 50,
-    "Offset": 0.65,
-    "Max": 10,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 125,
-        "Cooldown": 1.5
+        "Damage": 3500,
+        "Cooldown": 2
       }
     ]
   },
@@ -1461,6 +1426,44 @@
         "Range": 25,
         "Damage": 400,
         "Cooldown": 3
+      }
+    ]
+  },
+    "Demon Freddy": {
+    "Type": "???",
+    "Image": "rbxassetid://122296021370620",
+    "Rarity": "Limited",
+    "PlacePrice": 6666,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 11,
+        "Damage": 9250,
+        "Cooldown": 6
+      },
+      {
+        "Price": 12222,
+        "Range": 13,
+        "Damage": 10000,
+        "Cooldown": 5
+      },
+      {
+        "Price": 24444,
+        "Range": 17,
+        "Damage": 10000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 48888,
+        "Range": 22,
+        "Damage": 12500,
+        "Cooldown": 2.5
       }
     ]
   },
@@ -1580,6 +1583,44 @@
       }
     ]
   },
+  "Vampire Chica": {
+    "Type": "Splash",
+    "Image": "rbxassetid://98594609362548",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 35,
+        "Damage": 2500,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 12000,
+        "Range": 38,
+        "Damage": 2500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 25000,
+        "Range": 40,
+        "Damage": 4000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 30000,
+        "Range": 42,
+        "Damage": 6500,
+        "Cooldown": 1
+      }
+    ]
+  },
   "Algae FredBear": {
     "Type": "Explosion",
     "Image": "rbxassetid://18255264349",
@@ -1633,6 +1674,94 @@
         "Range": 32,
         "Damage": 1250,
         "Cooldown": 0.25
+      }
+    ]
+  },
+  "Clowntrap": {
+    "Type": "AOE",
+    "Image": "rbxassetid://98100058612651",
+    "Rarity": "Secret",
+    "PlacePrice": 8000,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 10000,
+        "Range": 22,
+        "Damage": 2500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 12000,
+        "Range": 24,
+        "Damage": 3000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 16000,
+        "Range": 25,
+        "Damage": 3500,
+        "Cooldown": 2
+      }
+    ]
+  },
+  "Dreadbear": {
+    "Type": "AOE",
+    "Image": "rbxassetid://71876084991999",
+    "Rarity": "Nightmare",
+    "PlacePrice": 15000,
+    "Offset": 0,
+    "Max": 2,
+    "Passive": {
+      "Name": "Frightful Terror",
+      "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 18,
+        "Damage": 3000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 20000,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 25000,
+        "Range": 21,
+        "Damage": 2500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 30000,
+        "Range": 22,
+        "Damage": 4000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 35000,
+        "Range": 25,
+        "Damage": 5000,
+        "Cooldown": 1.5
       }
     ]
   },
@@ -1718,14 +1847,91 @@
       }
     ]
   },
-
-  // ---------- Season2 ----------
-  "Phantom Foxy": {
-    "Type": "Single",
-    "Image": "rbxassetid://18356274992",
-    "Rarity": "Rare",
-    "PlacePrice": 900,
-    "Max": 4,
+  "Mangle": {
+    "Type": "Explosion",
+    "Image": "rbxassetid://16781119726",
+    "Rarity": "Secret",
+    "PlacePrice": 10000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": -0.2,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 100,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 20000,
+        "Range": 17,
+        "Damage": 150,
+        "Cooldown": 1.25
+      },
+      {
+        "Price": 25000,
+        "Range": 20,
+        "Damage": 200,
+        "Cooldown": 1
+      },
+      {
+        "Price": 30000,
+        "Range": 22,
+        "Damage": 250,
+        "Cooldown": 0.75
+      }
+    ]
+  },
+  "Puppet": {
+    "Type": "Pierce",
+    "Image": "rbxassetid://17802016570",
+    "Rarity": "Secret",
+    "PlacePrice": 10000,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": -1.9,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 500,
+        "Cooldown": 4
+      },
+      {
+        "Price": 15000,
+        "Range": 35,
+        "Damage": 600,
+        "Cooldown": 4
+      },
+      {
+        "Price": 20000,
+        "Range": 40,
+        "Damage": 700,
+        "Cooldown": 3.5
+      },
+      {
+        "Price": 25000,
+        "Range": 45,
+        "Damage": 800,
+        "Cooldown": 3
+      }
+    ]
+  },
+  "Endo": {
+    "Type": "Support",
+    "Image": "rbxassetid://17851638702",
+    "Rarity": "Secret",
+    "PlacePrice": 1000,
+    "NoEnemyAttack": true,
+    "Max": 2,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -1735,174 +1941,114 @@
       {
         "Price": 0,
         "Range": 15,
-        "Damage": 60,
-        "Cooldown": 1
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.07
       },
       {
-        "Price": 1200,
-        "Range": 18,
-        "Damage": 75,
-        "Cooldown": 1
+        "Price": 1700,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.13
       },
       {
-        "Price": 2000,
-        "Range": 20,
-        "Damage": 85,
-        "Cooldown": 0.75
+        "Price": 2200,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.19
       },
       {
-        "Price": 3000,
-        "Range": 20,
-        "Damage": 110,
-        "Cooldown": 0.75
+        "Price": 2500,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25
       }
     ]
   },
-  "Witch Toy Chica": {
-    "Type": "Poison",
-    "Image": "rbxassetid://18363391561",
+  "Pirate Withered Foxy": {
+    "Type": "Single",
+    "Image": "rbxassetid://17851205149",
     "Rarity": "Secret",
-    "PlacePrice": 500,
+    "PlacePrice": 400,
+    "Offset": 0.55,
     "Max": 3,
-    "Passive": {
-      "Name": "Lethal Potions",
-      "Description": "Deals 75% damage in poison over 3 seconds"
-    },
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
       "Z": 0
     },
-    "Offset": -0.4,
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 22,
-        "Damage": 125,
-        "Cooldown": 2.5,
-        "Poison": 80,
-        "PoisonLength": 3
+        "Range": 15,
+        "Damage": 50,
+        "Cooldown": 0.45
       },
       {
         "Price": 800,
-        "Range": 24,
-        "Damage": 180,
-        "Cooldown": 2.3,
-        "Poison": 120,
-        "PoisonLength": 3
+        "Range": 18,
+        "Damage": 75,
+        "Cooldown": 0.35
       },
       {
-        "Price": 1000,
-        "Range": 28,
-        "Damage": 260,
-        "Cooldown": 2.2,
-        "Poison": 220,
-        "PoisonLength": 3
+        "Price": 1400,
+        "Range": 20,
+        "Damage": 90,
+        "Cooldown": 0.35
+      },
+      {
+        "Price": 2000,
+        "Range": 22,
+        "Damage": 95,
+        "Cooldown": 0.32
+      },
+      {
+        "Price": 2500,
+        "Range": 25,
+        "Damage": 100,
+        "Cooldown": 0.15
+      }
+    ]
+  },
+  "Patriot Freddy": {
+    "Type": "Explosion",
+    "Image": "rbxassetid://18326604996",
+    "Rarity": "Secret",
+    "PlacePrice": 300,
+    "Max": 4,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": 0.5,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 325,
+        "Cooldown": 3
+      },
+      {
+        "Price": 500,
+        "Range": 18,
+        "Damage": 480,
+        "Cooldown": 3
+      },
+      {
+        "Price": 800,
+        "Range": 20,
+        "Damage": 550,
+        "Cooldown": 2.75
       },
       {
         "Price": 1200,
-        "Range": 32,
-        "Damage": 420,
-        "Cooldown": 2,
-        "Poison": 400,
-        "PoisonLength": 3
-      }
-    ]
-  },
-  "SpringTrap": {
-    "Type": "Pierce",
-    "Image": "rbxassetid://18356146630",
-    "Rarity": "Nightmare",
-    "PlacePrice": 20000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 1000,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 15000,
         "Range": 22,
-        "Damage": 1200,
-        "Cooldown": 1.3
-      },
-      {
-        "Price": 20000,
-        "Range": 25,
-        "Damage": 1600,
-        "Cooldown": 1.1
-      },
-      {
-        "Price": 25000,
-        "Range": 30,
-        "Damage": 5000,
-        "Cooldown": 0.9
-      }
-    ]
-  },
-  "Flame Empress Chica": {
-    "Type": "Nuke Burn",
-    "Image": "rbxassetid://18971134114",
-    "Rarity": "Secret",
-    "PlacePrice": 12500,
-    "Offset": 0.5,
-    "Max": 2,
-    "Passive": {
-      "Name": "Burn",
-      "Description": "Enemies take 100% burn damage over 3 seconds"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 25,
-        "Damage": 2500,
-        "Burn": 1000,
-        "BurnTime": 3,
-        "Cooldown": 2
-      },
-      {
-        "Price": 20000,
-        "Range": 28,
-        "Damage": 5000,
-        "Burn": 2000,
-        "BurnTime": 3,
-        "Cooldown": 2
-      },
-      {
-        "Price": 25000,
-        "Range": 31,
-        "Damage": 7500,
-        "Burn": 3000,
-        "BurnTime": 3,
-        "Cooldown": 2
-      },
-      {
-        "Price": 30000,
-        "Range": 34,
-        "Damage": 10000,
-        "Burn": 4000,
-        "BurnTime": 3,
-        "Cooldown": 2
-      },
-      {
-        "Price": 50000,
-        "Range": 38,
-        "Damage": 15000,
-        "Burn": 10000,
-        "BurnTime": 3,
-        "Cooldown": 2
+        "Damage": 625,
+        "Cooldown": 2.5
       }
     ]
   },
@@ -1944,9 +2090,47 @@
       }
     ]
   },
-  "Phantom Puppet": {
-    "Type": "Pierce",
-    "Image": "rbxassetid://18363546528",
+  "Phantom Foxy": {
+    "Type": "Single",
+    "Image": "rbxassetid://18356274992",
+    "Rarity": "Rare",
+    "PlacePrice": 900,
+    "Max": 4,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 60,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1200,
+        "Range": 18,
+        "Damage": 75,
+        "Cooldown": 1
+      },
+      {
+        "Price": 2000,
+        "Range": 20,
+        "Damage": 85,
+        "Cooldown": 0.75
+      },
+      {
+        "Price": 3000,
+        "Range": 20,
+        "Damage": 110,
+        "Cooldown": 0.75
+      }
+    ]
+  },
+  "Phantom Chica": {
+    "Type": "Explosion",
+    "Image": "rbxassetid://18356356760",
     "Rarity": "Secret",
     "PlacePrice": 15000,
     "Max": 2,
@@ -1958,109 +2142,27 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 18,
-        "Damage": 500,
-        "Cooldown": 2
-      },
-      {
-        "Price": 17000,
-        "Range": 20,
-        "Damage": 800,
-        "Cooldown": 2
+        "Range": 15,
+        "Damage": 200,
+        "Cooldown": 2.75
       },
       {
         "Price": 20000,
-        "Range": 25,
-        "Damage": 1000,
-        "Cooldown": 1.5
+        "Range": 17,
+        "Damage": 300,
+        "Cooldown": 2.5
       },
       {
         "Price": 25000,
-        "Range": 30,
-        "Damage": 1100,
-        "Cooldown": 1
-      }
-    ]
-  },
-  "Spring Bonnie": {
-    "Type": "Support",
-    "Image": "rbxassetid://18364574191",
-    "Rarity": "Secret",
-    "PlacePrice": 1000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "NoEnemyAttack": true,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 25,
-        "Damage": 25,
-        "Cooldown": 4,
-        "DamageBoost": 1.1
+        "Range": 19,
+        "Damage": 400,
+        "Cooldown": 2
       },
       {
-        "Price": 1500,
-        "Range": 25,
-        "Damage": 0,
-        "Cooldown": 4,
-        "DamageBoost": 1.15
-      },
-      {
-        "Price": 2000,
-        "Range": 25,
-        "Damage": 0,
-        "Cooldown": 4,
-        "DamageBoost": 1.22
-      },
-      {
-        "Price": 2500,
-        "Range": 25,
-        "Damage": 0,
-        "Cooldown": 4,
-        "DamageBoost": 1.31
-      }
-    ]
-  },
-  "Sentinel Bonnie": {
-    "Type": "Continuous",
-    "Image": "rbxassetid://18363569957",
-    "Rarity": "Secret",
-    "PlacePrice": 3500,
-    "Offset": 0.35,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 15,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 5000,
-        "Range": 17,
-        "Damage": 30,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 6000,
-        "Range": 20,
-        "Damage": 50,
-        "Cooldown": 0.05
-      },
-      {
-        "Price": 7000,
-        "Range": 25,
-        "Damage": 75,
-        "Cooldown": 0.05
+        "Price": 30000,
+        "Range": 21,
+        "Damage": 550,
+        "Cooldown": 2
       }
     ]
   },
@@ -2140,6 +2242,49 @@
       }
     ]
   },
+  "Grimm Foxy": {
+    "Type": "Single",
+    "Image": "rbxassetid://101295016610509",
+    "Rarity": "Secret",
+    "PlacePrice": 500,
+    "Offset": 1,
+    "Max": 3,
+    "Passive": {
+      "Name": "Burn",
+      "Description": "Burns enemies at 125% over 2 seconds"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 800,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 400,
+        "Range": 22,
+        "Damage": 900,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 500,
+        "Range": 24,
+        "Damage": 1200,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 600,
+        "Range": 25,
+        "Damage": 1500,
+        "Cooldown": 1.5
+      }
+    ]
+  },
   "Phantom Gold Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://18363517791",
@@ -2175,6 +2320,127 @@
         "Range": 20,
         "Damage": 550,
         "Cooldown": 1
+      }
+    ]
+  },
+  "Glitched Puppeteer": {
+    "Type": "Splash",
+    "Image": "rbxassetid://18887217738",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Offset": 0.7,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 5000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 25000,
+        "Range": 23,
+        "Damage": 6540,
+        "Cooldown": 3.7
+      },
+      {
+        "Price": 30000,
+        "Range": 26,
+        "Damage": 7900,
+        "Cooldown": 3.3
+      },
+      {
+        "Price": 40000,
+        "Range": 30,
+        "Damage": 9000,
+        "Cooldown": 3
+      }
+    ]
+  },
+  "Glitched CupCake": {
+    "Type": "AOE",
+    "Image": "rbxassetid://18888327109",
+    "Rarity": "Epic",
+    "PlacePrice": 1500,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 40,
+        "Cooldown": 0.7
+      },
+      {
+        "Price": 2000,
+        "Range": 17,
+        "Damage": 50,
+        "Cooldown": 0.6
+      },
+      {
+        "Price": 2500,
+        "Range": 18,
+        "Damage": 60,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 3000,
+        "Range": 20,
+        "Damage": 80,
+        "Cooldown": 0.35
+      }
+    ]
+  },
+  "FazCade": {
+    "Type": "Farm",
+    "Image": "rbxassetid://18363529003",
+    "Rarity": "Epic",
+    "PlacePrice": 750,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "NoEnemyAttack": true,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "Farm": 200
+      },
+      {
+        "Price": 1500,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "Farm": 350
+      },
+      {
+        "Price": 2000,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "Farm": 400
+      },
+      {
+        "Price": 3000,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "Farm": 600
       }
     ]
   },
@@ -2316,8 +2582,57 @@
       }
     ]
   },
-
-  // ---------- Military ----------
+  "The Crying Child": {
+        "Type": "AOE Slow",
+        "Image": "rbxassetid://18937271323",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.25
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.2
+            },
+            {
+                "Price": 1400,
+                "Range": 27,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.15
+            },
+            {
+                "Price": 1800,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.1
+            },
+            {
+                "Price": 2000,
+                "Range": 32,
+                "Damage": 0,
+                "Cooldown": 0.05,
+                "Slow": 0.05
+            }
+        ]
+    },
   "Major Freddy": {
     "Type": "Single",
     "Image": "rbxassetid://18665224476",
@@ -2456,12 +2771,13 @@
       }
     ]
   },
-  "Vampire Chica": {
+  "Nightmare Foxy": {
     "Type": "Splash",
-    "Image": "rbxassetid://98594609362548",
-    "Rarity": "Nightmare",
-    "PlacePrice": 20000,
-    "Max": 1,
+    "Image": "rbxassetid://18974775213",
+    "Rarity": "Mythic",
+    "PlacePrice": 5000,
+    "Offset": 1,
+    "Max": 3,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -2470,27 +2786,806 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 35,
-        "Damage": 2500,
-        "Cooldown": 2.5
+        "Range": 20,
+        "Damage": 600,
+        "Cooldown": 3
       },
       {
-        "Price": 12000,
-        "Range": 38,
-        "Damage": 2500,
+        "Price": 6500,
+        "Range": 24,
+        "Damage": 700,
+        "Cooldown": 2.85
+      },
+      {
+        "Price": 8000,
+        "Range": 27,
+        "Damage": 800,
+        "Cooldown": 2.7
+      },
+      {
+        "Price": 10000,
+        "Range": 30,
+        "Damage": 900,
+        "Cooldown": 2.5
+      }
+    ]
+  },
+  "Nightmare Bonnie": {
+    "Type": "AOE",
+    "Image": "rbxassetid://18975677946",
+    "Rarity": "Secret",
+    "PlacePrice": 5000,
+    "Offset": 0.25,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 1000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 20000,
+        "Range": 20,
+        "Damage": 1500,
         "Cooldown": 2
       },
       {
         "Price": 25000,
-        "Range": 40,
-        "Damage": 4000,
+        "Range": 23,
+        "Damage": 1500,
         "Cooldown": 1.5
       },
       {
         "Price": 30000,
-        "Range": 42,
-        "Damage": 6500,
+        "Range": 25,
+        "Damage": 2000,
         "Cooldown": 1
+      }
+    ]
+  },
+  "Nightmare Chica": {
+    "Type": "Splash",
+    "Image": "rbxassetid://18975771590",
+    "Rarity": "Epic",
+    "PlacePrice": 4000,
+    "Offset": 0.25,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 500,
+        "Slow": 1.1,
+        "Cooldown": 3
+      },
+      {
+        "Price": 6000,
+        "Range": 15,
+        "Damage": 625,
+        "Slow": 1.2,
+        "Cooldown": 2.7
+      },
+      {
+        "Price": 7000,
+        "Range": 15,
+        "Damage": 750,
+        "Slow": 1.2,
+        "Cooldown": 2.4
+      },
+      {
+        "Price": 8000,
+        "Range": 20,
+        "Damage": 1000,
+        "Slow": 1.2,
+        "Cooldown": 2
+      }
+    ]
+  },
+  "The Hallow": {
+    "Type": "???",
+    "Image": "rbxassetid://115164895793220",
+    "Rarity": "Limited",
+    "PlacePrice": 99999,
+    "Offset": 0,
+    "Max": 1,
+    "Passive": {
+      "Name": "Frightful Terror",
+      "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 17,
+        "Damage": 20000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 25000,
+        "Range": 22,
+        "Damage": 30000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 30000,
+        "Range": 24,
+        "Damage": 30000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 40000,
+        "Range": 28,
+        "Damage": 50000,
+        "Cooldown": 3
+      }
+    ]
+  },
+  "Nightmare Freddy": {
+    "Type": "Melee",
+    "Image": "rbxassetid://18975866920",
+    "Rarity": "Rare",
+    "PlacePrice": 750,
+    "Offset": 0.25,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 12,
+        "Damage": 200,
+        "Cooldown": 0.8
+      },
+      {
+        "Price": 800,
+        "Range": 13,
+        "Damage": 250,
+        "Cooldown": 0.8
+      },
+      {
+        "Price": 1250,
+        "Range": 14,
+        "Damage": 300,
+        "Cooldown": 0.7
+      },
+      {
+        "Price": 1800,
+        "Range": 15,
+        "Damage": 400,
+        "Cooldown": 0.5
+      }
+    ]
+  },
+  "NightMarionne": {
+    "Type": "AOE",
+    "Image": "rbxassetid://18975916197",
+    "Rarity": "Nightmare",
+    "PlacePrice": 48000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 5250,
+        "Cooldown": 3
+      },
+      {
+        "Price": 24000,
+        "Range": 35,
+        "Damage": 6000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 36000,
+        "Range": 40,
+        "Damage": 6750,
+        "Cooldown": 3
+      },
+      {
+        "Price": 48000,
+        "Range": 45,
+        "Damage": 7500,
+        "Cooldown": 3
+      }
+    ]
+  },
+  "Plushtrap": {
+        "Type": "Support",
+        "Image": "rbxassetid://18978316223",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+               "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.24
+            }
+        ]
+    },
+  "Fredbear": {
+    "Type": "Support",
+    "Image": "rbxassetid://18977659349",
+    "Rarity": "Secret",
+    "PlacePrice": 600,
+    "Offset": 0,
+    "Max": 3,
+    "NoEnemyAttack": true,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 10,
+        "Cooldown": 1,
+        "RangeBoost": 1.1
+      },
+      {
+        "Price": 800,
+        "Range": 20,
+        "Damage": 10,
+        "Cooldown": 1,
+        "RangeBoost": 1.15
+      },
+      {
+        "Price": 1000,
+        "Range": 20,
+        "Damage": 10,
+        "Cooldown": 1,
+        "RangeBoost": 1.2
+      },
+      {
+        "Price": 1200,
+        "Range": 20,
+        "Damage": 10,
+        "Cooldown": 1,
+        "RangeBoost": 1.3
+      }
+    ]
+  },
+  "Nightmare Cupcake": {
+    "Type": "Single Slow",
+    "Image": "rbxassetid://18978229455",
+    "Rarity": "Epic",
+    "PlacePrice": 1500,
+    "Offset": 0,
+    "Max": 3,
+    "Passive": {
+      "Name": "Slow",
+      "Description": "Slows enemies"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 175,
+        "Slow": 0.6,
+        "Cooldown": 2
+      },
+      {
+        "Price": 2000,
+        "Range": 17,
+        "Damage": 200,
+        "Slow": 0.6,
+        "Cooldown": 1.85
+      },
+      {
+        "Price": 2500,
+        "Range": 18,
+        "Damage": 225,
+        "Slow": 0.6,
+        "Cooldown": 1.7
+      },
+      {
+        "Price": 3000,
+        "Range": 20,
+        "Damage": 250,
+        "Slow": 0.6,
+        "Cooldown": 1.5
+      }
+    ]
+  },
+  "Nightmare": {
+    "Type": "AOE Poison",
+    "Image": "rbxassetid://18977738423",
+    "Rarity": "Secret",
+    "PlacePrice": 10000,
+    "Offset": 0.5,
+    "Max": 3,
+    "Passive": {
+      "Name": "Poison",
+      "Description": "Poisons enemies"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 700,
+        "Poison": 350,
+        "PoisonTime": 2,
+        "Cooldown": 3
+      },
+      {
+        "Price": 20000,
+        "Range": 27,
+        "Damage": 1000,
+        "Poison": 400,
+        "PoisonTime": 2,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 30000,
+        "Range": 32,
+        "Damage": 1000,
+        "Poison": 450,
+        "PoisonTime": 2,
+        "Cooldown": 2
+      },
+      {
+        "Price": 40000,
+        "Range": 35,
+        "Damage": 1250,
+        "Poison": 500,
+        "PoisonTime": 2,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Endo 04": {
+    "Type": "Cone AOE Burn",
+    "Image": "rbxassetid://18989232497",
+    "Rarity": "Secret",
+    "PlacePrice": 3000,
+    "Offset": 0,
+    "Max": 3,
+    "Passive": {
+      "Name": "Burn",
+      "Description": "Burns enemies"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 17,
+        "Damage": 300,
+        "Burn": 38,
+        "BurnTime": 1.2,
+        "Cooldown": 1
+      },
+      {
+        "Price": 4000,
+        "Range": 19,
+        "Damage": 400,
+        "Burn": 50,
+        "BurnTime": 1.2,
+        "Cooldown": 1
+      },
+      {
+        "Price": 5000,
+        "Range": 20,
+        "Damage": 500,
+        "Burn": 62,
+        "BurnTime": 1.2,
+        "Cooldown": 1
+      },
+      {
+        "Price": 6000,
+        "Range": 22,
+        "Damage": 600,
+        "Burn": 80,
+        "BurnTime": 1.2,
+        "Cooldown": 1
+      }
+    ]
+  },
+"Nightmare Mangle": {
+  "Type": "AOE Poison",
+  "Image": "rbxassetid://18977428026",
+  "Rarity": "Nightmare",
+  "PlacePrice": 20000,
+  "Offset": -1,
+  "Max": 2,
+  "Passive": {
+    "Name": "Poison",
+    "Description": "Deals 200% damage in poison over 8 seconds"
+  },
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 25,
+      "Damage": 2500,
+      "Poison": 450,
+      "PoisonTime": 8,
+      "Cooldown": 3
+    },
+    {
+      "Price": 20000,
+      "Range": 27,
+      "Damage": 3000,
+      "Poison": 500,
+      "PoisonTime": 8,
+      "Cooldown": 3
+    },
+    {
+      "Price": 25000,
+      "Range": 29,
+      "Damage": 4450,
+      "Poison": 650,
+      "PoisonTime": 8,
+      "Cooldown": 3
+    },
+    {
+      "Price": 30000,
+      "Range": 32,
+      "Damage": 5000,
+      "Poison": 700,
+      "PoisonTime": 8,
+      "Cooldown": 2.5
+    }
+  ]
+},
+"Gravelord Foxy": {
+  "Type": "Summon",
+  "Image": "rbxassetid://76307842206911",
+  "Rarity": "Apex",
+  "PlacePrice": 20000,
+  "Offset": 0.5,
+  "Max": 4,
+  "Passive": {
+    "Name": "Necromancer",
+    "Description": "Summons spawns every 10 seconds that have health equal to 70 times this units damage"
+  },
+  "NoEnemyAttack": true,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 35,
+      "Damage": 3000,
+      "Unit": {
+        "Necro Spawn": 1,
+        "Necro Spawn 2": 0
+      },
+      "Health": 500,
+      "Cooldown": 2
+    },
+    {
+      "Price": 30000,
+      "Range": 40,
+      "Damage": 3600,
+      "Unit": {
+        "Necro Spawn": 1,
+        "Necro Spawn 2": 0
+      },
+      "Health": 500,
+      "Cooldown": 1.6
+    },
+    {
+      "Price": 40000,
+      "Range": 45,
+      "Damage": 4000,
+      "Unit": {
+        "Necro Spawn": 1,
+        "Necro Spawn 2": 0
+      },
+      "Health": 500,
+      "Cooldown": 1.3
+    },
+    {
+      "Price": 50000,
+      "Range": 50,
+      "Damage": 5000,
+      "Unit": {
+        "Necro Spawn": 1,
+        "Necro Spawn 2": 0
+      },
+      "Health": 50000,
+      "Cooldown": 1
+    }
+  ]
+},
+"Jack o Freddles": {
+  "Type": "Summoner",
+  "Image": "rbxassetid://124342440412969",
+  "Rarity": "Secret",
+  "PlacePrice": 700,
+  "Offset": 0,
+  "Max": 2,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 750,
+      "Range": 18,
+      "Damage": 800,
+      "SummonTime": 5,
+      "Unit": "Ghost Freddle",
+      "Health": 1500,
+      "Cooldown": 2
+    },
+    {
+      "Price": 900,
+      "Range": 19,
+      "Damage": 1300,
+      "SummonTime": 4,
+      "Unit": "Ghost Freddle",
+      "Health": 2000,
+      "Cooldown": 1.7
+    },
+    {
+      "Price": 1200,
+      "Range": 23,
+      "Damage": 2000,
+      "SummonTime": 3,
+      "Unit": "Zombie Freddle",
+      "Health": 3000,
+      "Cooldown": 1.5
+    },
+    {
+      "Price": 2500,
+      "Range": 28,
+      "Damage": 3400,
+      "SummonTime": 2,
+      "Unit": "Zombie Freddle",
+      "Health": 5600,
+      "Cooldown": 1.3
+    }
+  ]
+},
+"Freddle": {
+  "Type": "Summoner",
+  "Image": "rbxassetid://18978374958",
+  "Rarity": "Secret",
+  "PlacePrice": 400,
+  "Offset": 0,
+  "Max": 3,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 15,
+      "Damage": 500,
+      "SummonTime": 10,
+      "Unit": "Helper Freddle",
+      "Health": 500,
+      "Cooldown": 10
+    },
+    {
+      "Price": 500,
+      "Range": 15,
+      "Damage": 1000,
+      "SummonTime": 10,
+      "Unit": "Helper Freddle",
+      "Health": 1000,
+      "Cooldown": 9
+    },
+    {
+      "Price": 1500,
+      "Range": 15,
+      "Damage": 2000,
+      "SummonTime": 10,
+      "Unit": "Helper Freddle",
+      "Health": 2000,
+      "Cooldown": 8
+    },
+    {
+      "Price": 2500,
+      "Range": 15,
+      "Damage": 3000,
+      "SummonTime": 10,
+      "Unit": "Helper Freddle",
+      "Health": 3000,
+      "Cooldown": 7
+    }
+  ]
+},
+  "Nightmare Balloon Boy": {
+    "Type": "Pierce",
+    "Image": "rbxassetid://18978330449",
+    "Rarity": "Mythic",
+    "PlacePrice": 1500,
+    "Offset": 0,
+    "Max": 4,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 140,
+        "Cooldown": 1
+      },
+      {
+        "Price": 2000,
+        "Range": 17,
+        "Damage": 160,
+        "Cooldown": 0.85
+      },
+      {
+        "Price": 2500,
+        "Range": 18,
+        "Damage": 180,
+        "Cooldown": 0.7
+      },
+      {
+        "Price": 3000,
+        "Range": 20,
+        "Damage": 200,
+        "Cooldown": 0.5
+      }
+    ]
+  },
+  "Plushtrap": {
+    "Type": "Support",
+    "Image": "rbxassetid://18978316223",
+    "Rarity": "Secret",
+    "PlacePrice": 600,
+    "Offset": 0,
+    "Max": 3,
+    "NoEnemyAttack": true,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "RangeBoost": 1.1
+      },
+      {
+        "Price": 800,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "RangeBoost": 1.15
+      },
+      {
+        "Price": 1200,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "RangeBoost": 1.2
+      },
+      {
+        "Price": 1500,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "RangeBoost": 1.24
+      }
+    ]
+  },
+  "Nightmare Fredbear": {
+    "Type": "Single",
+    "Image": "rbxassetid://18978153260",
+    "Rarity": "Secret",
+    "PlacePrice": 5000,
+    "Offset": 0.7,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 120,
+        "Cooldown": 0.15
+      },
+      {
+        "Price": 6000,
+        "Range": 22,
+        "Damage": 200,
+        "Cooldown": 0.14
+      },
+      {
+        "Price": 7500,
+        "Range": 25,
+        "Damage": 300,
+        "Cooldown": 0.12
+      },
+      {
+        "Price": 9000,
+        "Range": 30,
+        "Damage": 400,
+        "Cooldown": 0.1
       }
     ]
   },
@@ -2745,719 +3840,6 @@
       }
     ]
   },
-
-  // ---------- Season3 ----------
-  "Freddle": {
-    "Type": "Summoner",
-    "Image": "rbxassetid://18978374958",
-    "Rarity": "Secret",
-    "PlacePrice": 400,
-    "Offset": 0,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 500,
-        "SummonTime": 10,
-        "Unit": "Helper Freddle",
-        "Health": 500,
-        "Cooldown": 10
-      },
-      {
-        "Price": 500,
-        "Range": 15,
-        "Damage": 1000,
-        "SummonTime": 10,
-        "Unit": "Helper Freddle",
-        "Health": 1000,
-        "Cooldown": 9
-      },
-      {
-        "Price": 1500,
-        "Range": 15,
-        "Damage": 2000,
-        "SummonTime": 10,
-        "Unit": "Helper Freddle",
-        "Health": 2000,
-        "Cooldown": 8
-      },
-      {
-        "Price": 2500,
-        "Range": 15,
-        "Damage": 3000,
-        "SummonTime": 10,
-        "Unit": "Helper Freddle",
-        "Health": 3000,
-        "Cooldown": 7
-      }
-    ]
-  },
-  "Nightmare Balloon Boy": {
-    "Type": "Pierce",
-    "Image": "rbxassetid://18978330449",
-    "Rarity": "Mythic",
-    "PlacePrice": 1500,
-    "Offset": 0,
-    "Max": 4,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 140,
-        "Cooldown": 1
-      },
-      {
-        "Price": 2000,
-        "Range": 17,
-        "Damage": 160,
-        "Cooldown": 0.85
-      },
-      {
-        "Price": 2500,
-        "Range": 18,
-        "Damage": 180,
-        "Cooldown": 0.7
-      },
-      {
-        "Price": 3000,
-        "Range": 20,
-        "Damage": 200,
-        "Cooldown": 0.5
-      }
-    ]
-  },
-  "Plushtrap": {
-    "Type": "Support",
-    "Image": "rbxassetid://18978316223",
-    "Rarity": "Secret",
-    "PlacePrice": 600,
-    "Offset": 0,
-    "Max": 3,
-    "NoEnemyAttack": true,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "RangeBoost": 1.1
-      },
-      {
-        "Price": 800,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "RangeBoost": 1.15
-      },
-      {
-        "Price": 1200,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "RangeBoost": 1.2
-      },
-      {
-        "Price": 1500,
-        "Range": 15,
-        "Damage": 0,
-        "Cooldown": 1,
-        "RangeBoost": 1.24
-      }
-    ]
-  },
-  "Nightmare Fredbear": {
-    "Type": "Single",
-    "Image": "rbxassetid://18978153260",
-    "Rarity": "Secret",
-    "PlacePrice": 5000,
-    "Offset": 0.7,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 120,
-        "Cooldown": 0.15
-      },
-      {
-        "Price": 6000,
-        "Range": 22,
-        "Damage": 200,
-        "Cooldown": 0.14
-      },
-      {
-        "Price": 7500,
-        "Range": 25,
-        "Damage": 300,
-        "Cooldown": 0.12
-      },
-      {
-        "Price": 9000,
-        "Range": 30,
-        "Damage": 400,
-        "Cooldown": 0.1
-      }
-    ]
-  },
-  "Nightmare Freddy": {
-    "Type": "Melee",
-    "Image": "rbxassetid://18975866920",
-    "Rarity": "Rare",
-    "PlacePrice": 750,
-    "Offset": 0.25,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 12,
-        "Damage": 200,
-        "Cooldown": 0.8
-      },
-      {
-        "Price": 800,
-        "Range": 13,
-        "Damage": 250,
-        "Cooldown": 0.8
-      },
-      {
-        "Price": 1250,
-        "Range": 14,
-        "Damage": 300,
-        "Cooldown": 0.7
-      },
-      {
-        "Price": 1800,
-        "Range": 15,
-        "Damage": 400,
-        "Cooldown": 0.5
-      }
-    ]
-  },
-  "NightMarionne": {
-    "Type": "AOE",
-    "Image": "rbxassetid://18975916197",
-    "Rarity": "Nightmare",
-    "PlacePrice": 48000,
-    "Offset": 0,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 30,
-        "Damage": 5250,
-        "Cooldown": 3
-      },
-      {
-        "Price": 24000,
-        "Range": 35,
-        "Damage": 6000,
-        "Cooldown": 3
-      },
-      {
-        "Price": 36000,
-        "Range": 40,
-        "Damage": 6750,
-        "Cooldown": 3
-      },
-      {
-        "Price": 48000,
-        "Range": 45,
-        "Damage": 7500,
-        "Cooldown": 3
-      }
-    ]
-  },
-  "Fredbear": {
-    "Type": "Support",
-    "Image": "rbxassetid://18977659349",
-    "Rarity": "Secret",
-    "PlacePrice": 600,
-    "Offset": 0,
-    "Max": 3,
-    "NoEnemyAttack": true,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 10,
-        "Cooldown": 1,
-        "RangeBoost": 1.1
-      },
-      {
-        "Price": 800,
-        "Range": 20,
-        "Damage": 10,
-        "Cooldown": 1,
-        "RangeBoost": 1.15
-      },
-      {
-        "Price": 1000,
-        "Range": 20,
-        "Damage": 10,
-        "Cooldown": 1,
-        "RangeBoost": 1.2
-      },
-      {
-        "Price": 1200,
-        "Range": 20,
-        "Damage": 10,
-        "Cooldown": 1,
-        "RangeBoost": 1.3
-      }
-    ]
-  },
-  "Nightmare Cupcake": {
-    "Type": "Single Slow",
-    "Image": "rbxassetid://18978229455",
-    "Rarity": "Epic",
-    "PlacePrice": 1500,
-    "Offset": 0,
-    "Max": 3,
-    "Passive": {
-      "Name": "Slow",
-      "Description": "Slows enemies"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 175,
-        "Slow": 0.6,
-        "Cooldown": 2
-      },
-      {
-        "Price": 2000,
-        "Range": 17,
-        "Damage": 200,
-        "Slow": 0.6,
-        "Cooldown": 1.85
-      },
-      {
-        "Price": 2500,
-        "Range": 18,
-        "Damage": 225,
-        "Slow": 0.6,
-        "Cooldown": 1.7
-      },
-      {
-        "Price": 3000,
-        "Range": 20,
-        "Damage": 250,
-        "Slow": 0.6,
-        "Cooldown": 1.5
-      }
-    ]
-  },
-  "Nightmare": {
-    "Type": "AOE Poison",
-    "Image": "rbxassetid://18977738423",
-    "Rarity": "Secret",
-    "PlacePrice": 10000,
-    "Offset": 0.5,
-    "Max": 3,
-    "Passive": {
-      "Name": "Poison",
-      "Description": "Poisons enemies"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 25,
-        "Damage": 700,
-        "Poison": 350,
-        "PoisonTime": 2,
-        "Cooldown": 3
-      },
-      {
-        "Price": 20000,
-        "Range": 27,
-        "Damage": 1000,
-        "Poison": 400,
-        "PoisonTime": 2,
-        "Cooldown": 2.5
-      },
-      {
-        "Price": 30000,
-        "Range": 32,
-        "Damage": 1000,
-        "Poison": 450,
-        "PoisonTime": 2,
-        "Cooldown": 2
-      },
-      {
-        "Price": 40000,
-        "Range": 35,
-        "Damage": 1250,
-        "Poison": 500,
-        "PoisonTime": 2,
-        "Cooldown": 1
-      }
-    ]
-  },
-  "Endo 04": {
-    "Type": "Cone AOE Burn",
-    "Image": "rbxassetid://18989232497",
-    "Rarity": "Secret",
-    "PlacePrice": 3000,
-    "Offset": 0,
-    "Max": 3,
-    "Passive": {
-      "Name": "Burn",
-      "Description": "Burns enemies"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 17,
-        "Damage": 300,
-        "Burn": 38,
-        "BurnTime": 1.2,
-        "Cooldown": 1
-      },
-      {
-        "Price": 4000,
-        "Range": 19,
-        "Damage": 400,
-        "Burn": 50,
-        "BurnTime": 1.2,
-        "Cooldown": 1
-      },
-      {
-        "Price": 5000,
-        "Range": 20,
-        "Damage": 500,
-        "Burn": 62,
-        "BurnTime": 1.2,
-        "Cooldown": 1
-      },
-      {
-        "Price": 6000,
-        "Range": 22,
-        "Damage": 600,
-        "Burn": 80,
-        "BurnTime": 1.2,
-        "Cooldown": 1
-      }
-    ]
-  },
-  "Nightmare Mangle": {
-    "Type": "AOE Poison",
-    "Image": "rbxassetid://18977428026",
-    "Rarity": "Nightmare",
-    "PlacePrice": 20000,
-    "Offset": -1,
-    "Max": 2,
-    "Passive": {
-      "Name": "Poison",
-      "Description": "Deals 200% damage in poison over 8 seconds"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 25,
-        "Damage": 2500,
-        "Poison": 450,
-        "PoisonTime": 8,
-        "Cooldown": 3
-      },
-      {
-        "Price": 20000,
-        "Range": 27,
-        "Damage": 3000,
-        "Poison": 500,
-        "PoisonTime": 8,
-        "Cooldown": 3
-      },
-      {
-        "Price": 25000,
-        "Range": 29,
-        "Damage": 4450,
-        "Poison": 650,
-        "PoisonTime": 8,
-        "Cooldown": 3
-      },
-      {
-        "Price": 30000,
-        "Range": 32,
-        "Damage": 5000,
-        "Poison": 700,
-        "PoisonTime": 8,
-        "Cooldown": 2.5
-      }
-    ]
-  },
-  "Nightmare Foxy": {
-    "Type": "Splash",
-    "Image": "rbxassetid://18974775213",
-    "Rarity": "Mythic",
-    "PlacePrice": 5000,
-    "Offset": 1,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 600,
-        "Cooldown": 3
-      },
-      {
-        "Price": 6500,
-        "Range": 24,
-        "Damage": 700,
-        "Cooldown": 2.85
-      },
-      {
-        "Price": 8000,
-        "Range": 27,
-        "Damage": 800,
-        "Cooldown": 2.7
-      },
-      {
-        "Price": 10000,
-        "Range": 30,
-        "Damage": 900,
-        "Cooldown": 2.5
-      }
-    ]
-  },
-  "Nightmare Bonnie": {
-    "Type": "AOE",
-    "Image": "rbxassetid://18975677946",
-    "Rarity": "Secret",
-    "PlacePrice": 5000,
-    "Offset": 0.25,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 1000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 20000,
-        "Range": 20,
-        "Damage": 1500,
-        "Cooldown": 2
-      },
-      {
-        "Price": 25000,
-        "Range": 23,
-        "Damage": 1500,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 30000,
-        "Range": 25,
-        "Damage": 2000,
-        "Cooldown": 1
-      }
-    ]
-  },
-  "Nightmare Chica": {
-    "Type": "Splash",
-    "Image": "rbxassetid://18975771590",
-    "Rarity": "Epic",
-    "PlacePrice": 4000,
-    "Offset": 0.25,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 500,
-        "Slow": 1.1,
-        "Cooldown": 3
-      },
-      {
-        "Price": 6000,
-        "Range": 15,
-        "Damage": 625,
-        "Slow": 1.2,
-        "Cooldown": 2.7
-      },
-      {
-        "Price": 7000,
-        "Range": 15,
-        "Damage": 750,
-        "Slow": 1.2,
-        "Cooldown": 2.4
-      },
-      {
-        "Price": 8000,
-        "Range": 20,
-        "Damage": 1000,
-        "Slow": 1.2,
-        "Cooldown": 2
-      }
-    ]
-  },
-
-  // ---------- Weekly Exclusives ----------
-  "Patriot Freddy": {
-    "Type": "Explosion",
-    "Image": "rbxassetid://18326604996",
-    "Rarity": "Secret",
-    "PlacePrice": 300,
-    "Max": 4,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Offset": 0.5,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 325,
-        "Cooldown": 3
-      },
-      {
-        "Price": 500,
-        "Range": 18,
-        "Damage": 480,
-        "Cooldown": 3
-      },
-      {
-        "Price": 800,
-        "Range": 20,
-        "Damage": 550,
-        "Cooldown": 2.75
-      },
-      {
-        "Price": 1200,
-        "Range": 22,
-        "Damage": 625,
-        "Cooldown": 2.5
-      }
-    ]
-  },
-  "The Crying Child": {
-    "Type": "AOE Slow",
-    "Image": "rbxassetid://18937271323",
-    "Rarity": "Secret",
-    "PlacePrice": 800,
-    "Offset": 0,
-    "Max": 2,
-    "Passive": {
-      "Name": "Slow",
-      "Description": "Slows enemies by 50-70%"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 22,
-        "Damage": 0,
-        "Cooldown": 0.05,
-        "Slow": 0.25
-      },
-      {
-        "Price": 1000,
-        "Range": 25,
-        "Damage": 0,
-        "Cooldown": 0.05,
-        "Slow": 0.2
-      },
-      {
-        "Price": 1400,
-        "Range": 27,
-        "Damage": 0,
-        "Cooldown": 0.05,
-        "Slow": 0.15
-      },
-      {
-        "Price": 1800,
-        "Range": 30,
-        "Damage": 0,
-        "Cooldown": 0.05,
-        "Slow": 0.1
-      },
-      {
-        "Price": 2000,
-        "Range": 32,
-        "Damage": 0,
-        "Cooldown": 0.05,
-        "Slow": 0.05
-      }
-    ]
-  },
   "Tarnished Spring Bonnie": {
     "Type": "Cone AOE + Passive",
     "Image": "rbxassetid://18777411515",
@@ -3519,6 +3901,390 @@
         "Wither": 1.1,
         "ShinyWither": 1.1,
         "WitherTime": 2
+      }
+    ]
+  },
+  "Phantom Puppet": {
+    "Type": "Pierce",
+    "Image": "rbxassetid://18363546528",
+    "Rarity": "Secret",
+    "PlacePrice": 15000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 18,
+        "Damage": 500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 17000,
+        "Range": 20,
+        "Damage": 800,
+        "Cooldown": 2
+      },
+      {
+        "Price": 20000,
+        "Range": 25,
+        "Damage": 1000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 25000,
+        "Range": 30,
+        "Damage": 1100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Scott": {
+    "Type": "AOE",
+    "Image": "rbxassetid://18864498819",
+    "Rarity": "Secret",
+    "PlacePrice": 7500,
+    "Offset": 1.25,
+    "Max": 1,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 2000,
+        "Cooldown": 4.5
+      },
+      {
+        "Price": 10000,
+        "Range": 28,
+        "Damage": 2300,
+        "Cooldown": 4
+      },
+      {
+        "Price": 15000,
+        "Range": 31,
+        "Damage": 2500,
+        "Cooldown": 3.5
+      },
+      {
+        "Price": 20000,
+        "Range": 34,
+        "Damage": 2800,
+        "Cooldown": 3
+      },
+      {
+        "Price": 25000,
+        "Range": 37,
+        "Damage": 4400,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 30000,
+        "Range": 37,
+        "Damage": 5000,
+        "Cooldown": 2.5
+      }
+    ]
+  },
+  "Spring Bonnie": {
+    "Type": "Support",
+    "Image": "rbxassetid://18364574191",
+    "Rarity": "Secret",
+    "PlacePrice": 1000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "NoEnemyAttack": true,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 25,
+        "Cooldown": 4,
+        "DamageBoost": 1.1
+      },
+      {
+        "Price": 1500,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 4,
+        "DamageBoost": 1.15
+      },
+      {
+        "Price": 2000,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 4,
+        "DamageBoost": 1.22
+      },
+      {
+        "Price": 2500,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 4,
+        "DamageBoost": 1.31
+      }
+    ]
+  },
+  "Bounded Shadow": {
+    "Type": "Pierce",
+    "Image": "rbxassetid://18363555442",
+    "Rarity": "Nightmare",
+    "PlacePrice": 12500,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 16,
+        "Damage": 1000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 15000,
+        "Range": 18,
+        "Damage": 1100,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 17000,
+        "Range": 20,
+        "Damage": 1250,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 22000,
+        "Range": 22,
+        "Damage": 1500,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Sentinel Bonnie": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://18363569957",
+    "Rarity": "Secret",
+    "PlacePrice": 3500,
+    "Offset": 0.35,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 15,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 5000,
+        "Range": 17,
+        "Damage": 30,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 6000,
+        "Range": 20,
+        "Damage": 50,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 7000,
+        "Range": 25,
+        "Damage": 75,
+        "Cooldown": 0.05
+      }
+    ]
+  },
+  "War Machine Foxy": {
+    "Type": "Continuous Cone AOE",
+    "Image": "rbxassetid://18363581536",
+    "Rarity": "Secret",
+    "PlacePrice": 3500,
+    "Offset": 0.45,
+    "Max": 4,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 75,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 5000,
+        "Range": 23,
+        "Damage": 100,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 6000,
+        "Range": 26,
+        "Damage": 125,
+        "Cooldown": 0.05
+      },
+      {
+        "Price": 10000,
+        "Range": 30,
+        "Damage": 175,
+        "Cooldown": 0.05
+      }
+    ]
+  },
+  "Sniper Cupcake": {
+    "Type": "Single",
+    "Image": "rbxassetid://18364281117",
+    "Rarity": "Rare",
+    "PlacePrice": 800,
+    "Max": 3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Offset": 5,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 140,
+        "Cooldown": 3
+      },
+      {
+        "Price": 1200,
+        "Range": 35,
+        "Damage": 240,
+        "Cooldown": 3
+      },
+      {
+        "Price": 1500,
+        "Range": 40,
+        "Damage": 400,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 2000,
+        "Range": 45,
+        "Damage": 500,
+        "Cooldown": 2
+      }
+    ]
+  },
+  "SpringTrap": {
+    "Type": "Pierce",
+    "Image": "rbxassetid://18356146630",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 1000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 15000,
+        "Range": 22,
+        "Damage": 1200,
+        "Cooldown": 1.3
+      },
+      {
+        "Price": 20000,
+        "Range": 25,
+        "Damage": 1600,
+        "Cooldown": 1.1
+      },
+      {
+        "Price": 25000,
+        "Range": 30,
+        "Damage": 5000,
+        "Cooldown": 0.9
+      }
+    ]
+  },
+  "Flame Empress Chica": {
+    "Type": "Nuke Burn",
+    "Image": "rbxassetid://18971134114",
+    "Rarity": "Secret",
+    "PlacePrice": 12500,
+    "Offset": 0.5,
+    "Max": 2,
+    "Passive": {
+      "Name": "Burn",
+      "Description": "Enemies take 100% burn damage over 3 seconds"
+    },
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 2500,
+        "Burn": 1000,
+        "BurnTime": 3,
+        "Cooldown": 2
+      },
+      {
+        "Price": 20000,
+        "Range": 28,
+        "Damage": 5000,
+        "Burn": 2000,
+        "BurnTime": 3,
+        "Cooldown": 2
+      },
+      {
+        "Price": 25000,
+        "Range": 31,
+        "Damage": 7500,
+        "Burn": 3000,
+        "BurnTime": 3,
+        "Cooldown": 2
+      },
+      {
+        "Price": 30000,
+        "Range": 34,
+        "Damage": 10000,
+        "Burn": 4000,
+        "BurnTime": 3,
+        "Cooldown": 2
+      },
+      {
+        "Price": 50000,
+        "Range": 38,
+        "Damage": 15000,
+        "Burn": 10000,
+        "BurnTime": 3,
+        "Cooldown": 2
       }
     ]
   },
@@ -3591,414 +4357,310 @@
       }
     ]
   },
-  "Snorkeler Withered Bonnie": {
-    "Type": "Single",
-    "Image": "rbxassetid://98332995917393",
-    "Rarity": "Secret",
-    "PlacePrice": 10000,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Offset": 0.25,
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 60,
-        "Cooldown": 0.1
-      },
-      {
-        "Price": 7000,
-        "Range": 20,
-        "Damage": 75,
-        "Cooldown": 0.1
-      },
-      {
-        "Price": 16000,
-        "Range": 25,
-        "Damage": 95,
-        "Cooldown": 0.1
-      },
-      {
-        "Price": 25000,
-        "Range": 35,
-        "Damage": 125,
-        "Cooldown": 0.1
-      }
-    ]
-  },
-  "Purple Guy": {
-    "Type": "Turret Spawner",
-    "Image": "rbxassetid://74846136473322",
-    "Rarity": "Secret",
-    "PlacePrice": 600,
-    "Offset": 0,
-    "Max": 3,
-    "Passive": {
-      "Name": "Animatronic Engineer",
-      "Description": "Spawns turrets that have 75 -> 200 DPS each"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 600,
-        "Cooldown": 1
-      },
-      {
-        "Price": 800,
-        "Range": 22,
-        "Damage": 700,
-        "Cooldown": 1,
-        "Turret1": {
-          "Range": 30,
-          "Damage": 7.5,
-          "Cooldown": 0.1
-        }
-      },
-      {
-        "Price": 1000,
-        "Range": 25,
-        "Damage": 800,
-        "Cooldown": 1,
-        "Turret1": {
-          "Range": 30,
-          "Damage": 10,
-          "Cooldown": 0.1
-        }
-      },
-      {
-        "Price": 1200,
-        "Range": 27,
-        "Damage": 900,
-        "Cooldown": 1,
-        "Turret1": {
-          "Range": 30,
-          "Damage": 15,
-          "Cooldown": 0.1
+  "Party Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://103160362573950",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
         },
-        "Turret2": {
-          "Range": 30,
-          "Damage": 15,
-          "Cooldown": 0.1
-        }
-      },
-      {
-        "Price": 1400,
-        "Range": 30,
-        "Damage": 1000,
-        "Cooldown": 1,
-        "Turret1": {
-          "Range": 30,
-          "Damage": 20,
-          "Cooldown": 0.1
-        },
-        "Turret2": {
-          "Range": 30,
-          "Damage": 20,
-          "Cooldown": 0.1
-        }
-      }
-    ]
+          "Upgrades": [
+              {
+                  "Price": 0,
+                  "Range": 15,
+                  "Damage": 100,
+                  "Cooldown": 1
+              },
+              {
+                  "Price": 700,
+                  "Range": 17,
+                  "Damage": 100,
+                  "Cooldown": 0.5
+              },
+              {
+                  "Price": 1000,
+                  "Range": 17,
+                  "Damage": 125,
+                  "Cooldown": 0.5
+              },
+              {
+                  "Price": 1200,
+                  "Range": 20,
+                  "Damage": 75,
+                  "Cooldown": 0.25
+              }
+          ]
+    },
+    "8-bit freddy": {
+  "Type": "Single",
+  "Image": "rbxassetid://90583921567940",
+  "Rarity": "Rare",
+  "PlacePrice": 500,
+  "Max": 4,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
-  "Scott": {
-    "Type": "AOE",
-    "Image": "rbxassetid://18864498819",
-    "Rarity": "Secret",
-    "PlacePrice": 7500,
-    "Offset": 1.25,
-    "Max": 1,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 16,
+      "Damage": 125,
+      "Cooldown": 1.25
     },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 25,
-        "Damage": 2000,
-        "Cooldown": 4.5
-      },
-      {
-        "Price": 10000,
-        "Range": 28,
-        "Damage": 2300,
-        "Cooldown": 4
-      },
-      {
-        "Price": 15000,
-        "Range": 31,
-        "Damage": 2500,
-        "Cooldown": 3.5
-      },
-      {
-        "Price": 20000,
-        "Range": 34,
-        "Damage": 2800,
-        "Cooldown": 3
-      },
-      {
-        "Price": 25000,
-        "Range": 37,
-        "Damage": 4400,
-        "Cooldown": 2.5
-      },
-      {
-        "Price": 30000,
-        "Range": 37,
-        "Damage": 5000,
-        "Cooldown": 2.5
-      }
-    ]
+    {
+      "Price": 500,
+      "Range": 17,
+      "Damage": 150,
+      "Cooldown": 1
+    },
+    {
+      "Price": 800,
+      "Range": 18,
+      "Damage": 200,
+      "Cooldown": 1
+    },
+    {
+      "Price": 1000,
+      "Range": 20,
+      "Damage": 250,
+      "Cooldown": 0.75
+    }
+  ]
+},
+"8-bit chica": {
+  "Type": "Explosion",
+  "Image": "rbxassetid://109884739323395",
+  "Rarity": "Epic",
+  "PlacePrice": 950,
+  "Max": 3,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
-
-  // ---------- EVO'S ----------
-  "Wraith Freddy": {
-    "Type": "AOE",
-    "Image": "rbxassetid://115627084338568",
-    "Rarity": "Secret",
-    "PlacePrice": 53000,
-    "Offset": 0,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 18,
+      "Damage": 400,
+      "Cooldown": 2
     },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 250,
-        "Cooldown": 0.25
-      },
-      {
-        "Price": 58000,
-        "Range": 22,
-        "Damage": 300,
-        "Cooldown": 0.25
-      },
-      {
-        "Price": 63000,
-        "Range": 25,
-        "Damage": 500,
-        "Cooldown": 0.25
-      },
-      {
-        "Price": 66000,
-        "Range": 28,
-        "Damage": 750,
-        "Cooldown": 0.25
-      }
-    ]
+    {
+      "Price": 1500,
+      "Range": 30,
+      "Damage": 300,
+      "Cooldown": 1
+    },
+    {
+      "Price": 2000,
+      "Range": 20,
+      "Damage": 350,
+      "Cooldown": 1
+    },
+    {
+      "Price": 3000,
+      "Range": 23,
+      "Damage": 350,
+      "Cooldown": 0.8
+    }
+  ]
+},
+"8-bit foxy": {
+  "Type": "Single",
+  "Image": "rbxassetid://73402729718184",
+  "Rarity": "Mythic",
+  "PlacePrice": 1500,
+  "Max": 2,
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
-  "Spectral Chica": {
-    "Type": "Splash",
-    "Image": "rbxassetid://130677986382080",
-    "Rarity": "Secret",
-    "PlacePrice": 30000,
-    "Offset": 0,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 21,
+      "Damage": 25,
+      "Cooldown": 0.25
     },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 2500,
-        "Cooldown": 3
-      },
-      {
-        "Price": 35000,
-        "Range": 23,
-        "Damage": 3000,
-        "Cooldown": 2.7
-      },
-      {
-        "Price": 40000,
-        "Range": 26,
-        "Damage": 4000,
-        "Cooldown": 2.4
-      },
-      {
-        "Price": 50000,
-        "Range": 30,
-        "Damage": 5000,
-        "Cooldown": 2
-      }
-    ]
+    {
+      "Price": 3000,
+      "Range": 22,
+      "Damage": 25,
+      "Cooldown": 0.2
+    },
+    {
+      "Price": 4000,
+      "Range": 23,
+      "Damage": 30,
+      "Cooldown": 0.15
+    },
+    {
+      "Price": 5000,
+      "Range": 24,
+      "Damage": 30,
+      "Cooldown": 0.05
+    }
+  ]
+},
+"8-bit bonnie": {
+  "Type": "Pierce",
+  "Image": "rbxassetid://71088939528114",
+  "Rarity": "Secret",
+  "PlacePrice": 7500,
+  "Max": 2,
+  "Passive": {
+    "Name": "Slow",
+    "Description": "Inflicts Slowness"
   },
-  "Agonized SpringTrap": {
-    "Type": "Pierce Spread",
-    "Image": "rbxassetid://132655301839150",
-    "Rarity": "Nightmare",
-    "PlacePrice": 66000,
-    "Offset": 0,
-    "Max": 1,
-    "Passive": {
-      "Name": "I Always Come Back",
-      "Description": "Attacks apply 60% Anti Bleed and 15% Wither to enemies for 2 seconds."
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 25,
-        "Damage": 10000,
-        "Cooldown": 2,
-        "Wither": 1.15,
-        "ShinyWither": 1.15,
-        "WitherTime": 2,
-        "Bleed": 0.4,
-        "BleedTime": 2
-      },
-      {
-        "Price": 77000,
-        "Range": 27,
-        "Damage": 14000,
-        "Cooldown": 2,
-        "Wither": 1.15,
-        "ShinyWither": 1.15,
-        "WitherTime": 2,
-        "Bleed": 0.4,
-        "BleedTime": 2
-      },
-      {
-        "Price": 88000,
-        "Range": 31,
-        "Damage": 17500,
-        "Cooldown": 2,
-        "Wither": 1.15,
-        "ShinyWither": 1.15,
-        "WitherTime": 2,
-        "Bleed": 0.4,
-        "BleedTime": 2
-      },
-      {
-        "Price": 99000,
-        "Range": 35,
-        "Damage": 24000,
-        "Cooldown": 2,
-        "Wither": 1.15,
-        "ShinyWither": 1.15,
-        "WitherTime": 2,
-        "Bleed": 0.4,
-        "BleedTime": 2
-      }
-    ]
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
-  "Limitless Shadow": {
-    "Type": "Cone AOE",
-    "Image": "rbxassetid://134973909366355",
-    "Rarity": "Nightmare",
-    "PlacePrice": 58000,
-    "Offset": 0,
-    "Max": 2,
-    "Passive": {
-      "Name": "Unnerving Presence",
-      "Description": "Deals +100% more damage if enemies are within 12 range of this unit."
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 20,
+      "Damage": 1000,
+      "Cooldown": 1.5,
+      "Slow": 0.25,
+      "SlowTime": 2
     },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+    {
+      "Price": 10000,
+      "Range": 22,
+      "Damage": 1500,
+      "Cooldown": 1.25,
+      "Slow": 0.25,
+      "SlowTime": 2
     },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 4000,
-        "Cooldown": 3
-      },
-      {
-        "Price": 54000,
-        "Range": 17,
-        "Damage": 4000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 62000,
-        "Range": 18,
-        "Damage": 5000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 88000,
-        "Range": 20,
-        "Damage": 4500,
-        "Cooldown": 1
-      }
-    ]
+    {
+      "Price": 25000,
+      "Range": 24,
+      "Damage": 2000,
+      "Cooldown": 1.25,
+      "Slow": 0.25,
+      "SlowTime": 2
+    },
+    {
+      "Price": 40000,
+      "Range": 25,
+      "Damage": 3000,
+      "Cooldown": 1,
+      "Slow": 0.25,
+      "SlowTime": 2
+    }
+  ]
+},
+"8-bit golden freddy": {
+  "Type": "Cone AOE",
+  "Image": "rbxassetid://81067428439517",
+  "Rarity": "Nightmare",
+  "PlacePrice": 25000,
+  "Max": 3,
+  "Passive": {
+    "Name": "Bleed",
+    "Description": "Inflicts Bleed"
   },
-  "Fractured Bonnie": {
-    "Type": "Continuous",
-    "Image": "rbxassetid://124956379444337",
-    "Rarity": "Secret",
-    "PlacePrice": 25000,
-    "Offset": 0,
-    "Max": 4,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 120,
-        "Cooldown": 0.1
-      },
-      {
-        "Price": 10000,
-        "Range": 24,
-        "Damage": 150,
-        "Cooldown": 0.1
-      },
-      {
-        "Price": 20000,
-        "Range": 27,
-        "Damage": 180,
-        "Cooldown": 0.1
-      },
-      {
-        "Price": 30000,
-        "Range": 30,
-        "Damage": 250,
-        "Cooldown": 0.1
-      },
-      {
-        "Price": 40000,
-        "Range": 35,
-        "Damage": 350,
-        "Cooldown": 0.1
-      }
-    ]
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
-  "Master Puppeteer": {
-        "Type": "Continuous Pierce",
-        "Image": "rbxassetid://139994062140962",
-        "Rarity": "Nightmare",
-        "PlacePrice": 25000,
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 30,
+      "Damage": 500,
+      "Cooldown": 0.5
+    },
+    {
+      "Price": 40000,
+      "Range": 35,
+      "Damage": 1000,
+      "Cooldown": 0.5
+    },
+    {
+      "Price": 50000,
+      "Range": 35,
+      "Damage": 1200,
+      "Cooldown": 0.3
+    },
+    {
+      "Price": 75000,
+      "Range": 40,
+      "Damage": 1500,
+      "Cooldown": 0.2
+    }
+  ]
+},
+"Astral Bonnie": {
+  "Type": "Continuous Splash",
+  "Image": "rbxassetid://73029306518155",
+  "Rarity": "Apex",
+  "PlacePrice": 20000,
+  "Offset": 0.5,
+  "Max": 3,
+  "Passive": {
+    "Name": "Nuclear Fission",
+    "Description": "Completely halts regen on targeted enemies"
+  },
+  "hitboxOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "Upgrades": [
+    {
+      "Price": 0,
+      "Range": 30,
+      "Damage": 200,
+      "Cooldown": 0.05,
+      "Bleed": 0,
+      "BleedTime": 10
+    },
+    {
+      "Price": 10000,
+      "Range": 32,
+      "Damage": 300,
+      "Cooldown": 0.05,
+      "Bleed": 0,
+      "BleedTime": 10
+    },
+    {
+      "Price": 25000,
+      "Range": 34,
+      "Damage": 350,
+      "Cooldown": 0.05,
+      "Bleed": 0,
+      "BleedTime": 10
+    },
+    {
+      "Price": 40000,
+      "Range": 40,
+      "Damage": 500,
+      "Cooldown": 0.05,
+      "Bleed": 0,
+      "BleedTime": 10
+    }
+  ]
+},
+    "Purple Guy": {
+        "Type": "Turret Spawner",
+        "Image": "rbxassetid://74846136473322",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
         "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Lethal Rebound", "Description": "Attacks hit enemies 10 times"},
+        "Max": 3,
+        "Passive": {"Name": "Animatronic Engineer", "Description": "Spawns turrets that have 75 -> 200 DPS each"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4007,523 +4669,94 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1000,
                 "Range": 25,
-                "Damage": 3750,
-                "Cooldown": 4
+                "Damage": 800,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
-           {
-                "Price": 15000,
+            {
+                "Price": 1200,
                 "Range": 27,
-                "Damage": 5500,
-                "Cooldown": 3
+                "Damage": 900,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
             },
-           {
-                "Price": 20000,
+            {
+                "Price": 1400,
                 "Range": 30,
-                "Damage": 9000,
-                "Cooldown": 3
-            },
-           {
-                "Price": 25000,
-                "Range": 33,
-                "Damage": 12000,
-                "Cooldown": 3
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 20, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 20, "Cooldown": 0.1}
             }
         ]
     },
-  "Tuned Mangle": {
-    "Type": "Splash",
-    "Image": "rbxassetid://139180573868562",
-    "Rarity": "Secret",
-    "PlacePrice": 15000,
-    "Offset": 0,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 1500,
-        "Cooldown": 2
-      },
-      {
-        "Price": 20000,
-        "Range": 23,
-        "Damage": 1900,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 25000,
-        "Range": 26,
-        "Damage": 1900,
-        "Cooldown": 1
-      },
-      {
-        "Price": 30000,
-        "Range": 30,
-        "Damage": 2500,
-        "Cooldown": 1
-      }
-    ]
-  },
-
-  // ---------- Halloween ----------
-  "Demon Freddy": {
-    "Type": "???",
-    "Image": "rbxassetid://122296021370620",
-    "Rarity": "Limited",
-    "PlacePrice": 6666,
-    "Max": 1,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 11,
-        "Damage": 9250,
-        "Cooldown": 6
-      },
-      {
-        "Price": 12222,
-        "Range": 13,
-        "Damage": 10000,
-        "Cooldown": 5
-      },
-      {
-        "Price": 24444,
-        "Range": 17,
-        "Damage": 10000,
-        "Cooldown": 4
-      },
-      {
-        "Price": 48888,
-        "Range": 22,
-        "Damage": 12500,
-        "Cooldown": 2.5
-      }
-    ]
-  },
-  "Clowntrap": {
-    "Type": "AOE",
-    "Image": "rbxassetid://98100058612651",
-    "Rarity": "Secret",
-    "PlacePrice": 8000,
-    "Offset": 0,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 2000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 10000,
-        "Range": 22,
-        "Damage": 2500,
-        "Cooldown": 2
-      },
-      {
-        "Price": 12000,
-        "Range": 24,
-        "Damage": 3000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 16000,
-        "Range": 25,
-        "Damage": 3500,
-        "Cooldown": 2
-      }
-    ]
-  },
-  "Dreadbear": {
-    "Type": "AOE",
-    "Image": "rbxassetid://71876084991999",
-    "Rarity": "Nightmare",
-    "PlacePrice": 15000,
-    "Offset": 0,
-    "Max": 2,
-    "Passive": {
-      "Name": "Frightful Terror",
-      "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 18,
-        "Damage": 3000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 20000,
-        "Range": 20,
-        "Damage": 2000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 25000,
-        "Range": 21,
-        "Damage": 2500,
-        "Cooldown": 2
-      },
-      {
-        "Price": 30000,
-        "Range": 22,
-        "Damage": 4000,
-        "Cooldown": 2
-      },
-      {
-        "Price": 35000,
-        "Range": 25,
-        "Damage": 5000,
-        "Cooldown": 1.5
-      }
-    ]
-  },
-  "Grimm Foxy": {
-    "Type": "Single",
-    "Image": "rbxassetid://101295016610509",
-    "Rarity": "Secret",
-    "PlacePrice": 500,
-    "Offset": 1,
-    "Max": 3,
-    "Passive": {
-      "Name": "Burn",
-      "Description": "Burns enemies at 125% over 2 seconds"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 800,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 400,
-        "Range": 22,
-        "Damage": 900,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 500,
-        "Range": 24,
-        "Damage": 1200,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 600,
-        "Range": 25,
-        "Damage": 1500,
-        "Cooldown": 1.5
-      }
-    ]
-  },
-  "Gravelord Foxy": {
-    "Type": "Summon",
-    "Image": "rbxassetid://76307842206911",
-    "Rarity": "Apex",
-    "PlacePrice": 20000,
-    "Offset": 0.5,
-    "Max": 4,
-    "Passive": {
-      "Name": "Necromancer",
-      "Description": "Summons spawns every 10 seconds that have health equal to 70 times this units damage"
-    },
-    "NoEnemyAttack": true,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 35,
-        "Damage": 3000,
-        "Unit": {
-          "Necro Spawn": 1,
-          "Necro Spawn 2": 0
+    "Goliath Endo Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://112659672284119",
+        "Rarity": "Nightmare",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
         },
-        "Health": 500,
-        "Cooldown": 2
-      },
-      {
-        "Price": 30000,
-        "Range": 40,
-        "Damage": 3600,
-        "Unit": {
-          "Necro Spawn": 1,
-          "Necro Spawn 2": 0
-        },
-        "Health": 500,
-        "Cooldown": 1.6
-      },
-      {
-        "Price": 40000,
-        "Range": 45,
-        "Damage": 4000,
-        "Unit": {
-          "Necro Spawn": 1,
-          "Necro Spawn 2": 0
-        },
-        "Health": 500,
-        "Cooldown": 1.3
-      },
-      {
-        "Price": 50000,
-        "Range": 50,
-        "Damage": 5000,
-        "Unit": {
-          "Necro Spawn": 1,
-          "Necro Spawn 2": 0
-        },
-        "Health": 50000,
-        "Cooldown": 1
-      }
-    ]
-  },
-  "Jack o Freddles": {
-    "Type": "Summoner",
-    "Image": "rbxassetid://124342440412969",
-    "Rarity": "Secret",
-    "PlacePrice": 700,
-    "Offset": 0,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 7500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 40000,
+                "Range": 32,
+                "Damage": 12500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 40000,
+                "Range": 35,
+                "Damage": 15000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 40000,
+                "Range": 38,
+                "Damage": 17000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 50000,
+                "Range": 40,
+                "Damage": 20000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 100000,
+                "Range": 42,
+                "Damage": 40000,
+                "Cooldown": 4
+            }
+        ]
     },
-    "Upgrades": [
-      {
-        "Price": 750,
-        "Range": 18,
-        "Damage": 800,
-        "SummonTime": 5,
-        "Unit": "Ghost Freddle",
-        "Health": 1500,
-        "Cooldown": 2
-      },
-      {
-        "Price": 900,
-        "Range": 19,
-        "Damage": 1300,
-        "SummonTime": 4,
-        "Unit": "Ghost Freddle",
-        "Health": 2000,
-        "Cooldown": 1.7
-      },
-      {
-        "Price": 1200,
-        "Range": 23,
-        "Damage": 2000,
-        "SummonTime": 3,
-        "Unit": "Zombie Freddle",
-        "Health": 3000,
-        "Cooldown": 1.5
-      },
-      {
-        "Price": 2500,
-        "Range": 28,
-        "Damage": 3400,
-        "SummonTime": 2,
-        "Unit": "Zombie Freddle",
-        "Health": 5600,
-        "Cooldown": 1.3
-      }
-    ]
-  },
-  "The Hallow": {
-    "Type": "???",
-    "Image": "rbxassetid://115164895793220",
-    "Rarity": "Limited",
-    "PlacePrice": 99999,
-    "Offset": 0,
-    "Max": 1,
-    "Passive": {
-      "Name": "Frightful Terror",
-      "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 17,
-        "Damage": 20000,
-        "Cooldown": 4
-      },
-      {
-        "Price": 25000,
-        "Range": 22,
-        "Damage": 30000,
-        "Cooldown": 4
-      },
-      {
-        "Price": 30000,
-        "Range": 24,
-        "Damage": 30000,
-        "Cooldown": 3
-      },
-      {
-        "Price": 40000,
-        "Range": 28,
-        "Damage": 50000,
-        "Cooldown": 3
-      }
-    ]
-  },
-  "Treatbit": {
-    "Type": "AOE",
-    "Image": "rbxassetid://135659548383102",
-    "Rarity": "Secret",
-    "PlacePrice": 500,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 22,
-        "Damage": 200,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 450,
-        "Range": 24,
-        "Damage": 250,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 700,
-        "Range": 26,
-        "Damage": 250,
-        "Cooldown": 0.4
-      },
-      {
-        "Price": 800,
-        "Range": 28,
-        "Damage": 250,
-        "Cooldown": 0.3
-      },
-      {
-        "Price": 1000,
-        "Range": 30,
-        "Damage": 250,
-        "Cooldown": 0.25
-      }
-    ]
-  },
-
-  // ---------- AFK ----------
-  "Glitched Puppeteer": {
-    "Type": "Splash",
-    "Image": "rbxassetid://18887217738",
-    "Rarity": "Nightmare",
-    "PlacePrice": 20000,
-    "Offset": 0.7,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 5000,
-        "Cooldown": 4
-      },
-      {
-        "Price": 25000,
-        "Range": 23,
-        "Damage": 6540,
-        "Cooldown": 3.7
-      },
-      {
-        "Price": 30000,
-        "Range": 26,
-        "Damage": 7900,
-        "Cooldown": 3.3
-      },
-      {
-        "Price": 40000,
-        "Range": 30,
-        "Damage": 9000,
-        "Cooldown": 3
-      }
-    ]
-  },
-  "Glitched CupCake": {
-    "Type": "AOE",
-    "Image": "rbxassetid://18888327109",
-    "Rarity": "Epic",
-    "PlacePrice": 1500,
-    "Offset": 0,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 15,
-        "Damage": 40,
-        "Cooldown": 0.7
-      },
-      {
-        "Price": 2000,
-        "Range": 17,
-        "Damage": 50,
-        "Cooldown": 0.6
-      },
-      {
-        "Price": 2500,
-        "Range": 18,
-        "Damage": 60,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 3000,
-        "Range": 20,
-        "Damage": 80,
-        "Cooldown": 0.35
-      }
-    ]
-  },
-  "Galleon Foxy": {
+     "Galleon Foxy": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://118548312954474",
         "Rarity": "Nightmare",
@@ -4564,6 +4797,51 @@
                 "Damage": 400,
                 "Cooldown": 0.2,
                 "Slow": 0.4
+            }
+        ]
+    },
+    "Rave Demon Bonnie": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://100372638867635",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Offset": 0.7,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 8000,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 12500,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 6000,
+                "Cooldown": 0.25
             }
         ]
     },
@@ -4614,303 +4892,54 @@
             }
         ]
     },
-
-  // ---------- Endless ----------
-  "Party Chica": {
-    "Type": "Splash",
-    "Image": "rbxassetid://103160362573950",
-    "Rarity": "Epic",
+  "Witch Toy Chica": {
+    "Type": "Poison",
+    "Image": "rbxassetid://18363391561",
+    "Rarity": "Secret",
     "PlacePrice": 500,
-    "Offset": 0.7,
     "Max": 3,
+    "Passive": {
+      "Name": "Lethal Potions",
+      "Description": "Deals 75% damage in poison over 3 seconds"
+    },
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
       "Z": 0
     },
+    "Offset": -0.4,
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 15,
-        "Damage": 100,
-        "Cooldown": 1
-      },
-      {
-        "Price": 700,
-        "Range": 17,
-        "Damage": 100,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 1000,
-        "Range": 17,
+        "Range": 22,
         "Damage": 125,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 1200,
-        "Range": 20,
-        "Damage": 75,
-        "Cooldown": 0.25
-      }
-    ]
-  },
-  "Goliath Endo Freddy": {
-    "Type": "AOE",
-    "Image": "rbxassetid://112659672284119",
-    "Rarity": "Nightmare",
-    "PlacePrice": 50000,
-    "Offset": 0,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 28,
-        "Damage": 7500,
-        "Cooldown": 3
-      },
-      {
-        "Price": 40000,
-        "Range": 32,
-        "Damage": 12500,
-        "Cooldown": 3
-      },
-      {
-        "Price": 40000,
-        "Range": 35,
-        "Damage": 15000,
-        "Cooldown": 3
-      },
-      {
-        "Price": 40000,
-        "Range": 38,
-        "Damage": 17000,
-        "Cooldown": 3
-      },
-      {
-        "Price": 50000,
-        "Range": 40,
-        "Damage": 20000,
-        "Cooldown": 4
-      },
-      {
-        "Price": 100000,
-        "Range": 42,
-        "Damage": 40000,
-        "Cooldown": 4
-      }
-    ]
-  },
-
-  // ---------- 8BIT ----------
-  "8-bit freddy": {
-    "Type": "Single",
-    "Image": "rbxassetid://90583921567940",
-    "Rarity": "Rare",
-    "PlacePrice": 500,
-    "Max": 4,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 16,
-        "Damage": 125,
-        "Cooldown": 1.25
-      },
-      {
-        "Price": 500,
-        "Range": 17,
-        "Damage": 150,
-        "Cooldown": 1
+        "Cooldown": 2.5,
+        "Poison": 80,
+        "PoisonLength": 3
       },
       {
         "Price": 800,
-        "Range": 18,
-        "Damage": 200,
-        "Cooldown": 1
+        "Range": 24,
+        "Damage": 180,
+        "Cooldown": 2.3,
+        "Poison": 120,
+        "PoisonLength": 3
       },
       {
         "Price": 1000,
-        "Range": 20,
-        "Damage": 250,
-        "Cooldown": 0.75
-      }
-    ]
-  },
-  "8-bit chica": {
-    "Type": "Explosion",
-    "Image": "rbxassetid://109884739323395",
-    "Rarity": "Epic",
-    "PlacePrice": 950,
-    "Max": 3,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 18,
-        "Damage": 400,
-        "Cooldown": 2
+        "Range": 28,
+        "Damage": 260,
+        "Cooldown": 2.2,
+        "Poison": 220,
+        "PoisonLength": 3
       },
       {
-        "Price": 1500,
-        "Range": 30,
-        "Damage": 300,
-        "Cooldown": 1
-      },
-      {
-        "Price": 2000,
-        "Range": 20,
-        "Damage": 350,
-        "Cooldown": 1
-      },
-      {
-        "Price": 3000,
-        "Range": 23,
-        "Damage": 350,
-        "Cooldown": 0.8
-      }
-    ]
-  },
-  "8-bit foxy": {
-    "Type": "Single",
-    "Image": "rbxassetid://73402729718184",
-    "Rarity": "Mythic",
-    "PlacePrice": 1500,
-    "Max": 2,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 21,
-        "Damage": 25,
-        "Cooldown": 0.25
-      },
-      {
-        "Price": 3000,
-        "Range": 22,
-        "Damage": 25,
-        "Cooldown": 0.2
-      },
-      {
-        "Price": 4000,
-        "Range": 23,
-        "Damage": 30,
-        "Cooldown": 0.15
-      },
-      {
-        "Price": 5000,
-        "Range": 24,
-        "Damage": 30,
-        "Cooldown": 0.05
-      }
-    ]
-  },
-  "8-bit bonnie": {
-    "Type": "Pierce",
-    "Image": "rbxassetid://71088939528114",
-    "Rarity": "Secret",
-    "PlacePrice": 7500,
-    "Max": 2,
-    "Passive": {
-      "Name": "Slow",
-      "Description": "Inflicts Slowness"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 1000,
-        "Cooldown": 1.5,
-        "Slow": 0.25,
-        "SlowTime": 2
-      },
-      {
-        "Price": 10000,
-        "Range": 22,
-        "Damage": 1500,
-        "Cooldown": 1.25,
-        "Slow": 0.25,
-        "SlowTime": 2
-      },
-      {
-        "Price": 25000,
-        "Range": 24,
-        "Damage": 2000,
-        "Cooldown": 1.25,
-        "Slow": 0.25,
-        "SlowTime": 2
-      },
-      {
-        "Price": 40000,
-        "Range": 25,
-        "Damage": 3000,
-        "Cooldown": 1,
-        "Slow": 0.25,
-        "SlowTime": 2
-      }
-    ]
-  },
-  "8-bit golden freddy": {
-    "Type": "Cone AOE",
-    "Image": "rbxassetid://81067428439517",
-    "Rarity": "Nightmare",
-    "PlacePrice": 25000,
-    "Max": 3,
-    "Passive": {
-      "Name": "Bleed",
-      "Description": "Inflicts Bleed"
-    },
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 30,
-        "Damage": 500,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 40000,
-        "Range": 35,
-        "Damage": 1000,
-        "Cooldown": 0.5
-      },
-      {
-        "Price": 50000,
-        "Range": 35,
-        "Damage": 1200,
-        "Cooldown": 0.3
-      },
-      {
-        "Price": 75000,
-        "Range": 40,
-        "Damage": 1500,
-        "Cooldown": 0.2
+        "Price": 1200,
+        "Range": 32,
+        "Damage": 420,
+        "Cooldown": 2,
+        "Poison": 400,
+        "PoisonLength": 3
       }
     ]
   }
