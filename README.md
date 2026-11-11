@@ -4794,7 +4794,7 @@
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 400,
+                "Damage": 350,
                 "Cooldown": 0.2,
                 "Slow": 0.4
             }
@@ -4816,32 +4816,32 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 2000,
-                "Cooldown": 0.25
+                "Damage": 1000,
+                "Cooldown": 1.5
             },
             {
                 "Price": 8000,
                 "Range": 20,
-                "Damage": 3000,
-                "Cooldown": 0.25
+                "Damage": 2000,
+                "Cooldown": 1.5
             },
             {
                 "Price": 10000,
                 "Range": 20,
-                "Damage": 4000,
-                "Cooldown": 0.25
+                "Damage": 2500,
+                "Cooldown": 1
             },
             {
                 "Price": 12500,
                 "Range": 25,
-                "Damage": 5000,
-                "Cooldown": 0.25
+                "Damage": 3000,
+                "Cooldown": 1
             },
             {
                 "Price": 15000,
                 "Range": 30,
-                "Damage": 6000,
-                "Cooldown": 0.25
+                "Damage": 3750,
+                "Cooldown": 1
             }
         ]
     },
@@ -4861,7 +4861,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
+                "Damage": 100,
                 "Poison": 350,
                 "PoisonTime": 3,
                 "Cooldown": 1
@@ -4869,7 +4869,7 @@
             {
                 "Price": 600,
                 "Range": 16,
-                "Damage": 35,
+                "Damage": 150,
                 "Poison": 350,
                 "PoisonTime": 3,
                 "Cooldown": 0.9
@@ -4877,7 +4877,7 @@
             {
                 "Price": 800,
                 "Range": 17,
-                "Damage": 40,
+                "Damage": 200,
                 "Poison": 350,
                 "PoisonTime": 3,
                 "Cooldown": 0.8
@@ -4885,7 +4885,7 @@
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 50,
+                "Damage": 300,
                 "Poison": 350,
                 "PoisonTime": 3,
                 "Cooldown": 0.7
