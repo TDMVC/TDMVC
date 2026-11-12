@@ -5758,6 +5758,102 @@
             }
         ]
     },
+     "Black Ice Freddy": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://86213031666835",
+        "Rarity": "Apex",
+        "PlacePrice": 30000,
+        "Offset": 0.65,
+        "Max": 2,
+        "Passive": {"Name": "Glacial Chill", "Description": "Enemies hit are slowed by 65%."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 12000,
+                "Cooldown": 2,
+                "Slow": 0.35,
+                "SlowTime": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 28,
+                "Damage": 15000,
+                "Cooldown": 1.8,
+                "Slow": 0.35,
+                "SlowTime": 1
+            },
+            {
+                "Price": 45000,
+                "Range": 31,
+                "Damage": 18000,
+                "Cooldown": 1.7,
+                "Slow": 0.35,
+                "SlowTime": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 21000,
+                "Cooldown": 1.5,
+                "Slow": 0.35,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Dark Frostbear": {
+        "Type": "Cone AOE Slow + Passive",
+        "Image": "rbxassetid://79281029634533",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": 0.25,
+        "Max": 3,
+        "Passive": {"Name": "Icicles", "Description": "Enemies hit by attacks proc a 50% AOE slow."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 1.2,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 500,
+                "Range": 24,
+                "Damage": 850,
+                "Cooldown": 1.1,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 26,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 27,
+                "Damage": 1300,
+                "Cooldown": 1,
+                "Slow": 0.5,
+                "SlowTime": 1
+            }
+        ]
+    },
   "Witch Toy Chica": {
     "Type": "Poison",
     "Image": "rbxassetid://18363391561",
