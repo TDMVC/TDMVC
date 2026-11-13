@@ -5242,7 +5242,7 @@
 "Music Man": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://77906930997624",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
@@ -5418,7 +5418,7 @@
     "Reactor Freddy": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 2,
