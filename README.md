@@ -753,7 +753,7 @@
                 "Damage": 10000,
                 "Cooldown": 2,
                 "Wither": 1.15,
-                "ShinyWither": 1.15,
+                "ShinyWither": 1.25,
                 "WitherTime": 2,
                 "Bleed": 0.4,
                 "BleedTime": 2
@@ -764,7 +764,7 @@
                 "Damage": 14000,
                 "Cooldown": 2,
                 "Wither": 1.15,
-                "ShinyWither": 1.15,
+                "ShinyWither": 1.25,
                 "WitherTime": 2,
                 "Bleed": 0.4,
                 "BleedTime": 2
@@ -775,7 +775,7 @@
                 "Damage": 17500,
                 "Cooldown": 2,
                 "Wither": 1.15,
-                "ShinyWither": 1.15,
+                "ShinyWither": 1.25,
                 "WitherTime": 2,
                 "Bleed": 0.4,
                 "BleedTime": 2
@@ -786,7 +786,7 @@
                 "Damage": 20000,
                 "Cooldown": 2,
                 "Wither": 1.15,
-                "ShinyWither": 1.15,
+                "ShinyWither": 1.25,
                 "WitherTime": 2,
                 "Bleed": 0.4,
                 "BleedTime": 2
