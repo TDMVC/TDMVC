@@ -688,6 +688,51 @@
       }
     ]
   },
+  "Valkyrie Prime": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://136035340656184",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 125000,
+                "Range": 25,
+                "Damage": 12500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 150000,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 175000,
+                "Range": 35,
+                "Damage": 17500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 200000,
+                "Range": 40,
+                "Damage": 20000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
   "Agonized SpringTrap": {
         "Type": "Pierce Spread",
         "Image": "rbxassetid://132655301839150",
