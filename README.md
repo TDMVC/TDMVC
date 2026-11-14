@@ -739,7 +739,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 66000,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
         "Passive": {"Name": "I Always Come Back", "Description": "Attacks apply 60% Anti Bleed and 15% Wither to enemies for 2 seconds."},
         "hitboxOffset": {
             "X": 0,
@@ -783,7 +783,7 @@
             {
                 "Price": 99000,
                 "Range": 35,
-                "Damage": 24000,
+                "Damage": 20000,
                 "Cooldown": 2,
                 "Wither": 1.15,
                 "ShinyWither": 1.15,
