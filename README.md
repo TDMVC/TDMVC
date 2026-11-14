@@ -4790,13 +4790,13 @@
             {
                 "Price": 50000,
                 "Range": 40,
-                "Damage": 40000,
+                "Damage": 35000,
                 "Cooldown": 4
             },
             {
                 "Price": 100000,
                 "Range": 42,
-                "Damage": 60000,
+                "Damage": 50000,
                 "Cooldown": 4
             }
         ]
