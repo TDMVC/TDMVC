@@ -737,7 +737,7 @@
         "Type": "Pierce Spread",
         "Image": "rbxassetid://132655301839150",
         "Rarity": "Nightmare",
-        "PlacePrice": 66000,
+        "PlacePrice": 44000,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "I Always Come Back", "Description": "Attacks apply 60% Anti Bleed and 15% Wither to enemies for 2 seconds."},
@@ -759,7 +759,7 @@
                 "BleedTime": 2
             },
             {
-                "Price": 77000,
+                "Price": 44000,
                 "Range": 27,
                 "Damage": 14000,
                 "Cooldown": 2,
@@ -770,10 +770,10 @@
                 "BleedTime": 2
             },
             {
-                "Price": 88000,
+                "Price": 55000,
                 "Range": 31,
                 "Damage": 17500,
-                "Cooldown": 2,
+                "Cooldown": 1.5,
                 "Wither": 1.15,
                 "ShinyWither": 1.25,
                 "WitherTime": 2,
@@ -781,10 +781,10 @@
                 "BleedTime": 2
             },
             {
-                "Price": 99000,
+                "Price": 66000,
                 "Range": 35,
                 "Damage": 20000,
-                "Cooldown": 2,
+                "Cooldown": 1.5,
                 "Wither": 1.15,
                 "ShinyWither": 1.25,
                 "WitherTime": 2,
