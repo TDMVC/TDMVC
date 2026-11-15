@@ -120,7 +120,7 @@
     "Image": "rbxassetid://138114871531482",
     "Rarity": "Nightmare",
     "PlacePrice": 20000,
-    "Max": 2,
+    "Max": 1,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -131,31 +131,31 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 500,
+        "Damage": 1500,
         "Cooldown": 1
       },
       {
         "Price": 10000,
         "Range": 15,
-        "Damage": 1250,
+        "Damage": 2250,
         "Cooldown": 0.7
       },
       {
         "Price": 25000,
         "Range": 20,
-        "Damage": 1500,
+        "Damage": 4000,
         "Cooldown": 0.5
       },
       {
         "Price": 30000,
         "Range": 26,
-        "Damage": 1750,
+        "Damage": 5250,
         "Cooldown": 0.5
       },
       {
         "Price": 50000,
         "Range": 30,
-        "Damage": 2250,
+        "Damage": 7000,
         "Cooldown": 0.5
       }
     ]
@@ -4818,29 +4818,29 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 200,
-                "Cooldown": 0.4,
+                "Damage": 150,
+                "Cooldown": 0.05,
                 "Slow": 0.4
             },
             {
                 "Price": 12500,
                 "Range": 24,
-                "Damage": 250,
-                "Cooldown": 0.4,
+                "Damage": 200,
+                "Cooldown": 0.05,
                 "Slow": 0.4
             },
             {
                 "Price": 15000,
                 "Range": 27,
-                "Damage": 300,
-                "Cooldown": 0.3,
+                "Damage": 250,
+                "Cooldown": 0.05,
                 "Slow": 0.4
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 350,
-                "Cooldown": 0.2,
+                "Damage": 300,
+                "Cooldown": 0.05,
                 "Slow": 0.4
             }
         ]
