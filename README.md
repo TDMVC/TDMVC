@@ -4670,7 +4670,9 @@
       "Damage": 400,
       "Cooldown": 0.1,
       "Bleed": 0,
-      "BleedTime": 10
+      "BleedTime": 10,
+      "SplashRadius": 8,
+      "SplashDamage": 0.25
     },
     {
       "Price": 10000,
@@ -4678,7 +4680,9 @@
       "Damage": 500,
       "Cooldown": 0.1,
       "Bleed": 0,
-      "BleedTime": 10
+      "BleedTime": 10,
+      "SplashRadius": 9,
+      "SplashDamage": 0.3
     },
     {
       "Price": 25000,
@@ -4686,7 +4690,9 @@
       "Damage": 750,
       "Cooldown": 0.1,
       "Bleed": 0,
-      "BleedTime": 10
+      "BleedTime": 10,
+      "SplashRadius": 10,
+      "SplashDamage": 0.35
     },
     {
       "Price": 40000,
@@ -4694,7 +4700,9 @@
       "Damage": 1200,
       "Cooldown": 0.1,
       "Bleed": 0,
-      "BleedTime": 10
+      "BleedTime": 10,
+      "SplashRadius": 12,
+      "SplashDamage": 0.4
     }
   ]
 },
