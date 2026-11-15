@@ -5947,7 +5947,7 @@
         ]
     },
     "Jolly Shadow Bonnie": {
-        "Type": "AOE + Slow",
+        "Type": "AOE",
         "Image": "rbxassetid://89683904091075",
         "Rarity": "Nightmare",
         "PlacePrice": 22000,
