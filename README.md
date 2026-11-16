@@ -6173,6 +6173,45 @@
             }
         ]
     },
+    "AftonGuy": {
+        "Type": "Single",
+        "Image": "rbxassetid://108369173193310",
+        "Rarity": "Secret",
+        "PlacePrice": 1500,
+        "Offset": -1,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 140,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 180,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 240,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2500,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 0.5
+            }
+        ]
+    },
   "Witch Toy Chica": {
     "Type": "Poison",
     "Image": "rbxassetid://18363391561",
