@@ -6173,8 +6173,9 @@
             }
         ]
     },
-    "AftonGuy": {
-        "Type": "Single",
+    "Glitched Purple Guy": {
+        "Type": "Cone AOE + Slow",
+        "Passive": {"Name": "Glithced Slownes", "Description": "Slows Enemies by 50%"},
         "Image": "rbxassetid://108369173193310",
         "Rarity": "Secret",
         "PlacePrice": 1500,
