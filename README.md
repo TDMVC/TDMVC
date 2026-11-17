@@ -6173,14 +6173,14 @@
             }
         ]
     },
-    "Glitched Purple Guy": {
+"Glitched Purple Guy": {
         "Type": "Cone AOE + Slow",
         "Passive": {"Name": "Glithced Slownes", "Description": "Slows Enemies by 50%"},
         "Image": "rbxassetid://108369173193310",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 1500,
         "Offset": -1,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -6188,28 +6188,34 @@
         },
         "Upgrades": [
             {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 140,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 1500,
-                "Range": 20,
-                "Damage": 180,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 2000,
-                "Range": 20,
-                "Damage": 240,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 2500,
-                "Range": 20,
+                "Price": 12500,
+                "Range": 15,
                 "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 500,
                 "Cooldown": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 700,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 35000,
+                "Range": 35,
+                "Damage": 1800,
+                "Cooldown": 0.05
             }
         ]
     },
