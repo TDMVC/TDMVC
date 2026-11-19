@@ -6178,9 +6178,9 @@
         "Passive": {"Name": "Glithced Slownes", "Description": "Slows Enemies by 50%"},
         "Image": "rbxassetid://108369173193310",
         "Rarity": "Nightmare",
-        "PlacePrice": 1500,
+        "PlacePrice": 17500,
         "Offset": -1,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -6202,20 +6202,20 @@
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 700,
+                "Damage": 900,
                 "Cooldown": 0.25
             },
             {
                 "Price": 25000,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 0.1
+                "Damage": 1350,
+                "Cooldown": 0.25
             },
             {
                 "Price": 35000,
                 "Range": 35,
-                "Damage": 1800,
-                "Cooldown": 0.05
+                "Damage": 2200,
+                "Cooldown": 0.2
             }
         ]
     },
