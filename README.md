@@ -3041,20 +3041,20 @@
       {
         "Price": 24000,
         "Range": 35,
-        "Damage": 6000,
+        "Damage": 11250,
         "Cooldown": 3
       },
       {
         "Price": 36000,
         "Range": 40,
-        "Damage": 6750,
-        "Cooldown": 3
+        "Damage": 22000,
+        "Cooldown": 2
       },
       {
         "Price": 48000,
         "Range": 45,
-        "Damage": 7500,
-        "Cooldown": 3
+        "Damage": 37500,
+        "Cooldown": 2
       }
     ]
   },
