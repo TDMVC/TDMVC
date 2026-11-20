@@ -4192,7 +4192,7 @@
       {
         "Price": 10000,
         "Range": 30,
-        "Damage": 175,
+        "Damage": 220,
         "Cooldown": 0.05
       }
     ]
