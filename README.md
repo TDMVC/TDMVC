@@ -5730,7 +5730,7 @@
         "PlacePrice": 11340,
         "Offset": 0.5,
         "Max": 1,
-        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1.5 seconds."},
+        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x6 damage to bosses and true stuns them for 1.5 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
