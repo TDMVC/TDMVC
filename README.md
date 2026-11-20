@@ -6219,6 +6219,45 @@
             }
         ]
     },
+    "FrostKing Foxy": {
+    "Type": "Single",
+    "Image": "rbxassetid://132241061239126",
+    "Rarity": "Apex",
+    "PlacePrice": 300,
+    "Max": 8,
+    "Offset": 0.3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 20,
+        "Cooldown": 1.01
+      },
+      {
+        "Price": 500,
+        "Range": 12,
+        "Damage": 25,
+        "Cooldown": 1
+      },
+      {
+        "Price": 750,
+        "Range": 14,
+        "Damage": 30,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1250,
+        "Range": 15,
+        "Damage": 30,
+        "Cooldown": 0.75
+      }
+    ]
+  },
   "Witch Toy Chica": {
     "Type": "Poison",
     "Image": "rbxassetid://18363391561",
