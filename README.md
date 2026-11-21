@@ -3047,8 +3047,8 @@
       {
         "Price": 36000,
         "Range": 40,
-        "Damage": 22000,
-        "Cooldown": 2
+        "Damage": 15000,
+        "Cooldown": 3
       },
       {
         "Price": 48000,
