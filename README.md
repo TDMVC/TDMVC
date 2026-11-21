@@ -2628,13 +2628,13 @@
     ]
   },
   "The Crying Child": {
-        "Type": "AOE Slow",
+        "Type": "Slow",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Secret",
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 75%-95%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
