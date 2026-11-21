@@ -5670,7 +5670,7 @@
             {
                 "Price": 50000,
                 "Range": 35,
-                "Damage": 2500,
+                "Damage": 3000,
                 "Cooldown": 0.2
             }
         ]
