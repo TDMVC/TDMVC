@@ -783,7 +783,7 @@
             {
                 "Price": 66000,
                 "Range": 35,
-                "Damage": 20000,
+                "Damage": 25000,
                 "Cooldown": 2,
                 "Wither": 1.15,
                 "ShinyWither": 1.25,
