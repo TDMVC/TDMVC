@@ -3478,37 +3478,37 @@
       "Price": 0,
       "Range": 15,
       "Damage": 500,
-      "SummonTime": 10,
+      "SummonTime": 5,
       "Unit": "Helper Freddle",
       "Health": 500,
-      "Cooldown": 10
+      "Cooldown": 7
     },
     {
       "Price": 500,
       "Range": 15,
       "Damage": 1000,
-      "SummonTime": 10,
+      "SummonTime": 5,
       "Unit": "Helper Freddle",
       "Health": 1000,
-      "Cooldown": 9
+      "Cooldown": 5
     },
     {
       "Price": 1500,
       "Range": 15,
       "Damage": 2000,
-      "SummonTime": 10,
+      "SummonTime": 5,
       "Unit": "Helper Freddle",
       "Health": 2000,
-      "Cooldown": 8
+      "Cooldown": 5
     },
     {
       "Price": 2500,
       "Range": 15,
       "Damage": 3000,
-      "SummonTime": 10,
+      "SummonTime": 5,
       "Unit": "Helper Freddle",
       "Health": 3000,
-      "Cooldown": 7
+      "Cooldown": 5
     }
   ]
 },
