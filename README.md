@@ -361,7 +361,7 @@
     "Type": "Melee",
     "Image": "rbxassetid://138512558080561",
     "Rarity": "Rare",
-    "PlacePrice": 50,
+    "PlacePrice": 400,
     "Offset": 0.65,
     "Max": 10,
     "hitboxOffset": {
@@ -373,7 +373,7 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 125,
+        "Damage": 200,
         "Cooldown": 1.5
       }
     ]
