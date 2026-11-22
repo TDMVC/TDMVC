@@ -5061,28 +5061,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.99
             },
             {
                 "Price": 1500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "CooldownBoost": 0.95
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8
+                "CooldownBoost": 0.9
             },
             {
                 "Price": 2500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.76
+                "CooldownBoost": 0.86
             }
         ]
     },
@@ -5997,7 +5997,7 @@
     "Frost Queen Ballora": {
         "Type": "Cooldown Boost + Passive",
         "Image": "rbxassetid://134318454455185",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 1200,
         "Offset": 0.5,
         "Max": 3,
@@ -6014,7 +6014,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.85,
+                "CooldownBoost": 0.75,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -6023,7 +6023,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.8,
+                "CooldownBoost": 0.65,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -6032,7 +6032,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.75,
+                "CooldownBoost": 0.6,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -6041,7 +6041,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.7,
+                "CooldownBoost": 0.5,
                 "Slow": 0.60,
                 "SlowTime": 1
             }
