@@ -6014,7 +6014,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.75,
+                "CooldownBoost": 1.75,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -6023,7 +6023,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.65,
+                "CooldownBoost": 1.65,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -6032,7 +6032,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.6,
+                "CooldownBoost": 1.6,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -6041,7 +6041,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.5,
+                "CooldownBoost": 1.5,
                 "Slow": 0.60,
                 "SlowTime": 1
             }
