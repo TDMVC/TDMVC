@@ -6309,8 +6309,7 @@
       }
     ]
   }
-}
-    },
+ },
 "Mad Snowman": {
     "Type": "Support",
     "Image": "rbxassetid://139272703294301",
