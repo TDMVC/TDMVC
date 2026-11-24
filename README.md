@@ -6310,3 +6310,89 @@
     ]
   }
 }
+"Mad Snowman": {
+    "Type": "Support",
+    "Image": "",
+    "Rarity": "Secret",
+    "PlacePrice": 0,
+    "Max": 2,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "NoEnemyAttack": true,
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 25,
+        "Cooldown": 4,
+        "DamageBoost": 1.2
+      },
+      {
+        "Price": 1500,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 4,
+        "DamageBoost": 1.25
+      },
+      {
+        "Price": 2000,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 4,
+        "DamageBoost": 1.27
+      },
+      {
+        "Price": 2500,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 4,
+        "DamageBoost": 1.35
+      }
+    ]
+  },
+  "Happy Snowman": {
+    "Type": "Support",
+    "Image": "rbxassetid://18978316223",
+    "Rarity": "Secret",
+    "PlacePrice": 1500,
+    "Offset": 0,
+    "Max": 3,
+    "NoEnemyAttack": true,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "RangeBoost": 1.19
+      },
+      {
+        "Price": 800,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "RangeBoost": 1.21
+      },
+      {
+        "Price": 1200,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "RangeBoost": 1.24
+      },
+      {
+        "Price": 1500,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "RangeBoost": 1.27
+      }
+    ]
