@@ -6308,7 +6308,6 @@
         "PoisonLength": 3
       }
     ]
-  }
  },
 "Mad Snowman": {
     "Type": "Support",
@@ -6396,4 +6395,5 @@
         "RangeBoost": 1.27
       }
     ]
-  },
+  }
+ }
