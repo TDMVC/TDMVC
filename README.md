@@ -6312,7 +6312,7 @@
 }
 "Mad Snowman": {
     "Type": "Support",
-    "Image": "",
+    "Image": "rbxassetid://139272703294301",
     "Rarity": "Secret",
     "PlacePrice": 0,
     "Max": 2,
@@ -6355,7 +6355,7 @@
   },
   "Happy Snowman": {
     "Type": "Support",
-    "Image": "rbxassetid://18978316223",
+    "Image": "rbxassetid://94940168581588",
     "Rarity": "Secret",
     "PlacePrice": 1500,
     "Offset": 0,
