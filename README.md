@@ -5582,7 +5582,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Offset": 0,
-        "Max": 3,
+        "Max": 4,
         "Passive": {"Name": "Infected Circuit", "Description": "Attacks apply 15% Anti Bleed and 7.5 Wither for 1 second"},
         "hitboxOffset": {
             "X": 0,
