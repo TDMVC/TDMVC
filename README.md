@@ -3323,7 +3323,7 @@
     {
       "Price": 20000,
       "Range": 27,
-      "Damage": 3000,
+      "Damage": 5000,
       "Poison": 500,
       "PoisonTime": 8,
       "Cooldown": 3
@@ -3331,7 +3331,7 @@
     {
       "Price": 25000,
       "Range": 29,
-      "Damage": 4450,
+      "Damage": 7500,
       "Poison": 650,
       "PoisonTime": 8,
       "Cooldown": 3
@@ -3339,7 +3339,7 @@
     {
       "Price": 30000,
       "Range": 32,
-      "Damage": 5000,
+      "Damage": 10000,
       "Poison": 700,
       "PoisonTime": 8,
       "Cooldown": 2.5
