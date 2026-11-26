@@ -2969,13 +2969,13 @@
       {
         "Price": 30000,
         "Range": 24,
-        "Damage": 30000,
+        "Damage": 60000,
         "Cooldown": 3
       },
       {
         "Price": 40000,
         "Range": 28,
-        "Damage": 50000,
+        "Damage": 90000,
         "Cooldown": 3
       }
     ]
